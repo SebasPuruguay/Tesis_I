@@ -3070,21 +3070,21 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">biblio/references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">cr_gestion2015emprendper</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">cr_gestion2018emprend</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">cr_gestion2018emprend</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">cr_gestion2018emprend</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">cr_aep2018emprend</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">cr_sandoval_barreras</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">cr_uc_crowdfunding</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">cr_lopezgolan2017crowdfunding</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">cr_sl_crowdfundlatam</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">cr_fernandezbedoya2020colecoperu</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">cr_stokes2014coleco</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">cr_kickstarter_about</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">cr_kickstarter_founding</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">cr_kickstarter_press</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">cr_hustle2019successrate</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">cr_elcomercioproduccionpapa</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">fao_importancia_papa</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">minagri_estadisticas_2022</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">cr_agroinforma1</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">inei_cenagro_2022</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">cr_rancha1</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">cr_rancha2</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">cr_rancha1</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">cr_rancha6</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">cr_rancha3</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">cr_rancha4</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">cr_rancha5</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">cr_agroinforma2</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">cr_iaplanta</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">cr_iaplanta2</bcf:citekey>
     <bcf:citekey order="16" intorder="1">pr_lee2018contentDL</bcf:citekey>
     <bcf:citekey order="17" intorder="1">pr_cheng2019deeplearning</bcf:citekey>
     <bcf:citekey order="18" intorder="1">pr_chen2013kickpredict</bcf:citekey>
