@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.9)  21 APR 2024 15:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.9)  27 APR 2024 20:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1740,6 +1740,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [7]
+Overfull \hbox (43.36215pt too wide) in paragraph at lines 73--73
+[]\OT1/ptm/m/n/12 PE1:  ?`C[]omo po-de-mos de-sa-rro-llar un sis-te-ma de cla-s
+i-fi-ca-ci[]on au-tom[]ati-ca de -an-cha"Phytophthora
+ []
+
+
+Overfull \hbox (0.76295pt too wide) in paragraph at lines 76--77
+[]\OT1/ptm/m/n/12 PE4:  ?`C[]omo re-du-cir el tiem-po de pro-ce-sa-mien-to re-q
+ue-ri-do pa-ra ana-li-zar gran-des vol[]ume-
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 19.61925pt, for example:
@@ -1749,20 +1760,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [8]
+Overfull \hbox (26.77327pt too wide) in paragraph at lines 133--134
+\OT1/ptm/m/n/12 im[]age-nes per-mi-tir[]a de-sa-rro-llar un sis-te-ma de cla-si
+-fi-ca-ci[]on au-tom[]ati-ca de -an-cha"Phytophthora
+ []
+
 
 LaTeX Warning: Citation 'pr_lee2018contentDL' on page 9 undefined on input line
- 134.
+ 144.
 
 LaTeX Font Info:    Trying to load font information for OML+ptm on input line 1
-34.
+44.
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlptm.fd
 File: omlptm.fd 
 )
 LaTeX Font Info:    Font shape `OML/ptm/b/n' in size <12> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 134.
+(Font)              Font shape `OML/cmm/b/it' tried instead on input line 144.
 
 
-LaTeX Warning: Citation '' on page 9 undefined on input line 134.
+LaTeX Warning: Citation '' on page 9 undefined on input line 144.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1775,10 +1791,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [9]
 
 LaTeX Warning: Citation 'pr_cheng2019deeplearning' on page 10 undefined on inpu
-t line 136.
+t line 146.
 
 
-LaTeX Warning: Citation '' on page 10 undefined on input line 136.
+LaTeX Warning: Citation '' on page 10 undefined on input line 146.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1823,7 +1839,7 @@ Overfull \hbox (0.13953pt too wide) in paragraph at lines 11--12
 ca-ci[]on en An-dro-id pa-ra la b[]usque-
  []
 
-<2/figures/chen2013.jpg, id=891, 732.93825pt x 464.33475pt>
+<2/figures/chen2013.jpg, id=890, 732.93825pt x 464.33475pt>
 File: 2/figures/chen2013.jpg Graphic file (type jpg)
 <use 2/figures/chen2013.jpg>
 Package pdftex.def Info: 2/figures/chen2013.jpg  used on input line 15.
@@ -1875,13 +1891,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [13 <./2/figures/chen2013.jpg>]
-<2/figures/mitra2014_resultadoA.jpg, id=903, 835.923pt x 495.0495pt>
+<2/figures/mitra2014_resultadoA.jpg, id=902, 835.923pt x 495.0495pt>
 File: 2/figures/mitra2014_resultadoA.jpg Graphic file (type jpg)
 <use 2/figures/mitra2014_resultadoA.jpg>
 Package pdftex.def Info: 2/figures/mitra2014_resultadoA.jpg  used on input line
  35.
 (pdftex.def)             Requested size: 203.83434pt x 120.71031pt.
-<2/figures/mitra2014_resultadoB.jpg, id=904, 850.377pt x 493.845pt>
+<2/figures/mitra2014_resultadoB.jpg, id=903, 850.377pt x 493.845pt>
 File: 2/figures/mitra2014_resultadoB.jpg Graphic file (type jpg)
 <use 2/figures/mitra2014_resultadoB.jpg>
 Package pdftex.def Info: 2/figures/mitra2014_resultadoB.jpg  used on input line
@@ -1916,7 +1932,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [14 <./2/figures/mitra2014_resultadoA.jpg> <./2/figures/mitra2014_resultadoB.jp
 g>]
-<2/figures/zhou2015.jpg, id=910, 515.526pt x 478.1865pt>
+<2/figures/zhou2015.jpg, id=909, 515.526pt x 478.1865pt>
 File: 2/figures/zhou2015.jpg Graphic file (type jpg)
 <use 2/figures/zhou2015.jpg>
 Package pdftex.def Info: 2/figures/zhou2015.jpg  used on input line 58.
@@ -1955,7 +1971,7 @@ Overfull \hbox (60.32112pt too wide) in paragraph at lines 66--67
  2015, [][]
  []
 
-<2/figures/chen2015.jpg, id=916, 1014.79124pt x 304.7385pt>
+<2/figures/chen2015.jpg, id=915, 1014.79124pt x 304.7385pt>
 File: 2/figures/chen2015.jpg Graphic file (type jpg)
 <use 2/figures/chen2015.jpg>
 Package pdftex.def Info: 2/figures/chen2015.jpg  used on input line 76.
@@ -1998,7 +2014,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [17 <./2/figures/chen2015.jpg>]
-<2/figures/beckwith2016.jpg, id=926, 624.53325pt x 475.7775pt>
+<2/figures/beckwith2016.jpg, id=925, 624.53325pt x 475.7775pt>
 File: 2/figures/beckwith2016.jpg Graphic file (type jpg)
 <use 2/figures/beckwith2016.jpg>
 Package pdftex.def Info: 2/figures/beckwith2016.jpg  used on input line 94.
@@ -2031,7 +2047,7 @@ LaTeX Warning: Citation '' on page 19 undefined on input line 102.
 LaTeX Warning: Citation 'pr_li2016predcrowd' on page 19 undefined on input line
  102.
 
-<2/figures/li2016.jpg, id=933, 1024.42725pt x 437.2335pt>
+<2/figures/li2016.jpg, id=932, 1024.42725pt x 437.2335pt>
 File: 2/figures/li2016.jpg Graphic file (type jpg)
 <use 2/figures/li2016.jpg>
 Package pdftex.def Info: 2/figures/li2016.jpg  used on input line 112.
@@ -2070,7 +2086,7 @@ Overfull \hbox (0.89769pt too wide) in paragraph at lines 120--121
 [][][] \OT1/ptm/m/n/12 pu-bli-ca-ron un art[]^^Pcu-lo en la re-vis-ta []De-
  []
 
-<2/figures/yuan2016a.jpg, id=939, 628.14674pt x 500.46976pt>
+<2/figures/yuan2016a.jpg, id=938, 628.14674pt x 500.46976pt>
 File: 2/figures/yuan2016a.jpg Graphic file (type jpg)
 <use 2/figures/yuan2016a.jpg>
 Package pdftex.def Info: 2/figures/yuan2016a.jpg  used on input line 128.
@@ -2091,7 +2107,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [20 <./2/figures/li2016.jpg>]
-<2/figures/yuan2016b.jpg, id=945, 1050.92625pt x 178.86826pt>
+<2/figures/yuan2016b.jpg, id=944, 1050.92625pt x 178.86826pt>
 File: 2/figures/yuan2016b.jpg Graphic file (type jpg)
 <use 2/figures/yuan2016b.jpg>
 Package pdftex.def Info: 2/figures/yuan2016b.jpg  used on input line 139.
@@ -2129,7 +2145,7 @@ Overfull \hbox (112.76851pt too wide) in paragraph at lines 147--148
 [][][] \OT1/ptm/m/n/12 pu-bli-ca-ron el re-por-te t[]ecni-co ti-tu-la-do [],
  []
 
-<2/figures/sawhney2016.png, id=951, 289.68225pt x 289.68225pt>
+<2/figures/sawhney2016.png, id=950, 289.68225pt x 289.68225pt>
 File: 2/figures/sawhney2016.png Graphic file (type png)
 <use 2/figures/sawhney2016.png>
 Package pdftex.def Info: 2/figures/sawhney2016.png  used on input line 157.
@@ -2181,7 +2197,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [23 <./2/figures/sawhney2016.png>]
-<2/figures/kaur2017.jpg, id=961, 1049.72176pt x 443.85825pt>
+<2/figures/kaur2017.jpg, id=960, 1049.72176pt x 443.85825pt>
 File: 2/figures/kaur2017.jpg Graphic file (type jpg)
 <use 2/figures/kaur2017.jpg>
 Package pdftex.def Info: 2/figures/kaur2017.jpg  used on input line 175.
@@ -2239,7 +2255,7 @@ Overfull \hbox (12.96245pt too wide) in paragraph at lines 185--186
 os [][]
  []
 
-<2/figures/kamath2018.jpg, id=968, 891.33pt x 508.299pt>
+<2/figures/kamath2018.jpg, id=967, 891.33pt x 508.299pt>
 File: 2/figures/kamath2018.jpg Graphic file (type jpg)
 <use 2/figures/kamath2018.jpg>
 Package pdftex.def Info: 2/figures/kamath2018.jpg  used on input line 193.
@@ -2321,7 +2337,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [26 <./2/figures/kamath2018.jpg>]
-<2/figures/yu2018.jpg, id=978, 969.6225pt x 374.5995pt>
+<2/figures/yu2018.jpg, id=977, 969.6225pt x 374.5995pt>
 File: 2/figures/yu2018.jpg Graphic file (type jpg)
 <use 2/figures/yu2018.jpg>
 Package pdftex.def Info: 2/figures/yu2018.jpg  used on input line 212.
@@ -2354,7 +2370,7 @@ LaTeX Warning: Citation '' on page 28 undefined on input line 221.
 LaTeX Warning: Citation 'pr_lee2018contentDL' on page 28 undefined on input lin
 e 221.
 
-<2/figures/lee2018.jpg, id=984, 685.3605pt x 510.708pt>
+<2/figures/lee2018.jpg, id=983, 685.3605pt x 510.708pt>
 File: 2/figures/lee2018.jpg Graphic file (type jpg)
 <use 2/figures/lee2018.jpg>
 Package pdftex.def Info: 2/figures/lee2018.jpg  used on input line 231.
@@ -2402,7 +2418,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [29 <./2/figures/lee2018.jpg>]
-<2/figures/jin2019.jpg, id=994, 1082.24326pt x 428.19975pt>
+<2/figures/jin2019.jpg, id=993, 1082.24326pt x 428.19975pt>
 File: 2/figures/jin2019.jpg Graphic file (type jpg)
 <use 2/figures/jin2019.jpg>
 Package pdftex.def Info: 2/figures/jin2019.jpg  used on input line 251.
@@ -2449,7 +2465,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [31]
-<2/figures/cheng2019.jpg, id=1005, 1016.598pt x 419.166pt>
+<2/figures/cheng2019.jpg, id=1004, 1016.598pt x 419.166pt>
 File: 2/figures/cheng2019.jpg Graphic file (type jpg)
 <use 2/figures/cheng2019.jpg>
 Package pdftex.def Info: 2/figures/cheng2019.jpg  used on input line 270.
@@ -2482,7 +2498,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [32 <./2/figures/cheng2019.jpg>]
-<2/figures/chen2019.jpg, id=1011, 755.82375pt x 501.67426pt>
+<2/figures/chen2019.jpg, id=1010, 755.82375pt x 501.67426pt>
 File: 2/figures/chen2019.jpg Graphic file (type jpg)
 <use 2/figures/chen2019.jpg>
 Package pdftex.def Info: 2/figures/chen2019.jpg  used on input line 288.
@@ -2515,7 +2531,7 @@ LaTeX Warning: Citation '' on page 34 undefined on input line 296.
 LaTeX Warning: Citation 'pr_chaichi2019nlp_3dprinting' on page 34 undefined on 
 input line 296.
 
-<2/figures/chaichi2019.jpg, id=1017, 307.74976pt x 308.95425pt>
+<2/figures/chaichi2019.jpg, id=1016, 307.74976pt x 308.95425pt>
 File: 2/figures/chaichi2019.jpg Graphic file (type jpg)
 <use 2/figures/chaichi2019.jpg>
 Package pdftex.def Info: 2/figures/chaichi2019.jpg  used on input line 307.
@@ -2561,7 +2577,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [35 <./2/figures/chaichi2019.jpg>]
-<2/figures/shafqat2019.jpg, id=1027, 731.73375pt x 524.55975pt>
+<2/figures/shafqat2019.jpg, id=1026, 731.73375pt x 524.55975pt>
 File: 2/figures/shafqat2019.jpg Graphic file (type jpg)
 <use 2/figures/shafqat2019.jpg>
 Package pdftex.def Info: 2/figures/shafqat2019.jpg  used on input line 327.
@@ -2594,7 +2610,7 @@ LaTeX Warning: Citation '' on page 37 undefined on input line 335.
 LaTeX Warning: Citation 'pr_fernandezblanco2020crowdfunding_empirical' on page 
 37 undefined on input line 335.
 
-<2/figures/fernandez2020_metodologia.jpg, id=1034, 710.05275pt x 468.5505pt>
+<2/figures/fernandez2020_metodologia.jpg, id=1033, 710.05275pt x 468.5505pt>
 File: 2/figures/fernandez2020_metodologia.jpg Graphic file (type jpg)
 <use 2/figures/fernandez2020_metodologia.jpg>
 Package pdftex.def Info: 2/figures/fernandez2020_metodologia.jpg  used on input
@@ -2616,7 +2632,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [37]
-<2/figures/fernandez2020_clusters_categoria.jpg, id=1040, 986.4855pt x 377.0085
+<2/figures/fernandez2020_clusters_categoria.jpg, id=1039, 986.4855pt x 377.0085
 pt>
 File: 2/figures/fernandez2020_clusters_categoria.jpg Graphic file (type jpg)
 <use 2/figures/fernandez2020_clusters_categoria.jpg>
@@ -2706,12 +2722,12 @@ LaTeX Warning: Citation 'bk_zambrano2018supnosup' on page 41 undefined on input
 LaTeX Warning: Citation 'bk_zambrano2018supnosup' on page 41 undefined on input
  line 22.
 
-<2/figures/regresion.jpg, id=1054, 416.30531pt x 278.54062pt>
+<2/figures/regresion.jpg, id=1053, 416.30531pt x 278.54062pt>
 File: 2/figures/regresion.jpg Graphic file (type jpg)
 <use 2/figures/regresion.jpg>
 Package pdftex.def Info: 2/figures/regresion.jpg  used on input line 28.
 (pdftex.def)             Requested size: 169.8631pt x 113.64986pt.
-<2/figures/clasificacion.jpg, id=1055, 399.74344pt x 372.64218pt>
+<2/figures/clasificacion.jpg, id=1054, 399.74344pt x 372.64218pt>
 File: 2/figures/clasificacion.jpg Graphic file (type jpg)
 <use 2/figures/clasificacion.jpg>
 Package pdftex.def Info: 2/figures/clasificacion.jpg  used on input line 33.
@@ -2739,7 +2755,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 LaTeX Warning: Command \textellipsis invalid in math mode on input line 54.
 
-<2/figures/knn.jpg, id=1063, 357.58594pt x 195.73125pt>
+<2/figures/knn.jpg, id=1062, 357.58594pt x 195.73125pt>
 File: 2/figures/knn.jpg Graphic file (type jpg)
 <use 2/figures/knn.jpg>
 Package pdftex.def Info: 2/figures/knn.jpg  used on input line 71.
@@ -2768,7 +2784,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [42 <./2/figures/knn.jpg>]
-<2/figures/kmeans.jpg, id=1076, 341.77687pt x 257.46187pt>
+<2/figures/kmeans.jpg, id=1075, 341.77687pt x 257.46187pt>
 File: 2/figures/kmeans.jpg Graphic file (type jpg)
 <use 2/figures/kmeans.jpg>
 Package pdftex.def Info: 2/figures/kmeans.jpg  used on input line 101.
@@ -2798,7 +2814,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [43 <./2/figures/kmeans.jpg>]
-<2/figures/aprendizaje_refuerzo.jpg, id=1082, 601.4972pt x 225.09094pt>
+<2/figures/aprendizaje_refuerzo.jpg, id=1081, 601.4972pt x 225.09094pt>
 File: 2/figures/aprendizaje_refuerzo.jpg Graphic file (type jpg)
 <use 2/figures/aprendizaje_refuerzo.jpg>
 Package pdftex.def Info: 2/figures/aprendizaje_refuerzo.jpg  used on input line
@@ -2816,7 +2832,7 @@ LaTeX Warning: Citation '' on page 44 undefined on input line 115.
 LaTeX Warning: Citation 'tec_merino2019aprendrefuerzo' on page 44 undefined on 
 input line 120.
 
-<2/figures/pacman.png, id=1083, 878.28125pt x 548.0475pt>
+<2/figures/pacman.png, id=1082, 878.28125pt x 548.0475pt>
 File: 2/figures/pacman.png Graphic file (type png)
 <use 2/figures/pacman.png>
 Package pdftex.def Info: 2/figures/pacman.png  used on input line 124.
@@ -2857,7 +2873,7 @@ e 137.
 LaTeX Warning: Citation 'tec_banafa2019deeplearning' on page 46 undefined on in
 put line 137.
 
-<2/figures/deeplearning_machinelearning.jpg, id=1093, 631.76025pt x 307.74976pt
+<2/figures/deeplearning_machinelearning.jpg, id=1092, 631.76025pt x 307.74976pt
 >
 File: 2/figures/deeplearning_machinelearning.jpg Graphic file (type jpg)
 <use 2/figures/deeplearning_machinelearning.jpg>
@@ -2890,7 +2906,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Warning: Citation 'bk_deng2018deeplearningnlp' on page 47 undefined on in
 put line 152.
 
-<2/figures/multimodal_network.jpg, id=1099, 513.92pt x 412.54124pt>
+<2/figures/multimodal_network.jpg, id=1098, 513.92pt x 412.54124pt>
 File: 2/figures/multimodal_network.jpg Graphic file (type jpg)
 <use 2/figures/multimodal_network.jpg>
 Package pdftex.def Info: 2/figures/multimodal_network.jpg  used on input line 1
@@ -2928,7 +2944,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [47 <./2/figures/multimodal_network.jpg>]
-<2/figures/multimodal_deep_learning_example.jpg, id=1105, 342.5297pt x 277.035p
+<2/figures/multimodal_deep_learning_example.jpg, id=1104, 342.5297pt x 277.035p
 t>
 File: 2/figures/multimodal_deep_learning_example.jpg Graphic file (type jpg)
 <use 2/figures/multimodal_deep_learning_example.jpg>
@@ -2959,7 +2975,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [48 <./2/figures/multimodal_deep_learning_example.jpg>]
-<2/figures/stacking-ensemble-learning.png, id=1112, 682.55pt x 426.59375pt>
+<2/figures/stacking-ensemble-learning.png, id=1111, 682.55pt x 426.59375pt>
 File: 2/figures/stacking-ensemble-learning.png Graphic file (type png)
 <use 2/figures/stacking-ensemble-learning.png>
 Package pdftex.def Info: 2/figures/stacking-ensemble-learning.png  used on inpu
@@ -2982,7 +2998,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [49 <./2/figures/stacking-ensemble-learning.png>]
-<2/figures/separate_stacked_model.png, id=1118, 853.1875pt x 342.27875pt>
+<2/figures/separate_stacked_model.png, id=1117, 853.1875pt x 342.27875pt>
 File: 2/figures/separate_stacked_model.png Graphic file (type png)
 <use 2/figures/separate_stacked_model.png>
 Package pdftex.def Info: 2/figures/separate_stacked_model.png  used on input li
@@ -2996,7 +3012,7 @@ e 200.
 
 LaTeX Warning: Citation '' on page 50 undefined on input line 200.
 
-<2/figures/integrated_stacked_model.jpg, id=1119, 373.395pt x 307.1475pt>
+<2/figures/integrated_stacked_model.jpg, id=1118, 373.395pt x 307.1475pt>
 File: 2/figures/integrated_stacked_model.jpg Graphic file (type jpg)
 <use 2/figures/integrated_stacked_model.jpg>
 Package pdftex.def Info: 2/figures/integrated_stacked_model.jpg  used on input 
@@ -3065,7 +3081,7 @@ Overfull \hbox (42.16998pt too wide) in paragraph at lines 249--251
  y KDD ([]). 
  []
 
-<2/figures/crispdm.jpg, id=1133, 428.35031pt x 389.20406pt>
+<2/figures/crispdm.jpg, id=1132, 428.35031pt x 389.20406pt>
 File: 2/figures/crispdm.jpg Graphic file (type jpg)
 <use 2/figures/crispdm.jpg>
 Package pdftex.def Info: 2/figures/crispdm.jpg  used on input line 256.
@@ -3088,7 +3104,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [53
 
  <./2/figures/crispdm.jpg>]
-<2/figures/semma.jpg, id=1139, 583.42969pt x 429.10312pt>
+<2/figures/semma.jpg, id=1138, 583.42969pt x 429.10312pt>
 File: 2/figures/semma.jpg Graphic file (type jpg)
 <use 2/figures/semma.jpg>
 Package pdftex.def Info: 2/figures/semma.jpg  used on input line 277.
@@ -3110,7 +3126,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [54 <./2/figures/semma.jpg>]
-<2/figures/kdd.jpg, id=1146, 555.57562pt x 212.29312pt>
+<2/figures/kdd.jpg, id=1145, 555.57562pt x 212.29312pt>
 File: 2/figures/kdd.jpg Graphic file (type jpg)
 <use 2/figures/kdd.jpg>
 Package pdftex.def Info: 2/figures/kdd.jpg  used on input line 297.
@@ -3179,7 +3195,7 @@ ine 399.
 LaTeX Warning: Citation 'tec_banafa2019deeplearning' on page 57 undefined on in
 put line 401.
 
-<2/figures/rnn_mcculloch.jpg, id=1157, 682.04813pt x 272.51813pt>
+<2/figures/rnn_mcculloch.jpg, id=1156, 682.04813pt x 272.51813pt>
 File: 2/figures/rnn_mcculloch.jpg Graphic file (type jpg)
 <use 2/figures/rnn_mcculloch.jpg>
 Package pdftex.def Info: 2/figures/rnn_mcculloch.jpg  used on input line 406.
@@ -3206,7 +3222,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [57
 
  <./2/figures/rnn_mcculloch.jpg>]
-<2/figures/rna_activaciones.jpg, id=1163, 797.22844pt x 234.8775pt>
+<2/figures/rna_activaciones.jpg, id=1162, 797.22844pt x 234.8775pt>
 File: 2/figures/rna_activaciones.jpg Graphic file (type jpg)
 <use 2/figures/rna_activaciones.jpg>
 Package pdftex.def Info: 2/figures/rna_activaciones.jpg  used on input line 439
@@ -3229,7 +3245,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [58 <./2/figures/rna_activaciones.jpg>]
-<2/figures/sigmoide.jpg, id=1174, 198.7425pt x 167.12437pt>
+<2/figures/sigmoide.jpg, id=1173, 198.7425pt x 167.12437pt>
 File: 2/figures/sigmoide.jpg Graphic file (type jpg)
 <use 2/figures/sigmoide.jpg>
 Package pdftex.def Info: 2/figures/sigmoide.jpg  used on input line 460.
@@ -3267,7 +3283,7 @@ line 489.
 LaTeX Warning: Citation 'tec_sancho2017descentgrad' on page 60 undefined on inp
 ut line 491.
 
-<2/figures/gradiente_descendiente.jpg, id=1183, 386.94562pt x 398.23781pt>
+<2/figures/gradiente_descendiente.jpg, id=1182, 386.94562pt x 398.23781pt>
 File: 2/figures/gradiente_descendiente.jpg Graphic file (type jpg)
 <use 2/figures/gradiente_descendiente.jpg>
 Package pdftex.def Info: 2/figures/gradiente_descendiente.jpg  used on input li
@@ -3297,7 +3313,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [60 <./2/figures/gradiente_descendiente.jpg>]
-<2/figures/pesos_graddescen.jpg, id=1191, 680.5425pt x 411.78844pt>
+<2/figures/pesos_graddescen.jpg, id=1190, 680.5425pt x 411.78844pt>
 File: 2/figures/pesos_graddescen.jpg Graphic file (type jpg)
 <use 2/figures/pesos_graddescen.jpg>
 Package pdftex.def Info: 2/figures/pesos_graddescen.jpg  used on input line 516
@@ -3324,7 +3340,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [61 <./2/figures/pesos_graddescen.jpg>]
-<2/figures/backpropagation.jpg, id=1199, 471.26062pt x 322.20375pt>
+<2/figures/backpropagation.jpg, id=1198, 471.26062pt x 322.20375pt>
 File: 2/figures/backpropagation.jpg Graphic file (type jpg)
 <use 2/figures/backpropagation.jpg>
 Package pdftex.def Info: 2/figures/backpropagation.jpg  used on input line 546.
@@ -3338,7 +3354,7 @@ LaTeX Warning: Citation 'gl_iartificial2019descentgrad' on page 62 undefined on
 
 LaTeX Warning: Citation '' on page 62 undefined on input line 548.
 
-<2/figures/rna_pesos.jpg, id=1201, 637.63219pt x 472.38985pt>
+<2/figures/rna_pesos.jpg, id=1200, 637.63219pt x 472.38985pt>
 File: 2/figures/rna_pesos.jpg Graphic file (type jpg)
 <use 2/figures/rna_pesos.jpg>
 Package pdftex.def Info: 2/figures/rna_pesos.jpg  used on input line 557.
@@ -3370,7 +3386,7 @@ Overfull \hbox (1.9885pt too wide) in paragraph at lines 593--597
 [] 
  []
 
-<2/figures/hiperbolica.jpg, id=1212, 215.30438pt x 164.11313pt>
+<2/figures/hiperbolica.jpg, id=1211, 215.30438pt x 164.11313pt>
 File: 2/figures/hiperbolica.jpg Graphic file (type jpg)
 <use 2/figures/hiperbolica.jpg>
 Package pdftex.def Info: 2/figures/hiperbolica.jpg  used on input line 617.
@@ -3391,7 +3407,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [63 <./2/figures/rna_pesos.jpg>]
-<2/figures/purelin.jpg, id=1221, 237.13594pt x 183.68625pt>
+<2/figures/purelin.jpg, id=1220, 237.13594pt x 183.68625pt>
 File: 2/figures/purelin.jpg Graphic file (type jpg)
 <use 2/figures/purelin.jpg>
 Package pdftex.def Info: 2/figures/purelin.jpg  used on input line 637.
@@ -3412,7 +3428,7 @@ ine 653.
 LaTeX Warning: Citation 'gl_calvo2018activrna' on page 64 undefined on input li
 ne 653.
 
-<2/figures/relu.jpg, id=1224, 318.43968pt x 264.99pt>
+<2/figures/relu.jpg, id=1223, 318.43968pt x 264.99pt>
 File: 2/figures/relu.jpg Graphic file (type jpg)
 <use 2/figures/relu.jpg>
 Package pdftex.def Info: 2/figures/relu.jpg  used on input line 656.
@@ -3447,7 +3463,7 @@ nas de las m[]as im-por-tan-tes ([]).
 LaTeX Warning: Citation 'gl_mlfa2019redesneuronales' on page 65 undefined on in
 put line 683.
 
-<2/figures/perceptron_simple.jpg, id=1232, 284.56313pt x 188.20313pt>
+<2/figures/perceptron_simple.jpg, id=1231, 284.56313pt x 188.20313pt>
 File: 2/figures/perceptron_simple.jpg Graphic file (type jpg)
 <use 2/figures/perceptron_simple.jpg>
 Package pdftex.def Info: 2/figures/perceptron_simple.jpg  used on input line 68
@@ -3472,7 +3488,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [65 <./2/figures/relu.jpg>]
-<2/figures/perceptron_multicapa.jpg, id=1239, 238.8925pt x 157.08687pt>
+<2/figures/perceptron_multicapa.jpg, id=1238, 238.8925pt x 157.08687pt>
 File: 2/figures/perceptron_multicapa.jpg Graphic file (type jpg)
 <use 2/figures/perceptron_multicapa.jpg>
 Package pdftex.def Info: 2/figures/perceptron_multicapa.jpg  used on input line
@@ -3490,7 +3506,7 @@ LaTeX Warning: Citation '' on page 66 undefined on input line 699.
 LaTeX Warning: Citation 'gl_calvo2017clasifrna' on page 66 undefined on input l
 ine 704.
 
-<2/figures/cnn.jpg, id=1241, 380.42125pt x 201.75375pt>
+<2/figures/cnn.jpg, id=1240, 380.42125pt x 201.75375pt>
 File: 2/figures/cnn.jpg Graphic file (type jpg)
 <use 2/figures/cnn.jpg>
 Package pdftex.def Info: 2/figures/cnn.jpg  used on input line 707.
@@ -3525,12 +3541,12 @@ LaTeX Warning: Citation 'tec_li2019cnn' on page 67 undefined on input line 714.
 LaTeX Warning: Citation 'tec_li2019cnn' on page 67 undefined on input line 716.
 
 
-<2/figures/neocognitron.jpg, id=1248, 642.14906pt x 405.76593pt>
+<2/figures/neocognitron.jpg, id=1247, 642.14906pt x 405.76593pt>
 File: 2/figures/neocognitron.jpg Graphic file (type jpg)
 <use 2/figures/neocognitron.jpg>
 Package pdftex.def Info: 2/figures/neocognitron.jpg  used on input line 723.
 (pdftex.def)             Requested size: 140.41905pt x 88.72392pt.
-<2/figures/lenet5.jpg, id=1249, 764.8575pt x 231.11343pt>
+<2/figures/lenet5.jpg, id=1248, 764.8575pt x 231.11343pt>
 File: 2/figures/lenet5.jpg Graphic file (type jpg)
 <use 2/figures/lenet5.jpg>
 Package pdftex.def Info: 2/figures/lenet5.jpg  used on input line 728.
@@ -3568,7 +3584,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Warning: Citation 'tec_lopez2016cnnTF' on page 68 undefined on input line
  751.
 
-<2/figures/convolucion.jpg, id=1256, 557.08125pt x 193.32225pt>
+<2/figures/convolucion.jpg, id=1255, 557.08125pt x 193.32225pt>
 File: 2/figures/convolucion.jpg Graphic file (type jpg)
 <use 2/figures/convolucion.jpg>
 Package pdftex.def Info: 2/figures/convolucion.jpg  used on input line 756.
@@ -3583,7 +3599,7 @@ LaTeX Warning: Citation '' on page 68 undefined on input line 758.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<2/figures/filtros_cnn.jpg, id=1258, 892.83563pt x 444.15938pt>
+<2/figures/filtros_cnn.jpg, id=1257, 892.83563pt x 444.15938pt>
 File: 2/figures/filtros_cnn.jpg Graphic file (type jpg)
 <use 2/figures/filtros_cnn.jpg>
 Package pdftex.def Info: 2/figures/filtros_cnn.jpg  used on input line 766.
@@ -3604,7 +3620,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [68 <./2/figures/neocognitron.jpg> <./2/figures/lenet5.jpg>]
-<2/figures/capas_cnn.jpg, id=1265, 1114.1625pt x 407.27156pt>
+<2/figures/capas_cnn.jpg, id=1264, 1114.1625pt x 407.27156pt>
 File: 2/figures/capas_cnn.jpg Graphic file (type jpg)
 <use 2/figures/capas_cnn.jpg>
 Package pdftex.def Info: 2/figures/capas_cnn.jpg  used on input line 776.
@@ -3620,7 +3636,7 @@ LaTeX Warning: Citation '' on page 69 undefined on input line 778.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<2/figures/features_cnn.jpg, id=1267, 1152.55594pt x 529.98pt>
+<2/figures/features_cnn.jpg, id=1266, 1152.55594pt x 529.98pt>
 File: 2/figures/features_cnn.jpg Graphic file (type jpg)
 <use 2/figures/features_cnn.jpg>
 Package pdftex.def Info: 2/figures/features_cnn.jpg  used on input line 786.
@@ -3635,7 +3651,7 @@ LaTeX Warning: Citation '' on page 69 undefined on input line 788.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<2/figures/matriz_cnn.jpg, id=1270, 429.85594pt x 130.98938pt>
+<2/figures/matriz_cnn.jpg, id=1269, 429.85594pt x 130.98938pt>
 File: 2/figures/matriz_cnn.jpg Graphic file (type jpg)
 <use 2/figures/matriz_cnn.jpg>
 Package pdftex.def Info: 2/figures/matriz_cnn.jpg  used on input line 801.
@@ -3659,7 +3675,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [69 <./2/figures/convolucion.jpg> <./2/figures/filtros_cnn.jpg>]
-<2/figures/input_filter_cnn.jpg, id=1278, 444.15938pt x 453.19313pt>
+<2/figures/input_filter_cnn.jpg, id=1277, 444.15938pt x 453.19313pt>
 File: 2/figures/input_filter_cnn.jpg Graphic file (type jpg)
 <use 2/figures/input_filter_cnn.jpg>
 Package pdftex.def Info: 2/figures/input_filter_cnn.jpg  used on input line 822
@@ -3686,7 +3702,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Warning: Citation 'tec_prabhu2018cnn' on page 71 undefined on input line 
 845.
 
-<2/figures/stride_cnn.jpg, id=1285, 740.0147pt x 281.55188pt>
+<2/figures/stride_cnn.jpg, id=1284, 740.0147pt x 281.55188pt>
 File: 2/figures/stride_cnn.jpg Graphic file (type jpg)
 <use 2/figures/stride_cnn.jpg>
 Package pdftex.def Info: 2/figures/stride_cnn.jpg  used on input line 848.
@@ -3715,7 +3731,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Warning: Citation 'tec_lopez2016cnnTF' on page 72 undefined on input line
  873.
 
-<2/figures/fully_conected_cnn.jpg, id=1292, 550.30594pt x 304.88907pt>
+<2/figures/fully_conected_cnn.jpg, id=1291, 550.30594pt x 304.88907pt>
 File: 2/figures/fully_conected_cnn.jpg Graphic file (type jpg)
 <use 2/figures/fully_conected_cnn.jpg>
 Package pdftex.def Info: 2/figures/fully_conected_cnn.jpg  used on input line 8
@@ -3728,7 +3744,7 @@ LaTeX Warning: Citation 'tec_prabhu2018cnn' on page 72 undefined on input line
 
 LaTeX Warning: Citation '' on page 72 undefined on input line 878.
 
-<2/figures/arquitectura_cnn.jpg, id=1294, 713.66624pt x 173.14688pt>
+<2/figures/arquitectura_cnn.jpg, id=1293, 713.66624pt x 173.14688pt>
 File: 2/figures/arquitectura_cnn.jpg Graphic file (type jpg)
 <use 2/figures/arquitectura_cnn.jpg>
 Package pdftex.def Info: 2/figures/arquitectura_cnn.jpg  used on input line 886
@@ -3754,7 +3770,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Warning: Citation 'gl_calvo2018rnn' on page 73 undefined on input line 89
 3.
 
-<2/figures/rnn_ejemplo.jpg, id=1301, 580.66937pt x 189.70876pt>
+<2/figures/rnn_ejemplo.jpg, id=1300, 580.66937pt x 189.70876pt>
 File: 2/figures/rnn_ejemplo.jpg Graphic file (type jpg)
 <use 2/figures/rnn_ejemplo.jpg>
 Package pdftex.def Info: 2/figures/rnn_ejemplo.jpg  used on input line 896.
@@ -3770,7 +3786,7 @@ LaTeX Warning: Citation '' on page 73 undefined on input line 898.
 LaTeX Warning: Citation 'tec_gandhi2018svm' on page 73 undefined on input line 
 903.
 
-<2/figures/svm_hiperplano.jpg, id=1303, 417.81094pt x 336.50719pt>
+<2/figures/svm_hiperplano.jpg, id=1302, 417.81094pt x 336.50719pt>
 File: 2/figures/svm_hiperplano.jpg Graphic file (type jpg)
 <use 2/figures/svm_hiperplano.jpg>
 Package pdftex.def Info: 2/figures/svm_hiperplano.jpg  used on input line 906.
@@ -3815,12 +3831,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [74 <./2/figures/svm_hiperplano.jpg>]
-<2/figures/caso1_svm.jpg, id=1313, 307.1475pt x 252.945pt>
+<2/figures/caso1_svm.jpg, id=1312, 307.1475pt x 252.945pt>
 File: 2/figures/caso1_svm.jpg Graphic file (type jpg)
 <use 2/figures/caso1_svm.jpg>
 Package pdftex.def Info: 2/figures/caso1_svm.jpg  used on input line 925.
 (pdftex.def)             Requested size: 135.89185pt x 111.90982pt.
-<2/figures/caso2_svm.jpg, id=1314, 302.63063pt x 248.42813pt>
+<2/figures/caso2_svm.jpg, id=1313, 302.63063pt x 248.42813pt>
 File: 2/figures/caso2_svm.jpg Graphic file (type jpg)
 <use 2/figures/caso2_svm.jpg>
 Package pdftex.def Info: 2/figures/caso2_svm.jpg  used on input line 930.
@@ -3833,7 +3849,7 @@ ine 934.
 
 LaTeX Warning: Citation '' on page 75 undefined on input line 934.
 
-<2/figures/kernel_svm.jpg, id=1317, 495.35063pt x 187.45032pt>
+<2/figures/kernel_svm.jpg, id=1316, 495.35063pt x 187.45032pt>
 File: 2/figures/kernel_svm.jpg Graphic file (type jpg)
 <use 2/figures/kernel_svm.jpg>
 Package pdftex.def Info: 2/figures/kernel_svm.jpg  used on input line 959.
@@ -3865,7 +3881,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [75 <./2/figures/caso1_svm.jpg> <./2/figures/caso2_svm.jpg>]
-<2/figures/arbol_decision.jpg, id=1324, 797.22844pt x 511.9125pt>
+<2/figures/arbol_decision.jpg, id=1323, 797.22844pt x 511.9125pt>
 File: 2/figures/arbol_decision.jpg Graphic file (type jpg)
 <use 2/figures/arbol_decision.jpg>
 Package pdftex.def Info: 2/figures/arbol_decision.jpg  used on input line 973.
@@ -3931,7 +3947,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Warning: Citation 'bk_kamath2019deeplearning_nlp_sr' on page 79 undefined
  on input line 998.
 
-<2/figures/cnn_nlp.png, id=1339, 797.98125pt x 335.2525pt>
+<2/figures/cnn_nlp.png, id=1338, 797.98125pt x 335.2525pt>
 File: 2/figures/cnn_nlp.png Graphic file (type png)
 <use 2/figures/cnn_nlp.png>
 Package pdftex.def Info: 2/figures/cnn_nlp.png  used on input line 1001.
@@ -3956,13 +3972,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [79 <./2/figures/cnn_nlp.png>]
-<2/figures/2D-convolutional-example.png, id=1346, 522.45187pt x 368.1253pt>
+<2/figures/2D-convolutional-example.png, id=1345, 522.45187pt x 368.1253pt>
 File: 2/figures/2D-convolutional-example.png Graphic file (type png)
 <use 2/figures/2D-convolutional-example.png>
 Package pdftex.def Info: 2/figures/2D-convolutional-example.png  used on input 
 line 1015.
 (pdftex.def)             Requested size: 226.48413pt x 159.58273pt.
-<2/figures/1D-convolutional-example.png, id=1347, 478.78876pt x 484.81125pt>
+<2/figures/1D-convolutional-example.png, id=1346, 478.78876pt x 484.81125pt>
 File: 2/figures/1D-convolutional-example.png Graphic file (type png)
 <use 2/figures/1D-convolutional-example.png>
 Package pdftex.def Info: 2/figures/1D-convolutional-example.png  used on input 
@@ -3976,7 +3992,7 @@ line 1024.
 
 LaTeX Warning: Citation '' on page 80 undefined on input line 1024.
 
-<2/figures/cnn_steps_for_nlp.png, id=1349, 600.2425pt x 635.37375pt>
+<2/figures/cnn_steps_for_nlp.png, id=1348, 600.2425pt x 635.37375pt>
 File: 2/figures/cnn_steps_for_nlp.png Graphic file (type png)
 <use 2/figures/cnn_steps_for_nlp.png>
 Package pdftex.def Info: 2/figures/cnn_steps_for_nlp.png  used on input line 10
@@ -4024,7 +4040,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [81 <./2/figures/cnn_steps_for_nlp.png (PNG copy)>]
-<2/figures/lstm.png, id=1363, 760.8425pt x 458.71375pt>
+<2/figures/lstm.png, id=1362, 760.8425pt x 458.71375pt>
 File: 2/figures/lstm.png Graphic file (type png)
 <use 2/figures/lstm.png>
 Package pdftex.def Info: 2/figures/lstm.png  used on input line 1073.
@@ -4062,7 +4078,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [82]
-<2/figures/birnn_architecture.jpg, id=1370, 810.6285pt x 385.44pt>
+<2/figures/birnn_architecture.jpg, id=1369, 810.6285pt x 385.44pt>
 File: 2/figures/birnn_architecture.jpg Graphic file (type jpg)
 <use 2/figures/birnn_architecture.jpg>
 Package pdftex.def Info: 2/figures/birnn_architecture.jpg  used on input line 1
@@ -4090,7 +4106,7 @@ Overfull \hbox (26.45154pt too wide) in paragraph at lines 1100--1101
 LaTeX Warning: Citation 'bk_goldberg2017nn_nlp' on page 83 undefined on input l
 ine 1102.
 
-<2/figures/lstm_vs_gru.png, id=1372, 1109.64563pt x 445.665pt>
+<2/figures/lstm_vs_gru.png, id=1371, 1109.64563pt x 445.665pt>
 File: 2/figures/lstm_vs_gru.png Graphic file (type png)
 <use 2/figures/lstm_vs_gru.png>
 Package pdftex.def Info: 2/figures/lstm_vs_gru.png  used on input line 1106.
@@ -4119,7 +4135,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [83 <./2/figures/lstm.png>]
-<2/figures/encoder-decoder.jpeg, id=1379, 878.28125pt x 410.53375pt>
+<2/figures/encoder-decoder.jpeg, id=1378, 878.28125pt x 410.53375pt>
 File: 2/figures/encoder-decoder.jpeg Graphic file (type jpg)
 <use 2/figures/encoder-decoder.jpeg>
 Package pdftex.def Info: 2/figures/encoder-decoder.jpeg  used on input line 112
@@ -4178,7 +4194,7 @@ ta-cio-nes ([]).
 LaTeX Warning: Citation 'bk_brownlee2017deeplearning_nlp' on page 86 undefined 
 on input line 1141.
 
-<2/figures/embedding_layer.jpg, id=1390, 560.8453pt x 238.64156pt>
+<2/figures/embedding_layer.jpg, id=1389, 560.8453pt x 238.64156pt>
 File: 2/figures/embedding_layer.jpg Graphic file (type jpg)
 <use 2/figures/embedding_layer.jpg>
 Package pdftex.def Info: 2/figures/embedding_layer.jpg  used on input line 1145
@@ -4201,7 +4217,7 @@ Overfull \hbox (20.86006pt too wide) in paragraph at lines 1152--1153
 .
  []
 
-<2/figures/word2vec.png, id=1392, 878.28125pt x 307.1475pt>
+<2/figures/word2vec.png, id=1391, 878.28125pt x 307.1475pt>
 File: 2/figures/word2vec.png Graphic file (type png)
 <use 2/figures/word2vec.png>
 Package pdftex.def Info: 2/figures/word2vec.png  used on input line 1156.
@@ -4235,25 +4251,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [87 <./2/figures/embedding_layer.jpg> <./2/figures/word2vec.png (PNG copy)>]
-<2/figures/glove_man-woman.jpg, id=1402, 72.27pt x 56.00925pt>
+<2/figures/glove_man-woman.jpg, id=1401, 72.27pt x 56.00925pt>
 File: 2/figures/glove_man-woman.jpg Graphic file (type jpg)
 <use 2/figures/glove_man-woman.jpg>
 Package pdftex.def Info: 2/figures/glove_man-woman.jpg  used on input line 1170
 .
 (pdftex.def)             Requested size: 211.76534pt x 164.1276pt.
-<2/figures/glove_company-ceo.jpg, id=1403, 72.27pt x 56.29832pt>
+<2/figures/glove_company-ceo.jpg, id=1402, 72.27pt x 56.29832pt>
 File: 2/figures/glove_company-ceo.jpg Graphic file (type jpg)
 <use 2/figures/glove_company-ceo.jpg>
 Package pdftex.def Info: 2/figures/glove_company-ceo.jpg  used on input line 11
 75.
 (pdftex.def)             Requested size: 211.76534pt x 164.9747pt.
-<2/figures/glove_comparative-superlative.jpg, id=1404, 72.27pt x 56.1538pt>
+<2/figures/glove_comparative-superlative.jpg, id=1403, 72.27pt x 56.1538pt>
 File: 2/figures/glove_comparative-superlative.jpg Graphic file (type jpg)
 <use 2/figures/glove_comparative-superlative.jpg>
 Package pdftex.def Info: 2/figures/glove_comparative-superlative.jpg  used on i
 nput line 1180.
 (pdftex.def)             Requested size: 211.76534pt x 164.55116pt.
-<2/figures/glove_city-zipcode.jpg, id=1405, 72.27pt x 56.3706pt>
+<2/figures/glove_city-zipcode.jpg, id=1404, 72.27pt x 56.3706pt>
 File: 2/figures/glove_city-zipcode.jpg Graphic file (type jpg)
 <use 2/figures/glove_city-zipcode.jpg>
 Package pdftex.def Info: 2/figures/glove_city-zipcode.jpg  used on input line 1
@@ -4291,7 +4307,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [88 <./2/figures/glove_man-woman.jpg> <./2/figures/glove_company-ceo.jpg> <./2/
 figures/glove_comparative-superlative.jpg> <./2/figures/glove_city-zipcode.jpg>
 ]
-<2/figures/bow_example.png, id=1411, 770.88pt x 159.59625pt>
+<2/figures/bow_example.png, id=1410, 770.88pt x 159.59625pt>
 File: 2/figures/bow_example.png Graphic file (type png)
 <use 2/figures/bow_example.png>
 Package pdftex.def Info: 2/figures/bow_example.png  used on input line 1199.
@@ -4308,7 +4324,7 @@ LaTeX Warning: Citation '' on page 89 undefined on input line 1201.
 LaTeX Warning: Citation 'bk_brownlee2017deeplearning_nlp' on page 89 undefined 
 on input line 1206.
 
-<2/figures/tfidf_example.png, id=1412, 1892.0286pt x 901.2069pt>
+<2/figures/tfidf_example.png, id=1411, 1892.0286pt x 901.2069pt>
 File: 2/figures/tfidf_example.png Graphic file (type png)
 <use 2/figures/tfidf_example.png>
 Package pdftex.def Info: 2/figures/tfidf_example.png  used on input line 1210.
@@ -4434,7 +4450,7 @@ LaTeX Warning: Citation 'cr_kickstarter_founding' on page 92 undefined on input
 LaTeX Warning: Citation 'cr_kickstarter_press' on page 92 undefined on input li
 ne 25.
 
-<2/figures/kickstarter_project.jpg, id=1428, 702.625pt x 735.74875pt>
+<2/figures/kickstarter_project.jpg, id=1427, 702.625pt x 735.74875pt>
 File: 2/figures/kickstarter_project.jpg Graphic file (type jpg)
 <use 2/figures/kickstarter_project.jpg>
 Package pdftex.def Info: 2/figures/kickstarter_project.jpg  used on input line 
@@ -4599,7 +4615,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [98]
-<3/figures/data_recolection_flux.png, id=1460, 926.9832pt x 526.6074pt>
+<3/figures/data_recolection_flux.png, id=1459, 926.9832pt x 526.6074pt>
 File: 3/figures/data_recolection_flux.png Graphic file (type png)
 <use 3/figures/data_recolection_flux.png>
 Package pdftex.def Info: 3/figures/data_recolection_flux.png  used on input lin
@@ -4675,7 +4691,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [102]
-<3/figures/metodologia.png, id=1484, 946.737pt x 459.6372pt>
+<3/figures/metodologia.png, id=1483, 946.737pt x 459.6372pt>
 File: 3/figures/metodologia.png Graphic file (type png)
 <use 3/figures/metodologia.png>
 Package pdftex.def Info: 3/figures/metodologia.png  used on input line 275.
@@ -5027,7 +5043,7 @@ OT1/ptm/m/n/12 : [][].
 LaTeX Warning: Citation 'pr_puente2019kickstarter_prediction' on page 104 undef
 ined on input line 292.
 
-<3/figures/framework.png, id=1491, 921.6834pt x 518.4168pt>
+<3/figures/framework.png, id=1490, 921.6834pt x 518.4168pt>
 File: 3/figures/framework.png Graphic file (type png)
 <use 3/figures/framework.png>
 Package pdftex.def Info: 3/figures/framework.png  used on input line 297.
@@ -5107,19 +5123,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [107]
-<3/figures/flujograma_metadata_t1_t2.png, id=1513, 632.6034pt x 243.7908pt>
+<3/figures/flujograma_metadata_t1_t2.png, id=1512, 632.6034pt x 243.7908pt>
 File: 3/figures/flujograma_metadata_t1_t2.png Graphic file (type png)
 <use 3/figures/flujograma_metadata_t1_t2.png>
 Package pdftex.def Info: 3/figures/flujograma_metadata_t1_t2.png  used on input
  line 464.
 (pdftex.def)             Requested size: 362.37598pt x 139.65039pt.
-<3/figures/flujograma_metadata_t3.png, id=1515, 855.6768pt x 243.7908pt>
+<3/figures/flujograma_metadata_t3.png, id=1514, 855.6768pt x 243.7908pt>
 File: 3/figures/flujograma_metadata_t3.png Graphic file (type png)
 <use 3/figures/flujograma_metadata_t3.png>
 Package pdftex.def Info: 3/figures/flujograma_metadata_t3.png  used on input li
 ne 475.
 (pdftex.def)             Requested size: 452.96826pt x 129.05598pt.
-<3/figures/diagrama_flujo_scrapping_descripcion.png, id=1519, 356.0502pt x 512.
+<3/figures/diagrama_flujo_scrapping_descripcion.png, id=1518, 356.0502pt x 512.
 6352pt>
 File: 3/figures/diagrama_flujo_scrapping_descripcion.png Graphic file (type png
 )
@@ -5138,7 +5154,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [108 <./3/figures/flujograma_metadata_t1_t2.png> <./3/figures/flujograma_metada
 ta_t3.png>]
-<3/figures/diagrama_flujo_scrapping_comentarios.png, id=1530, 395.5578pt x 714.
+<3/figures/diagrama_flujo_scrapping_comentarios.png, id=1529, 395.5578pt x 714.
 0276pt>
 File: 3/figures/diagrama_flujo_scrapping_comentarios.png Graphic file (type png
 )
@@ -5247,7 +5263,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [111]
-<3/figures/description_data_clean.png, id=1547, 228.3732pt x 520.8258pt>
+<3/figures/description_data_clean.png, id=1546, 228.3732pt x 520.8258pt>
 File: 3/figures/description_data_clean.png Graphic file (type png)
 <use 3/figures/description_data_clean.png>
 Package pdftex.def Info: 3/figures/description_data_clean.png  used on input li
@@ -5263,13 +5279,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [112 <./3/figures/description_data_clean.png>]
-<3/figures/description_text_to_sequence.png, id=1554, 225.4824pt x 646.5756pt>
+<3/figures/description_text_to_sequence.png, id=1553, 225.4824pt x 646.5756pt>
 File: 3/figures/description_text_to_sequence.png Graphic file (type png)
 <use 3/figures/description_text_to_sequence.png>
 Package pdftex.def Info: 3/figures/description_text_to_sequence.png  used on in
 put line 607.
 (pdftex.def)             Requested size: 147.2133pt x 422.15355pt.
-<3/figures/description_embedding_matrix.png, id=1555, 199.4652pt x 312.6882pt>
+<3/figures/description_embedding_matrix.png, id=1554, 199.4652pt x 312.6882pt>
 File: 3/figures/description_embedding_matrix.png Graphic file (type png)
 <use 3/figures/description_embedding_matrix.png>
 Package pdftex.def Info: 3/figures/description_embedding_matrix.png  used on in
@@ -5893,7 +5909,7 @@ Overfull \hbox (9.82306pt too wide) in alignment at lines 885--916
  [] [] [] 
  []
 
-<5/figures/demo_flux.png, id=1607, 932.7648pt x 496.7358pt>
+<5/figures/demo_flux.png, id=1606, 932.7648pt x 496.7358pt>
 File: 5/figures/demo_flux.png Graphic file (type png)
 <use 5/figures/demo_flux.png>
 Package pdftex.def Info: 5/figures/demo_flux.png  used on input line 932.
@@ -5989,7 +6005,7 @@ LaTeX Warning: Citation 'gl_izco2018bdc' on page 126 undefined on input line 10
 LaTeX Warning: Citation 'gl_google2018machinelearning' on page 126 undefined on
  input line 1017.
 
-<3/figures/auc_example.jpg, id=1624, 366.168pt x 257.2812pt>
+<3/figures/auc_example.jpg, id=1623, 366.168pt x 257.2812pt>
 File: 3/figures/auc_example.jpg Graphic file (type jpg)
 <use 3/figures/auc_example.jpg>
 Package pdftex.def Info: 3/figures/auc_example.jpg  used on input line 1025.
@@ -6014,7 +6030,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Warning: Citation 'gl_gonzalez2019auc' on page 127 undefined on input lin
 e 1034.
 
-<3/figures/auc_curves.jpg, id=1632, 885.3075pt x 353.32pt>
+<3/figures/auc_curves.jpg, id=1631, 885.3075pt x 353.32pt>
 File: 3/figures/auc_curves.jpg Graphic file (type jpg)
 <use 3/figures/auc_curves.jpg>
 Package pdftex.def Info: 3/figures/auc_curves.jpg  used on input line 1046.
@@ -6488,7 +6504,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [129]
-<3/figures/cronograma.png, id=1649, 1283.39474pt x 501.072pt>
+<3/figures/cronograma.png, id=1648, 1283.39474pt x 501.072pt>
 File: 3/figures/cronograma.png Graphic file (type png)
 <use 3/figures/cronograma.png>
 Package pdftex.def Info: 3/figures/cronograma.png  used on input line 1112.
@@ -6560,12 +6576,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [132
 
 ]
-<4/figures/web_robots_2019.png, id=1670, 1129.97156pt x 658.71094pt>
+<4/figures/web_robots_2019.png, id=1669, 1129.97156pt x 658.71094pt>
 File: 4/figures/web_robots_2019.png Graphic file (type png)
 <use 4/figures/web_robots_2019.png>
 Package pdftex.def Info: 4/figures/web_robots_2019.png  used on input line 28.
 (pdftex.def)             Requested size: 452.96826pt x 264.05261pt.
-<4/figures/dataset_201907.png, id=1672, 870.25125pt x 271.76532pt>
+<4/figures/dataset_201907.png, id=1671, 870.25125pt x 271.76532pt>
 File: 4/figures/dataset_201907.png Graphic file (type png)
 <use 4/figures/dataset_201907.png>
 Package pdftex.def Info: 4/figures/dataset_201907.png  used on input line 41.
@@ -6580,7 +6596,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [133 <./4/figures/web_robots_2019.png>]
-<4/figures/metadata_kaggle_preview.jpg, id=1680, 694.2738pt x 425.9112pt>
+<4/figures/metadata_kaggle_preview.jpg, id=1679, 694.2738pt x 425.9112pt>
 File: 4/figures/metadata_kaggle_preview.jpg Graphic file (type jpg)
 <use 4/figures/metadata_kaggle_preview.jpg>
 Package pdftex.def Info: 4/figures/metadata_kaggle_preview.jpg  used on input l
@@ -6617,20 +6633,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [135 <./4/figures/metadata_kaggle_preview.jpg>]
-<4/figures/description_scraping.jpg, id=1689, 625.73775pt x 414.348pt>
+<4/figures/description_scraping.jpg, id=1688, 625.73775pt x 414.348pt>
 File: 4/figures/description_scraping.jpg Graphic file (type jpg)
 <use 4/figures/description_scraping.jpg>
 Package pdftex.def Info: 4/figures/description_scraping.jpg  used on input line
  127.
 (pdftex.def)             Requested size: 452.96826pt x 299.94887pt.
-<4/figures/description_scraping_execution.jpg, id=1691, 643.203pt x 389.65575pt
+<4/figures/description_scraping_execution.jpg, id=1690, 643.203pt x 389.65575pt
 >
 File: 4/figures/description_scraping_execution.jpg Graphic file (type jpg)
 <use 4/figures/description_scraping_execution.jpg>
 Package pdftex.def Info: 4/figures/description_scraping_execution.jpg  used on 
 input line 140.
 (pdftex.def)             Requested size: 430.31847pt x 260.6934pt.
-<4/figures/description_kaggle_preview.jpg, id=1693, 211.0284pt x 290.5254pt>
+<4/figures/description_kaggle_preview.jpg, id=1692, 211.0284pt x 290.5254pt>
 File: 4/figures/description_kaggle_preview.jpg Graphic file (type jpg)
 <use 4/figures/description_kaggle_preview.jpg>
 Package pdftex.def Info: 4/figures/description_kaggle_preview.jpg  used on inpu
@@ -6646,7 +6662,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [136]
-<4/figures/comments_scraping.jpg, id=1699, 608.2725pt x 530.58224pt>
+<4/figures/comments_scraping.jpg, id=1698, 608.2725pt x 530.58224pt>
 File: 4/figures/comments_scraping.jpg Graphic file (type jpg)
 <use 4/figures/comments_scraping.jpg>
 Package pdftex.def Info: 4/figures/comments_scraping.jpg  used on input line 16
@@ -6672,19 +6688,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [138 <./4/figures/description_scraping_execution.jpg> <./4/figures/description_
 kaggle_preview.jpg>]
-<4/figures/comments_scraping_execution.jpg, id=1710, 569.12625pt x 122.859pt>
+<4/figures/comments_scraping_execution.jpg, id=1709, 569.12625pt x 122.859pt>
 File: 4/figures/comments_scraping_execution.jpg Graphic file (type jpg)
 <use 4/figures/comments_scraping_execution.jpg>
 Package pdftex.def Info: 4/figures/comments_scraping_execution.jpg  used on inp
 ut line 175.
 (pdftex.def)             Requested size: 452.96826pt x 97.78864pt.
-<4/figures/gc_instances_comments.jpg, id=1712, 531.78674pt x 260.172pt>
+<4/figures/gc_instances_comments.jpg, id=1711, 531.78674pt x 260.172pt>
 File: 4/figures/gc_instances_comments.jpg Graphic file (type jpg)
 <use 4/figures/gc_instances_comments.jpg>
 Package pdftex.def Info: 4/figures/gc_instances_comments.jpg  used on input lin
 e 186.
 (pdftex.def)             Requested size: 430.31847pt x 210.52774pt.
-<4/figures/comments_kaggle_preview.jpg, id=1714, 211.0284pt x 241.3818pt>
+<4/figures/comments_kaggle_preview.jpg, id=1713, 211.0284pt x 241.3818pt>
 File: 4/figures/comments_kaggle_preview.jpg Graphic file (type jpg)
 <use 4/figures/comments_kaggle_preview.jpg>
 Package pdftex.def Info: 4/figures/comments_kaggle_preview.jpg  used on input l
@@ -6700,7 +6716,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [139 <./4/figures/comments_scraping.jpg>]
-<4/figures/projects by state.png, id=1720, 376.5267pt x 281.1303pt>
+<4/figures/projects by state.png, id=1719, 376.5267pt x 281.1303pt>
 File: 4/figures/projects by state.png Graphic file (type png)
 <use 4/figures/projects by state.png>
 Package pdftex.def Info: 4/figures/projects by state.png  used on input line 21
@@ -6717,13 +6733,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [140 <./4/figures/comments_scraping_execution.jpg> <./4/figures/gc_instances_co
 mments.jpg>]
-<4/figures/projects state by year.png, id=1726, 416.2752pt x 329.5512pt>
+<4/figures/projects state by year.png, id=1725, 416.2752pt x 329.5512pt>
 File: 4/figures/projects state by year.png Graphic file (type png)
 <use 4/figures/projects state by year.png>
 Package pdftex.def Info: 4/figures/projects state by year.png  used on input li
 ne 222.
 (pdftex.def)             Requested size: 348.78749pt x 276.1372pt.
-<4/figures/projects state evolution by year.png, id=1728, 455.301pt x 339.669pt
+<4/figures/projects state evolution by year.png, id=1727, 455.301pt x 339.669pt
 >
 File: 4/figures/projects state evolution by year.png Graphic file (type png)
 <use 4/figures/projects state evolution by year.png>
@@ -6741,7 +6757,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [141 <./4/figures/comments_kaggle_preview.jpg> <./4/figures/projects by state.p
 ng>]
-<4/figures/country_distribution.png, id=1736, 372.1905pt x 291.9708pt>
+<4/figures/country_distribution.png, id=1735, 372.1905pt x 291.9708pt>
 File: 4/figures/country_distribution.png Graphic file (type png)
 <use 4/figures/country_distribution.png>
 Package pdftex.def Info: 4/figures/country_distribution.png  used on input line
@@ -6752,7 +6768,7 @@ Overfull \hbox (20.61118pt too wide) in paragraph at lines 247--248
  [][] 
  []
 
-<4/figures/currency_distribution.png, id=1737, 372.1905pt x 291.9708pt>
+<4/figures/currency_distribution.png, id=1736, 372.1905pt x 291.9708pt>
 File: 4/figures/currency_distribution.png Graphic file (type png)
 <use 4/figures/currency_distribution.png>
 Package pdftex.def Info: 4/figures/currency_distribution.png  used on input lin
@@ -6763,7 +6779,7 @@ Overfull \hbox (21.19974pt too wide) in paragraph at lines 252--253
  [][] 
  []
 
-<4/figures/category_distribution.png, id=1738, 394.5942pt x 281.1303pt>
+<4/figures/category_distribution.png, id=1737, 394.5942pt x 281.1303pt>
 File: 4/figures/category_distribution.png Graphic file (type png)
 <use 4/figures/category_distribution.png>
 Package pdftex.def Info: 4/figures/category_distribution.png  used on input lin
@@ -6795,7 +6811,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [142 <./4/figures/projects state by year.png>]
-<4/figures/caja_bigote_backers.png, id=1744, 606.01407pt x 144.54pt>
+<4/figures/caja_bigote_backers.png, id=1743, 606.01407pt x 144.54pt>
 File: 4/figures/caja_bigote_backers.png Graphic file (type png)
 <use 4/figures/caja_bigote_backers.png>
 Package pdftex.def Info: 4/figures/caja_bigote_backers.png  used on input line 
@@ -6813,13 +6829,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [143 <./4/figures/projects state evolution by year.png> <./4/figures/country_di
 stribution.png> <./4/figures/currency_distribution.png> <./4/figures/category_d
 istribution.png>]
-<4/figures/caja_bigote_goal.png, id=1753, 618.05907pt x 145.29282pt>
+<4/figures/caja_bigote_goal.png, id=1752, 618.05907pt x 145.29282pt>
 File: 4/figures/caja_bigote_goal.png Graphic file (type png)
 <use 4/figures/caja_bigote_goal.png>
 Package pdftex.def Info: 4/figures/caja_bigote_goal.png  used on input line 295
 .
 (pdftex.def)             Requested size: 362.37598pt x 85.18993pt.
-<4/figures/caja_bigote_pledged.png, id=1754, 612.03656pt x 147.55125pt>
+<4/figures/caja_bigote_pledged.png, id=1753, 612.03656pt x 147.55125pt>
 File: 4/figures/caja_bigote_pledged.png Graphic file (type png)
 <use 4/figures/caja_bigote_pledged.png>
 Package pdftex.def Info: 4/figures/caja_bigote_pledged.png  used on input line 
@@ -6835,7 +6851,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [144 <./4/figures/caja_bigote_backers.png> <./4/figures/caja_bigote_goal.png>]
-<4/figures/caja_bigote_duration.png, id=1760, 620.3175pt x 146.04562pt>
+<4/figures/caja_bigote_duration.png, id=1759, 620.3175pt x 146.04562pt>
 File: 4/figures/caja_bigote_duration.png Graphic file (type png)
 <use 4/figures/caja_bigote_duration.png>
 Package pdftex.def Info: 4/figures/caja_bigote_duration.png  used on input line
@@ -6852,7 +6868,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [145 <./4/figures/caja_bigote_pledged.png> <./4/figures/caja_bigote_duration.pn
 g>]
-<4/figures/metadata correlation.png, id=1766, 434.3427pt x 302.0886pt>
+<4/figures/metadata correlation.png, id=1765, 434.3427pt x 302.0886pt>
 File: 4/figures/metadata correlation.png Graphic file (type png)
 <use 4/figures/metadata correlation.png>
 Package pdftex.def Info: 4/figures/metadata correlation.png  used on input line
@@ -6868,7 +6884,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [146 <./4/figures/metadata correlation.png>]
-<4/figures/metadata cor-plot2.png, id=1773, 985.0401pt x 889.6437pt>
+<4/figures/metadata cor-plot2.png, id=1772, 985.0401pt x 889.6437pt>
 File: 4/figures/metadata cor-plot2.png Graphic file (type png)
 <use 4/figures/metadata cor-plot2.png>
 Package pdftex.def Info: 4/figures/metadata cor-plot2.png  used on input line 3
@@ -6884,13 +6900,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [147 <./4/figures/metadata cor-plot2.png>]
-<4/figures/projects description by state.png, id=1780, 462.528pt x 346.896pt>
+<4/figures/projects description by state.png, id=1779, 462.528pt x 346.896pt>
 File: 4/figures/projects description by state.png Graphic file (type png)
 <use 4/figures/projects description by state.png>
 Package pdftex.def Info: 4/figures/projects description by state.png  used on i
 nput line 369.
 (pdftex.def)             Requested size: 339.7262pt x 254.80934pt.
-<4/figures/description_wordcloud_original_data.png, id=1781, 372.1905pt x 193.6
+<4/figures/description_wordcloud_original_data.png, id=1780, 372.1905pt x 193.6
 836pt>
 File: 4/figures/description_wordcloud_original_data.png Graphic file (type png)
 
@@ -6909,7 +6925,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [148 <./4/figures/projects description by state.png> <./4/figures/description_w
 ordcloud_original_data.png>]
-<4/figures/projects comment by state.png, id=1790, 462.528pt x 346.896pt>
+<4/figures/projects comment by state.png, id=1789, 462.528pt x 346.896pt>
 File: 4/figures/projects comment by state.png Graphic file (type png)
 <use 4/figures/projects comment by state.png>
 Package pdftex.def Info: 4/figures/projects comment by state.png  used on input
@@ -6925,14 +6941,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [149 <./4/figures/projects comment by state.png>]
-<4/figures/total comments by projects state.png, id=1797, 377.9721pt x 294.8616
+<4/figures/total comments by projects state.png, id=1796, 377.9721pt x 294.8616
 pt>
 File: 4/figures/total comments by projects state.png Graphic file (type png)
 <use 4/figures/total comments by projects state.png>
 Package pdftex.def Info: 4/figures/total comments by projects state.png  used o
 n input line 407.
 (pdftex.def)             Requested size: 199.30713pt x 155.47954pt.
-<4/figures/comments_wordcloud_wordunit.png, id=1799, 372.1905pt x 193.6836pt>
+<4/figures/comments_wordcloud_wordunit.png, id=1798, 372.1905pt x 193.6836pt>
 File: 4/figures/comments_wordcloud_wordunit.png Graphic file (type png)
 <use 4/figures/comments_wordcloud_wordunit.png>
 Package pdftex.def Info: 4/figures/comments_wordcloud_wordunit.png  used on inp
@@ -6975,7 +6991,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [150 <./4/figures/total comments by projects state.png> <./4/figures/comments_w
 ordcloud_wordunit.png>]
-<4/figures/metadata correlation v2.png, id=1808, 444.4605pt x 374.3586pt>
+<4/figures/metadata correlation v2.png, id=1807, 444.4605pt x 374.3586pt>
 File: 4/figures/metadata correlation v2.png Graphic file (type png)
 <use 4/figures/metadata correlation v2.png>
 Package pdftex.def Info: 4/figures/metadata correlation v2.png  used on input l
@@ -7020,13 +7036,13 @@ Overfull \hbox (83.1683pt too wide) in paragraph at lines 502--503
 \OT1/ptm/m/n/12 res-pec-ti-va-men-te ([]; []; [];
  []
 
-<4/figures/train_test_split.jpg, id=1815, 629.9535pt x 26.499pt>
+<4/figures/train_test_split.jpg, id=1814, 629.9535pt x 26.499pt>
 File: 4/figures/train_test_split.jpg Graphic file (type jpg)
 <use 4/figures/train_test_split.jpg>
 Package pdftex.def Info: 4/figures/train_test_split.jpg  used on input line 506
 .
 (pdftex.def)             Requested size: 452.96826pt x 19.05417pt.
-<4/figures/metadata_scaler_function.jpg, id=1817, 386.6445pt x 78.2925pt>
+<4/figures/metadata_scaler_function.jpg, id=1816, 386.6445pt x 78.2925pt>
 File: 4/figures/metadata_scaler_function.jpg Graphic file (type jpg)
 <use 4/figures/metadata_scaler_function.jpg>
 Package pdftex.def Info: 4/figures/metadata_scaler_function.jpg  used on input 
@@ -7104,13 +7120,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [153 <./4/figures/metadata_scaler_function.jpg>]
-<4/figures/description_wordcloud.png, id=1829, 372.1905pt x 193.6836pt>
+<4/figures/description_wordcloud.png, id=1828, 372.1905pt x 193.6836pt>
 File: 4/figures/description_wordcloud.png Graphic file (type png)
 <use 4/figures/description_wordcloud.png>
 Package pdftex.def Info: 4/figures/description_wordcloud.png  used on input lin
 e 548.
 (pdftex.def)             Requested size: 294.4266pt x 153.21523pt.
-<4/figures/description_word_representation.jpg, id=1831, 477.58424pt x 269.2057
+<4/figures/description_word_representation.jpg, id=1830, 477.58424pt x 269.2057
 5pt>
 File: 4/figures/description_word_representation.jpg Graphic file (type jpg)
 <use 4/figures/description_word_representation.jpg>
@@ -7122,7 +7138,7 @@ Package pdftex.def Info: 4/figures/description_word_representation.jpg  used on
 LaTeX Warning: Citation 'tec_malik2019pythonnlp' on page 154 undefined on input
  line 568.
 
-<4/figures/description_embedding_matrix.jpg, id=1833, 348.70274pt x 224.037pt>
+<4/figures/description_embedding_matrix.jpg, id=1832, 348.70274pt x 224.037pt>
 File: 4/figures/description_embedding_matrix.jpg Graphic file (type jpg)
 <use 4/figures/description_embedding_matrix.jpg>
 Package pdftex.def Info: 4/figures/description_embedding_matrix.jpg  used on in
@@ -7147,7 +7163,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [155 <./4/figures/description_word_representation.jpg> <./4/figures/description
 _embedding_matrix.jpg>]
-<4/figures/comments_wordcloud_processed.png, id=1844, 372.1905pt x 193.6836pt>
+<4/figures/comments_wordcloud_processed.png, id=1843, 372.1905pt x 193.6836pt>
 File: 4/figures/comments_wordcloud_processed.png Graphic file (type png)
 <use 4/figures/comments_wordcloud_processed.png>
 Package pdftex.def Info: 4/figures/comments_wordcloud_processed.png  used on in
@@ -7168,7 +7184,7 @@ Cap\'{\i }tulo V.
 LaTeX Warning: Citation 'pr_yu2018deeplearning' on page 157 undefined on input 
 line 11.
 
-<4/figures/model_mlp_metadata.png, id=1854, 408.52625pt x 629.35126pt>
+<4/figures/model_mlp_metadata.png, id=1853, 408.52625pt x 629.35126pt>
 File: 4/figures/model_mlp_metadata.png Graphic file (type png)
 <use 4/figures/model_mlp_metadata.png>
 Package pdftex.def Info: 4/figures/model_mlp_metadata.png  used on input line 1
@@ -7211,7 +7227,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Warning: Citation 'tec_malik2019pythonnlp' on page 159 undefined on input
  line 40.
 
-<4/figures/model_cnn_description.png, id=1866, 642.4pt x 739.76375pt>
+<4/figures/model_cnn_description.png, id=1865, 642.4pt x 739.76375pt>
 File: 4/figures/model_cnn_description.png Graphic file (type png)
 <use 4/figures/model_cnn_description.png>
 Package pdftex.def Info: 4/figures/model_cnn_description.png  used on input lin
@@ -7233,7 +7249,7 @@ ined on input line 58.
 
 LaTeX Warning: Citation '' on page 160 undefined on input line 58.
 
-<4/figures/model_rnn_comments.png, id=1873, 590.205pt x 517.935pt>
+<4/figures/model_rnn_comments.png, id=1872, 590.205pt x 517.935pt>
 File: 4/figures/model_rnn_comments.png Graphic file (type png)
 <use 4/figures/model_rnn_comments.png>
 Package pdftex.def Info: 4/figures/model_rnn_comments.png  used on input line 7
@@ -7707,7 +7723,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [163]
-<4/figures/final_stacked_model.png, id=1894, 1908.12875pt x 1073.00874pt>
+<4/figures/final_stacked_model.png, id=1893, 1908.12875pt x 1073.00874pt>
 File: 4/figures/final_stacked_model.png Graphic file (type png)
 <use 4/figures/final_stacked_model.png>
 Package pdftex.def Info: 4/figures/final_stacked_model.png  used on input line 
@@ -7765,13 +7781,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [165
 
 ]
-<5/figures/metadata_model_acc_loss.png, id=1908, 785.5749pt x 284.0211pt>
+<5/figures/metadata_model_acc_loss.png, id=1907, 785.5749pt x 284.0211pt>
 File: 5/figures/metadata_model_acc_loss.png Graphic file (type png)
 <use 5/figures/metadata_model_acc_loss.png>
 Package pdftex.def Info: 5/figures/metadata_model_acc_loss.png  used on input l
 ine 212.
 (pdftex.def)             Requested size: 452.96826pt x 163.77023pt.
-<5/figures/metadata_confusion_matrix.png, id=1910, 381.5856pt x 298.4751pt>
+<5/figures/metadata_confusion_matrix.png, id=1909, 381.5856pt x 298.4751pt>
 File: 5/figures/metadata_confusion_matrix.png Graphic file (type png)
 <use 5/figures/metadata_confusion_matrix.png>
 Package pdftex.def Info: 5/figures/metadata_confusion_matrix.png  used on input
@@ -7805,7 +7821,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [167 <./5/figures/metadata_confusion_matrix.png>]
-<5/figures/metadata_auc.png, id=1923, 417.7206pt x 328.8285pt>
+<5/figures/metadata_auc.png, id=1922, 417.7206pt x 328.8285pt>
 File: 5/figures/metadata_auc.png Graphic file (type png)
 <use 5/figures/metadata_auc.png>
 Package pdftex.def Info: 5/figures/metadata_auc.png  used on input line 273.
@@ -7818,7 +7834,7 @@ t line 281.
 
 LaTeX Warning: Citation '' on page 168 undefined on input line 281.
 
-<5/figures/description_model_acc_loss.png, id=1925, 785.5749pt x 284.0211pt>
+<5/figures/description_model_acc_loss.png, id=1924, 785.5749pt x 284.0211pt>
 File: 5/figures/description_model_acc_loss.png Graphic file (type png)
 <use 5/figures/description_model_acc_loss.png>
 Package pdftex.def Info: 5/figures/description_model_acc_loss.png  used on inpu
@@ -7833,7 +7849,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [168 <./5/figures/metadata_auc.png>]
-<5/figures/description_confusion_matrix.png, id=1933, 381.5856pt x 298.4751pt>
+<5/figures/description_confusion_matrix.png, id=1932, 381.5856pt x 298.4751pt>
 File: 5/figures/description_confusion_matrix.png Graphic file (type png)
 <use 5/figures/description_confusion_matrix.png>
 Package pdftex.def Info: 5/figures/description_confusion_matrix.png  used on in
@@ -7862,7 +7878,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [169 <./5/figures/description_model_acc_loss.png> <./5/figures/description_conf
 usion_matrix.png>]
-<5/figures/description_auc.png, id=1942, 417.7206pt x 328.8285pt>
+<5/figures/description_auc.png, id=1941, 417.7206pt x 328.8285pt>
 File: 5/figures/description_auc.png Graphic file (type png)
 <use 5/figures/description_auc.png>
 Package pdftex.def Info: 5/figures/description_auc.png  used on input line 354.
@@ -7876,7 +7892,7 @@ t line 362.
 
 LaTeX Warning: Citation '' on page 170 undefined on input line 362.
 
-<5/figures/comments_model_acc_loss.png, id=1944, 785.5749pt x 284.0211pt>
+<5/figures/comments_model_acc_loss.png, id=1943, 785.5749pt x 284.0211pt>
 File: 5/figures/comments_model_acc_loss.png Graphic file (type png)
 <use 5/figures/comments_model_acc_loss.png>
 Package pdftex.def Info: 5/figures/comments_model_acc_loss.png  used on input l
@@ -7900,7 +7916,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [171 <./5/figures/comments_model_acc_loss.png>]
-<5/figures/comments_confusion_matrix.png, id=1956, 381.5856pt x 298.4751pt>
+<5/figures/comments_confusion_matrix.png, id=1955, 381.5856pt x 298.4751pt>
 File: 5/figures/comments_confusion_matrix.png Graphic file (type png)
 <use 5/figures/comments_confusion_matrix.png>
 Package pdftex.def Info: 5/figures/comments_confusion_matrix.png  used on input
@@ -7916,7 +7932,7 @@ Overfull \hbox (19.59666pt too wide) in paragraph at lines 400--419
  [][] 
  []
 
-<5/figures/comments_auc.png, id=1959, 417.7206pt x 328.8285pt>
+<5/figures/comments_auc.png, id=1958, 417.7206pt x 328.8285pt>
 File: 5/figures/comments_auc.png Graphic file (type png)
 <use 5/figures/comments_auc.png>
 Package pdftex.def Info: 5/figures/comments_auc.png  used on input line 434.
@@ -7937,13 +7953,13 @@ t line 442.
 
 LaTeX Warning: Citation '' on page 173 undefined on input line 442.
 
-<5/figures/stacked_model_acc_loss.png, id=1966, 785.5749pt x 284.0211pt>
+<5/figures/stacked_model_acc_loss.png, id=1965, 785.5749pt x 284.0211pt>
 File: 5/figures/stacked_model_acc_loss.png Graphic file (type png)
 <use 5/figures/stacked_model_acc_loss.png>
 Package pdftex.def Info: 5/figures/stacked_model_acc_loss.png  used on input li
 ne 453.
 (pdftex.def)             Requested size: 452.96826pt x 163.77023pt.
-<5/figures/stacked_confusion_matrix.png, id=1968, 381.5856pt x 298.4751pt>
+<5/figures/stacked_confusion_matrix.png, id=1967, 381.5856pt x 298.4751pt>
 File: 5/figures/stacked_confusion_matrix.png Graphic file (type png)
 <use 5/figures/stacked_confusion_matrix.png>
 Package pdftex.def Info: 5/figures/stacked_confusion_matrix.png  used on input 
@@ -7978,7 +7994,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [174 <./5/figures/stacked_model_acc_loss.png> <./5/figures/stacked_confusion_ma
 trix.png>]
-<5/figures/stacked_auc.png, id=1983, 417.7206pt x 328.8285pt>
+<5/figures/stacked_auc.png, id=1982, 417.7206pt x 328.8285pt>
 File: 5/figures/stacked_auc.png Graphic file (type png)
 <use 5/figures/stacked_auc.png>
 Package pdftex.def Info: 5/figures/stacked_auc.png  used on input line 511.
@@ -8026,13 +8042,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [176]
-<4/figures/prototipo_input_project1.jpg, id=1998, 754.017pt x 109.00725pt>
+<4/figures/prototipo_input_project1.jpg, id=1997, 754.017pt x 109.00725pt>
 File: 4/figures/prototipo_input_project1.jpg Graphic file (type jpg)
 <use 4/figures/prototipo_input_project1.jpg>
 Package pdftex.def Info: 4/figures/prototipo_input_project1.jpg  used on input 
 line 571.
 (pdftex.def)             Requested size: 452.96826pt x 65.48468pt.
-<4/figures/example_project_150221.jpg, id=2000, 947.9415pt x 531.78674pt>
+<4/figures/example_project_150221.jpg, id=1999, 947.9415pt x 531.78674pt>
 File: 4/figures/example_project_150221.jpg Graphic file (type jpg)
 <use 4/figures/example_project_150221.jpg>
 Package pdftex.def Info: 4/figures/example_project_150221.jpg  used on input li
@@ -8049,26 +8065,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [177 <./4/figures/prototipo_input_project1.jpg> <./4/figures/example_project_15
 0221.jpg>]
-<4/figures/metadata_scraped_project.jpg, id=2006, 335.45325pt x 93.951pt>
+<4/figures/metadata_scraped_project.jpg, id=2005, 335.45325pt x 93.951pt>
 File: 4/figures/metadata_scraped_project.jpg Graphic file (type jpg)
 <use 4/figures/metadata_scraped_project.jpg>
 Package pdftex.def Info: 4/figures/metadata_scraped_project.jpg  used on input 
 line 602.
 (pdftex.def)             Requested size: 339.7262pt x 95.15067pt.
-<4/figures/description_scraped_project.jpg, id=2007, 746.18774pt x 510.10574pt>
+<4/figures/description_scraped_project.jpg, id=2006, 746.18774pt x 510.10574pt>
 
 File: 4/figures/description_scraped_project.jpg Graphic file (type jpg)
 <use 4/figures/description_scraped_project.jpg>
 Package pdftex.def Info: 4/figures/description_scraped_project.jpg  used on inp
 ut line 607.
 (pdftex.def)             Requested size: 215.15923pt x 147.08624pt.
-<4/figures/comments_scraped_project.jpg, id=2008, 752.8125pt x 254.1495pt>
+<4/figures/comments_scraped_project.jpg, id=2007, 752.8125pt x 254.1495pt>
 File: 4/figures/comments_scraped_project.jpg Graphic file (type jpg)
 <use 4/figures/comments_scraped_project.jpg>
 Package pdftex.def Info: 4/figures/comments_scraped_project.jpg  used on input 
 line 612.
 (pdftex.def)             Requested size: 215.15923pt x 72.63889pt.
-<4/figures/demo_project_prediction.jpg, id=2010, 323.40825pt x 33.12375pt>
+<4/figures/demo_project_prediction.jpg, id=2009, 323.40825pt x 33.12375pt>
 File: 4/figures/demo_project_prediction.jpg Graphic file (type jpg)
 <use 4/figures/demo_project_prediction.jpg>
 Package pdftex.def Info: 4/figures/demo_project_prediction.jpg  used on input l
@@ -8174,7 +8190,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ] (anexos/anexo.tex
-<anexos/arbol_problemas.png, id=2038, 915.9018pt x 526.1256pt>
+<anexos/arbol_problemas.png, id=2037, 915.9018pt x 526.1256pt>
 File: anexos/arbol_problemas.png Graphic file (type png)
 <use anexos/arbol_problemas.png>
 Package pdftex.def Info: anexos/arbol_problemas.png  used on input line 16.
@@ -8195,7 +8211,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [184
 
  <./anexos/arbol_problemas.png>]
-<anexos/arbol_objetivos.png, id=2045, 915.9018pt x 526.1256pt>
+<anexos/arbol_objetivos.png, id=2044, 915.9018pt x 526.1256pt>
 File: anexos/arbol_objetivos.png Graphic file (type png)
 <use anexos/arbol_objetivos.png>
 Package pdftex.def Info: anexos/arbol_objetivos.png  used on input line 29.
@@ -8216,43 +8232,38 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [185
 
  <./anexos/arbol_objetivos.png>]
-Underfull \hbox (badness 1365) in paragraph at lines 47--47
-\OT1/ptm/m/n/12 tio web de crowd-
+Underfull \hbox (badness 3557) in paragraph at lines 47--47
+\OT1/ptm/m/n/12 si[]on compu-tacio-nal
  []
 
 
 Underfull \hbox (badness 3579) in paragraph at lines 47--47
-\OT1/ptm/m/n/12 fun-ding Kicks-tar-ter
+\OT1/ptm/m/n/12 si-fi-ca-ci[]on tem-pra-na
  []
 
 
-Underfull \hbox (badness 6220) in paragraph at lines 47--47
-[]|\OT1/ptm/m/n/12 Predecir el es-ta-do
+Underfull \hbox (badness 1097) in paragraph at lines 47--47
+\OT1/ptm/m/n/12 de la ran-cha (Phy-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
-\OT1/ptm/m/n/12 de fi-nan-cia-mien-to
+Underfull \hbox (badness 1043) in paragraph at lines 47--47
+\OT1/ptm/m/n/12 tophtho-ra in-fes-tans)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
-\OT1/ptm/m/n/12 de pro-yec-tos de
+Underfull \hbox (badness 2799) in paragraph at lines 47--47
+\OT1/ptm/m/n/12 tacio-nal ba-sa-do en
  []
 
 
-Underfull \hbox (badness 3333) in paragraph at lines 47--47
-\OT1/ptm/m/n/12 tec-no-log[]^^Pa en si-tio
+Underfull \hbox (badness 1902) in paragraph at lines 47--47
+\OT1/ptm/m/n/12 za-je pro-fun-do pa-ra
  []
 
 
-Underfull \hbox (badness 4266) in paragraph at lines 47--47
-\OT1/ptm/m/n/12 web de crowd-fun-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
-\OT1/ptm/m/n/12 ding Kicks-tar-ter
+Underfull \hbox (badness 1082) in paragraph at lines 47--47
+\OT1/ptm/m/n/12 pra-na de la ran-cha
  []
 
 
@@ -8307,147 +8318,117 @@ Overfull \vbox (56.55011pt too high) detected at line 73
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]|\OT1/ptm/m/n/12 ?`Qu[]e al-ter-na-ti-vas
+[]|\OT1/ptm/m/n/12 ?`C[]omo po-de-mos
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\OT1/ptm/m/n/12 tra-ba-jos pre-vios
+\OT1/ptm/m/n/12 cha"Phytophthora
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\OT1/ptm/m/n/12 pa-ra se-lec-cio-nar
+\OT1/ptm/m/n/12 que sea pre-ci-so,
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 77--77
+\OT1/ptm/m/n/12 efi-cien-te y ro-bus-to
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\OT1/ptm/m/n/12 ca-rac-ter[]^^Psti-cas y
+\OT1/ptm/m/n/12 a la va-ria-bi-li-dad
+ []
+
+
+Underfull \hbox (badness 6094) in paragraph at lines 77--77
+\OT1/ptm/m/n/12 de las le-sio-nes y
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 77--77
-\OT1/ptm/m/n/12 de tra-ba-jo de la
+\OT1/ptm/m/n/12 las con-di-cio-nes
  []
 
 
-Underfull \hbox (badness 1490) in paragraph at lines 77--77
-\OT1/ptm/m/n/12 ti-vas pro-pues-tas en
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\OT1/ptm/m/n/12 cha"Phytophthora
  []
 
 
-Underfull \hbox (badness 4531) in paragraph at lines 77--77
-[]|\OT1/ptm/m/n/12 El an[]ali-sis de las
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\OT1/ptm/m/n/12 in-fes-tans que al-
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 77--77
-\OT1/ptm/m/n/12 tas en los tra-ba-jos
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\OT1/ptm/m/n/12 su-pe-rior al 95$ $%
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 77--77
-\OT1/ptm/m/n/12 se-lec-ci[]on de ca-rac-
+Underfull \hbox (badness 1205) in paragraph at lines 77--77
+\OT1/ptm/m/n/12 en la iden-ti-fi-ca-ci[]on
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-[]|\OT1/ptm/m/n/12 ?`Qu[]e con-di-cio-nes
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\OT1/ptm/m/n/12 y cla-si-fi-ca-ci[]on de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\OT1/ptm/m/n/12 las pro-pues-tas de
+Underfull \hbox (badness 4913) in paragraph at lines 77--77
+[]|\OT1/ptm/m/n/12 La im-ple-men-ta-ci[]on
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 81--81
-\OT1/ptm/m/n/12 la li-te-ra-tu-ra exis-ten
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\OT1/ptm/m/n/12 di-za-je au-tom[]ati-co
  []
 
 
-Underfull \hbox (badness 2261) in paragraph at lines 81--81
-\OT1/ptm/m/n/12 en el am-bien-te de
+Underfull \hbox (badness 2443) in paragraph at lines 77--77
+\OT1/ptm/m/n/12 y seg-men-ta-ci[]on de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\OT1/ptm/m/n/12 de-sa-rro-llo pa-ra
+Underfull \hbox (badness 6575) in paragraph at lines 77--77
+\OT1/ptm/m/n/12 im[]age-nes per-mi-tir[]a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\OT1/ptm/m/n/12 im-ple-men-tar las
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\OT1/ptm/m/n/12 cha"Phytophthora
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\OT1/ptm/m/n/12 ca-rac-ter[]^^Psti-cas del
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\OT1/ptm/m/n/12 in-fes-tans con al-ta
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 81--81
+[]|\OT1/ptm/m/n/12 Entrenar un mo-de-
+ []
+
+
+Underfull \hbox (badness 4647) in paragraph at lines 81--81
+\OT1/ptm/m/n/12 tom[]ati-co ca-paz de
  []
 
 
 Underfull \hbox (badness 3954) in paragraph at lines 81--81
-\OT1/ptm/m/n/12 mo-de-lo de Apren-
+\OT1/ptm/m/n/12 cla-si-fi-car las man-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\OT1/ptm/m/n/12 di-za-je Pro-fun-do
+Underfull \hbox (badness 1377) in paragraph at lines 81--81
+\OT1/ptm/m/n/12 ci-sa de la Ran-cha,
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 81--81
-\OT1/ptm/m/n/12 cas del mo-de-lo de
- []
-
-
-Underfull \hbox (badness 1881) in paragraph at lines 81--81
-\OT1/ptm/m/n/12 do Mul-ti-mo-dal ba-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-[]|\OT1/ptm/m/n/12 La fac-ti-bi-li-dad
- []
-
-
-Underfull \hbox (badness 5403) in paragraph at lines 81--81
-\OT1/ptm/m/n/12 de de-sa-rro-llo pa-ra
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\OT1/ptm/m/n/12 las ca-rac-ter[]^^Psti-cas
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\OT1/ptm/m/n/12 del mo-de-lo de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\OT1/ptm/m/n/12 Apren-di-za-je Pro-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\OT1/ptm/m/n/12 fun-do Mul-ti-mo-dal
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\OT1/ptm/m/n/12 ca-bi-li-dad de las
- []
-
-
-Underfull \hbox (badness 3343) in paragraph at lines 81--81
-\OT1/ptm/m/n/12 con-di-cio-nes de las
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\OT1/ptm/m/n/12 pro-pues-tas de la
+Underfull \hbox (badness 1902) in paragraph at lines 81--81
+\OT1/ptm/m/n/12 te es-ta en-fer-me-dad
  []
 
 
@@ -8459,33 +8440,63 @@ Overfull \vbox (75.40015pt too high) detected at line 85
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 88--88
-\OT1/ptm/m/n/12 je Pro-fun-do Mul-ti-
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]|\OT1/ptm/m/n/12 ?`C[]omo de-sa-rro-llar
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
-[]|\OT1/ptm/m/n/12 El mo-de-lo de
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+\OT1/ptm/m/n/12 men-ta-ci[]on pre-ci-so
  []
 
 
-Underfull \hbox (badness 7099) in paragraph at lines 88--89
-\OT1/ptm/m/n/12 do Mul-ti-mo-dal se
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+\OT1/ptm/m/n/12 las man-chas de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
-\OT1/ptm/m/n/12 ver[]a afec-ta-do por
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+\OT1/ptm/m/n/12 Ran-cha de otros
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
-\OT1/ptm/m/n/12 las ca-rac-ter[]^^Psti-cas
+Underfull \hbox (badness 7221) in paragraph at lines 88--88
+[]|\OT1/ptm/m/n/12 Investigar y de-sa-
  []
 
 
-Underfull \hbox (badness 1895) in paragraph at lines 88--89
-\OT1/ptm/m/n/12 con-si-de-ra-das en su
+Underfull \hbox (badness 8113) in paragraph at lines 88--88
+\OT1/ptm/m/n/12 rro-llar un m[]eto-do
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+\OT1/ptm/m/n/12 de seg-men-ta-ci[]on
+ []
+
+
+Underfull \hbox (badness 4084) in paragraph at lines 88--88
+\OT1/ptm/m/n/12 avan-za-do que per-
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 88--88
+\OT1/ptm/m/n/12 las ho-jas de pa-pa,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+\OT1/ptm/m/n/12 mi-ni-mi-zan-do la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+\OT1/ptm/m/n/12 in-ter-fe-ren-cia de
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 88--89
+\OT1/ptm/m/n/12 de-tec-ci[]on y cla-si-fi-
  []
 
 
@@ -8498,67 +8509,77 @@ Overfull \vbox (37.70007pt too high) detected at line 97
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 102--102
-[]|\OT1/ptm/m/n/12 ?`Qu[]e al-ter-na-ti-vas
+[]|\OT1/ptm/m/n/12 ?`C[]omo re-du-cir el
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 102--102
+\OT1/ptm/m/n/12 tiem-po de pro-ce-sa-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 102--102
-\OT1/ptm/m/n/12 anal[]^^Pti-cas exis-ten
+\OT1/ptm/m/n/12 mien-to re-que-ri-do
  []
 
 
-Underfull \hbox (badness 3668) in paragraph at lines 102--102
-\OT1/ptm/m/n/12 pa-ra ayu-dar a los
+Underfull \hbox (badness 1910) in paragraph at lines 102--102
+\OT1/ptm/m/n/12 pa-ra ana-li-zar gran-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
-\OT1/ptm/m/n/12 em-pren-de-do-res y
+Underfull \hbox (badness 6526) in paragraph at lines 102--102
+\OT1/ptm/m/n/12 des vol[]ume-nes de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
-\OT1/ptm/m/n/12 rra-mien-ta anal[]^^Pti-ca
+Underfull \hbox (badness 3343) in paragraph at lines 102--102
+\OT1/ptm/m/n/12 im[]age-nes de ho-jas
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
-\OT1/ptm/m/n/12 de pro-yec-tos de
+Underfull \hbox (badness 2073) in paragraph at lines 102--102
+\OT1/ptm/m/n/12 de pa-pa y pro-por-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
-\OT1/ptm/m/n/12 tec-no-log[]^^Pa en la
+Underfull \hbox (badness 8132) in paragraph at lines 102--102
+\OT1/ptm/m/n/12 de-tec-ci[]on y cla-si-
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 102--102
-\OT1/ptm/m/n/12 to-ma de de-ci-sio-nes
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
-[]|\OT1/ptm/m/n/12 La he-rra-mien-ta
- []
-
-
-Underfull \hbox (badness 1043) in paragraph at lines 102--102
-\OT1/ptm/m/n/12 anal[]^^Pti-ca im-ple-men-
+Underfull \hbox (badness 2790) in paragraph at lines 102--102
+\OT1/ptm/m/n/12 fi-ca-ci[]on en tiem-po
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 102--102
-\OT1/ptm/m/n/12 ta-da ayu-dar[]a en
- []
-
-
-Underfull \hbox (badness 5022) in paragraph at lines 102--102
-\OT1/ptm/m/n/12 tiem-po real a los
+\OT1/ptm/m/n/12 cia compu-tacio-nal,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 102--102
-\OT1/ptm/m/n/12 em-pren-de-do-res y
+\OT1/ptm/m/n/12 per-mi-tien-do un
+ []
+
+
+Underfull \hbox (badness 8113) in paragraph at lines 102--102
+\OT1/ptm/m/n/12 an[]ali-sis r[]api-do de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+\OT1/ptm/m/n/12 gran-des con-jun-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+\OT1/ptm/m/n/12 tos de da-tos de
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 102--102
+\OT1/ptm/m/n/12 pro-ce-sa-mien-to r[]api-
  []
 
 
@@ -8609,6 +8630,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [188]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 19.61925pt, for example:
+(fancyhdr)                \setlength{\headheight}{19.61925pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
+
+[189]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 19.61925pt, for example:
+(fancyhdr)                \setlength{\headheight}{19.61925pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
+
+[190]
 Underfull \hbox (badness 10000) in paragraph at lines 249--250
 []\OT1/ptm/m/n/12 Recolecci[]on y pre-
  []
@@ -8626,7 +8665,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[189
+[191
 
 
 ]
@@ -8638,25 +8677,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[190]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 19.61925pt, for example:
-(fancyhdr)                \setlength{\headheight}{19.61925pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
-
-[191]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 19.61925pt, for example:
-(fancyhdr)                \setlength{\headheight}{19.61925pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
-
 [192]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 19.61925pt, for example:
+(fancyhdr)                \setlength{\headheight}{19.61925pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
+
+[193]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 19.61925pt, for example:
+(fancyhdr)                \setlength{\headheight}{19.61925pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
+
+[194]
 Overfull \vbox (75.40018pt too high) detected at line 380
  []
 
@@ -8844,28 +8883,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[193
+[195
 
 
 ]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 19.61925pt, for example:
-(fancyhdr)                \setlength{\headheight}{19.61925pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
-
-[194]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 19.61925pt, for example:
-(fancyhdr)                \setlength{\headheight}{19.61925pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
-
-[195]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 19.61925pt, for example:
@@ -8902,6 +8923,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [199]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 19.61925pt, for example:
+(fancyhdr)                \setlength{\headheight}{19.61925pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
+
+[200]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 19.61925pt, for example:
+(fancyhdr)                \setlength{\headheight}{19.61925pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
+
+[201]
 Underfull \hbox (badness 3354) in paragraph at lines 535--535
  []|\OT1/ptm/m/n/12 Hiperpar[]ame-tro| 
  []
@@ -8919,7 +8958,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[200
+[202
 
 
 ]
@@ -8940,7 +8979,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[201
+[203
 
 ]
 Underfull \hbox (badness 3354) in paragraph at lines 749--749
@@ -8960,7 +8999,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[202
+[204
 
 ]
 Underfull \hbox (badness 4859) in paragraph at lines 850--850
@@ -8978,7 +9017,7 @@ Overfull \hbox (17.7399pt too wide) in alignment at lines 846--938
  []
 
 
-LaTeX Warning: Citation 'tec_keras_modeltraining' on page 203 undefined on inpu
+LaTeX Warning: Citation 'tec_keras_modeltraining' on page 205 undefined on inpu
 t line 940.
 
 
@@ -8989,7 +9028,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[203
+[205
 
 ]) (tesis.aux
 LaTeX Info: Redefining \sptext on input line 13.
@@ -9016,8 +9055,8 @@ Package logreq Info: Writing requests to 'tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35197 strings out of 474424
- 685537 string characters out of 5741740
+ 35199 strings out of 474424
+ 685553 string characters out of 5741740
  2062496 words of memory out of 5000000
  56451 multiletter control sequences out of 15000+600000
  617087 words of font info for 157 fonts, out of 8000000 for 9000
@@ -9035,9 +9074,9 @@ rams/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/sebas/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/sebas/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/sebas/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tesis.pdf (216 pages, 13257351 bytes).
+Output written on tesis.pdf (218 pages, 13260460 bytes).
 PDF statistics:
- 2296 PDF objects out of 2487 (max. 8388607)
- 526 named destinations out of 1000 (max. 500000)
+ 2307 PDF objects out of 2487 (max. 8388607)
+ 528 named destinations out of 1000 (max. 500000)
  1403 words of extra memory for PDF output out of 10000 (max. 10000000)
 

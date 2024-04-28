@@ -12,10 +12,10 @@
 \contentsline {section}{\numberline {1.4}Hipótesis}{9}{section.1.4}%
 \contentsline {subsection}{\numberline {1.4.1}Hipótesis General}{9}{subsection.1.4.1}%
 \contentsline {subsection}{\numberline {1.4.2}Hipótesis Específicas}{9}{subsection.1.4.2}%
-\contentsline {section}{\numberline {1.5}Justificación de la Investigación}{9}{section.1.5}%
-\contentsline {subsection}{\numberline {1.5.1}Teórica}{9}{subsection.1.5.1}%
+\contentsline {section}{\numberline {1.5}Justificación de la Investigación}{10}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Teórica}{10}{subsection.1.5.1}%
 \contentsline {subsection}{\numberline {1.5.2}Práctica}{10}{subsection.1.5.2}%
-\contentsline {subsection}{\numberline {1.5.3}Metodológica}{10}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.3}Metodológica}{11}{subsection.1.5.3}%
 \contentsline {section}{\numberline {1.6}Delimitación del Estudio}{11}{section.1.6}%
 \contentsline {subsection}{\numberline {1.6.1}Espacial}{11}{subsection.1.6.1}%
 \contentsline {subsection}{\numberline {1.6.2}Temporal}{11}{subsection.1.6.2}%
@@ -70,9 +70,9 @@
 \contentsline {section}{\numberline {A}Árbol de Problemas}{184}{section.Alph0.1}%
 \contentsline {section}{\numberline {B}Árbol de Objetivos}{185}{section.Alph0.2}%
 \contentsline {section}{\numberline {C}Matriz de Consistencia}{186}{section.Alph0.3}%
-\contentsline {section}{\numberline {D}Comparación de metodologías de antecedentes}{189}{section.Alph0.4}%
-\contentsline {section}{\numberline {E}Comparación de objetivos específicos de antecedentes}{193}{section.Alph0.5}%
-\contentsline {section}{\numberline {F}Parámetros para modelo predictivo de Metainformación}{200}{section.Alph0.6}%
-\contentsline {section}{\numberline {G}Parámetros para modelo predictivo de Descripción}{201}{section.Alph0.7}%
-\contentsline {section}{\numberline {H}Parámetros para modelo predictivo de Comentarios}{202}{section.Alph0.8}%
-\contentsline {section}{\numberline {I}Parámetros para modelo de Aprendizaje Profundo Multimodal}{203}{section.Alph0.9}%
+\contentsline {section}{\numberline {D}Comparación de metodologías de antecedentes}{191}{section.Alph0.4}%
+\contentsline {section}{\numberline {E}Comparación de objetivos específicos de antecedentes}{195}{section.Alph0.5}%
+\contentsline {section}{\numberline {F}Parámetros para modelo predictivo de Metainformación}{202}{section.Alph0.6}%
+\contentsline {section}{\numberline {G}Parámetros para modelo predictivo de Descripción}{203}{section.Alph0.7}%
+\contentsline {section}{\numberline {H}Parámetros para modelo predictivo de Comentarios}{204}{section.Alph0.8}%
+\contentsline {section}{\numberline {I}Parámetros para modelo de Aprendizaje Profundo Multimodal}{205}{section.Alph0.9}%
