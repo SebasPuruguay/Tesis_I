@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.9)  27 APR 2024 20:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.9)  28 APR 2024 22:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1430,9 +1430,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [2
 
 ] (0/agradecimientos.tex
-Underfull \hbox (badness 10000) in paragraph at lines 15--17
 
- []
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \newline
+            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 )
 
@@ -1660,25 +1669,15 @@ LaTeX Warning: Citation 'cr_elcomercioproduccionpapa' on page 5 undefined on in
 put line 4.
 
 
-LaTeX Warning: Citation 'fao_importancia_papa' on page 5 undefined on input lin
-e 7.
+LaTeX Warning: Citation 'cr_agroinforma1' on page 5 undefined on input line 7.
 
 
 LaTeX Warning: Citation 'minagri_estadisticas_2022' on page 5 undefined on inpu
 t line 7.
 
 
-LaTeX Warning: Citation 'cr_agroinforma1' on page 5 undefined on input line 7.
-
-
 LaTeX Warning: Citation 'inei_cenagro_2022' on page 5 undefined on input line 7
 .
-
-
-LaTeX Warning: Citation 'cr_rancha1' on page 5 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'cr_rancha2' on page 5 undefined on input line 9.
 
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 9
 .
@@ -1687,6 +1686,9 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 
 LaTeX Warning: Citation 'cr_rancha1' on page 5 undefined on input line 9.
+
+
+LaTeX Warning: Citation 'cr_rancha2' on page 5 undefined on input line 9.
 
 
 LaTeX Warning: Citation 'cr_rancha6' on page 5 undefined on input line 9.
@@ -1766,21 +1768,6 @@ Overfull \hbox (26.77327pt too wide) in paragraph at lines 133--134
  []
 
 
-LaTeX Warning: Citation 'pr_lee2018contentDL' on page 9 undefined on input line
- 144.
-
-LaTeX Font Info:    Trying to load font information for OML+ptm on input line 1
-44.
-(C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlptm.fd
-File: omlptm.fd 
-)
-LaTeX Font Info:    Font shape `OML/ptm/b/n' in size <12> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 144.
-
-
-LaTeX Warning: Citation '' on page 9 undefined on input line 144.
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 19.61925pt, for example:
 (fancyhdr)                \setlength{\headheight}{19.61925pt}.
@@ -1789,13 +1776,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [9]
-
-LaTeX Warning: Citation 'pr_cheng2019deeplearning' on page 10 undefined on inpu
-t line 146.
-
-
-LaTeX Warning: Citation '' on page 10 undefined on input line 146.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 19.61925pt, for example:
@@ -1820,6 +1800,14 @@ Cap\'{\i }tulo II.
 LaTeX Warning: Citation 'pr_chen2013kickpredict' on page 12 undefined on input 
 line 3.
 
+LaTeX Font Info:    Trying to load font information for OML+ptm on input line 3
+.
+(C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlptm.fd
+File: omlptm.fd 
+)
+LaTeX Font Info:    Font shape `OML/ptm/b/n' in size <12> not available
+(Font)              Font shape `OML/cmm/b/it' tried instead on input line 3.
+
 
 LaTeX Warning: Citation '' on page 12 undefined on input line 3.
 
@@ -1839,7 +1827,7 @@ Overfull \hbox (0.13953pt too wide) in paragraph at lines 11--12
 ca-ci[]on en An-dro-id pa-ra la b[]usque-
  []
 
-<2/figures/chen2013.jpg, id=890, 732.93825pt x 464.33475pt>
+<2/figures/chen2013.jpg, id=889, 732.93825pt x 464.33475pt>
 File: 2/figures/chen2013.jpg Graphic file (type jpg)
 <use 2/figures/chen2013.jpg>
 Package pdftex.def Info: 2/figures/chen2013.jpg  used on input line 15.
@@ -8167,9 +8155,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [181])
 
-LaTeX Warning: Empty bibliography on input line 387.
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 19.61925pt, for example:
 (fancyhdr)                \setlength{\headheight}{19.61925pt}.
@@ -8190,11 +8175,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ] (anexos/anexo.tex
-<anexos/arbol_problemas.png, id=2037, 915.9018pt x 526.1256pt>
+<anexos/arbol_problemas.png, id=2037, 963.6pt x 542.025pt>
 File: anexos/arbol_problemas.png Graphic file (type png)
 <use anexos/arbol_problemas.png>
 Package pdftex.def Info: anexos/arbol_problemas.png  used on input line 16.
-(pdftex.def)             Requested size: 475.61804pt x 273.21759pt.
+(pdftex.def)             Requested size: 475.61804pt x 267.52989pt.
 
 Overfull \hbox (22.64978pt too wide) in paragraph at lines 16--18
  [] 
@@ -8211,11 +8196,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [184
 
  <./anexos/arbol_problemas.png>]
-<anexos/arbol_objetivos.png, id=2044, 915.9018pt x 526.1256pt>
+<anexos/arbol_objetivos.png, id=2043, 963.6pt x 542.025pt>
 File: anexos/arbol_objetivos.png Graphic file (type png)
 <use anexos/arbol_objetivos.png>
 Package pdftex.def Info: anexos/arbol_objetivos.png  used on input line 29.
-(pdftex.def)             Requested size: 475.61804pt x 273.21759pt.
+(pdftex.def)             Requested size: 475.61804pt x 267.52989pt.
 
 Overfull \hbox (22.64978pt too wide) in paragraph at lines 29--31
  [] 
@@ -8268,36 +8253,47 @@ Underfull \hbox (badness 1082) in paragraph at lines 47--47
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 47--48
-[]|\OT1/ptm/m/n/12 El mo-de-lo de
+[]|\OT1/ptm/m/n/12 Se hi-po-te-ti-za que
+ []
+
+
+Underfull \hbox (badness 8132) in paragraph at lines 47--48
+\OT1/ptm/m/n/12 me-dian-te el de-sa-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 47--48
-\OT1/ptm/m/n/12 Apren-di-za-je Pro-
+\OT1/ptm/m/n/12 de cla-si-fi-ca-ci[]on
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 47--48
-\OT1/ptm/m/n/12 fun-do Mul-ti-mo-dal
- []
-
-
-Underfull \hbox (badness 1902) in paragraph at lines 47--48
-\OT1/ptm/m/n/12 pre-de-cir[]a el es-ta-do
+\OT1/ptm/m/n/12 au-tom[]ati-ca de las
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 47--48
-\OT1/ptm/m/n/12 de fi-nan-cia-mien-to
+\OT1/ptm/m/n/12 le-sio-nes de -an-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 47--48
-\OT1/ptm/m/n/12 de crowd-fun-ding
+\OT1/ptm/m/n/12 cha"Phytophthora
  []
 
 
-Overfull \vbox (18.85007pt too high) detected at line 50
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+\OT1/ptm/m/n/12 in-fes-tans en las
+ []
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 47--48
+\OT1/ptm/m/n/12 ho-jas de pa-pa pe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+\OT1/ptm/m/n/12 rua-na, se pue-de
  []
 
 
@@ -8432,7 +8428,7 @@ Underfull \hbox (badness 1902) in paragraph at lines 81--81
  []
 
 
-Overfull \vbox (37.70009pt too high) detected at line 83
+Overfull \vbox (18.85005pt too high) detected at line 83
  []
 
 
@@ -8500,7 +8496,7 @@ Underfull \hbox (badness 1527) in paragraph at lines 88--89
  []
 
 
-Overfull \vbox (18.85005pt too high) detected at line 91
+Overfull \vbox (94.2502pt too high) detected at line 91
  []
 
 
@@ -8587,16 +8583,16 @@ Overfull \vbox (37.70007pt too high) detected at line 104
  []
 
 
-Overfull \vbox (75.40015pt too high) detected at line 111
+Overfull \vbox (94.25018pt too high) detected at line 110
  []
 
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 111--111
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 110--110
 []|[]| 
  []
 
 
-Overfull \hbox (23.67973pt too wide) in alignment at lines 38--114
+Overfull \hbox (23.67973pt too wide) in alignment at lines 38--113
  [] [] [] [] [] [] [] 
  []
 
@@ -8648,12 +8644,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [190]
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
 []\OT1/ptm/m/n/12 Recolecci[]on y pre-
  []
 
 
-Overfull \hbox (36.04941pt too wide) in alignment at lines 125--363
+Overfull \hbox (36.04941pt too wide) in alignment at lines 124--362
  [] [] [] [] 
  []
 
@@ -8696,182 +8692,182 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [194]
-Overfull \vbox (75.40018pt too high) detected at line 380
+Overfull \vbox (75.40018pt too high) detected at line 379
  []
 
 
-Overfull \vbox (37.70009pt too high) detected at line 389
+Overfull \vbox (37.70009pt too high) detected at line 388
  []
 
 
-Overfull \vbox (56.55013pt too high) detected at line 389
+Overfull \vbox (56.55013pt too high) detected at line 388
  []
 
 
-Overfull \vbox (18.85005pt too high) detected at line 395
+Overfull \vbox (18.85005pt too high) detected at line 394
  []
 
 
-Overfull \vbox (37.70009pt too high) detected at line 395
+Overfull \vbox (37.70009pt too high) detected at line 394
  []
 
 
-Overfull \vbox (75.40016pt too high) detected at line 395
+Overfull \vbox (75.40016pt too high) detected at line 394
  []
 
 
-Underfull \hbox (badness 1762) in paragraph at lines 398--398
+Underfull \hbox (badness 1762) in paragraph at lines 397--397
 \OT1/ptm/m/n/12 cas pre-via-men-te con-si-de-ra-das en
  []
 
 
-Overfull \vbox (37.7001pt too high) detected at line 401
+Overfull \vbox (37.7001pt too high) detected at line 400
  []
 
 
-Overfull \vbox (75.40018pt too high) detected at line 401
+Overfull \vbox (75.40018pt too high) detected at line 400
  []
 
 
-Underfull \hbox (badness 1721) in paragraph at lines 401--401
+Underfull \hbox (badness 1721) in paragraph at lines 400--400
 []|\OT1/ptm/m/n/12 Analizar re-la-ci[]on en-tre exac-ti-tud
  []
 
 
-Overfull \vbox (113.10023pt too high) detected at line 410
+Overfull \vbox (113.10023pt too high) detected at line 409
  []
 
 
-Overfull \vbox (37.70009pt too high) detected at line 416
+Overfull \vbox (37.70009pt too high) detected at line 415
  []
 
 
-Overfull \vbox (94.2502pt too high) detected at line 416
+Overfull \vbox (94.2502pt too high) detected at line 415
  []
 
 
-Overfull \vbox (18.85007pt too high) detected at line 422
+Overfull \vbox (18.85007pt too high) detected at line 421
  []
 
 
-Overfull \vbox (56.55014pt too high) detected at line 422
+Overfull \vbox (56.55014pt too high) detected at line 421
  []
 
 
-Overfull \vbox (18.85005pt too high) detected at line 431
+Overfull \vbox (18.85005pt too high) detected at line 430
  []
 
 
-Overfull \vbox (75.40016pt too high) detected at line 431
+Overfull \vbox (75.40016pt too high) detected at line 430
  []
 
 
-Overfull \vbox (18.85007pt too high) detected at line 437
+Overfull \vbox (18.85007pt too high) detected at line 436
  []
 
 
-Overfull \vbox (56.55014pt too high) detected at line 437
+Overfull \vbox (56.55014pt too high) detected at line 436
  []
 
 
-Underfull \hbox (badness 1565) in paragraph at lines 437--437
+Underfull \hbox (badness 1565) in paragraph at lines 436--436
 \OT1/ptm/m/n/12 bles de co-nec-ti-vi-dad y va-ria-bles
  []
 
 
-Overfull \vbox (18.85007pt too high) detected at line 446
+Overfull \vbox (18.85007pt too high) detected at line 445
  []
 
 
-Overfull \vbox (94.25021pt too high) detected at line 446
+Overfull \vbox (94.25021pt too high) detected at line 445
  []
 
 
-Overfull \vbox (18.85007pt too high) detected at line 455
+Overfull \vbox (18.85007pt too high) detected at line 454
  []
 
 
-Overfull \vbox (37.7001pt too high) detected at line 455
+Overfull \vbox (37.7001pt too high) detected at line 454
  []
 
 
-Underfull \hbox (badness 3547) in paragraph at lines 455--455
+Underfull \hbox (badness 3547) in paragraph at lines 454--454
 \OT1/ptm/m/n/12 de Apren-di-za-je Au-tom[]ati-co con
  []
 
 
-Overfull \vbox (56.55013pt too high) detected at line 464
+Overfull \vbox (56.55013pt too high) detected at line 463
  []
 
 
-Overfull \vbox (94.2502pt too high) detected at line 464
+Overfull \vbox (94.2502pt too high) detected at line 463
  []
 
 
-Overfull \vbox (18.85007pt too high) detected at line 470
+Overfull \vbox (18.85007pt too high) detected at line 469
  []
 
 
-Overfull \vbox (75.40018pt too high) detected at line 470
+Overfull \vbox (75.40018pt too high) detected at line 469
  []
 
 
-Underfull \hbox (badness 1824) in paragraph at lines 470--470
+Underfull \hbox (badness 1824) in paragraph at lines 469--469
 []|\OT1/ptm/m/n/12 Identificar la dis-tri-bu-ci[]on de las
  []
 
 
-Overfull \vbox (18.85007pt too high) detected at line 479
+Overfull \vbox (18.85007pt too high) detected at line 478
  []
 
 
-Overfull \vbox (94.25021pt too high) detected at line 479
+Overfull \vbox (94.25021pt too high) detected at line 478
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 479--479
+Underfull \hbox (badness 1400) in paragraph at lines 478--478
 \OT1/ptm/m/n/12 di-fe-ren-tes mo-da-li-da-des y eva-luar
  []
 
 
-Overfull \vbox (18.85005pt too high) detected at line 488
+Overfull \vbox (18.85005pt too high) detected at line 487
  []
 
 
-Overfull \vbox (94.2502pt too high) detected at line 488
+Overfull \vbox (94.2502pt too high) detected at line 487
  []
 
 
-Overfull \vbox (113.10023pt too high) detected at line 494
+Overfull \vbox (113.10023pt too high) detected at line 493
  []
 
 
-Overfull \vbox (94.2502pt too high) detected at line 494
+Overfull \vbox (94.2502pt too high) detected at line 493
  []
 
 
-Overfull \vbox (75.40019pt too high) detected at line 500
+Overfull \vbox (75.40019pt too high) detected at line 499
  []
 
 
-Overfull \vbox (75.40018pt too high) detected at line 500
+Overfull \vbox (75.40018pt too high) detected at line 499
  []
 
 
-Underfull \hbox (badness 7047) in paragraph at lines 500--500
+Underfull \hbox (badness 7047) in paragraph at lines 499--499
 []|\OT1/ptm/m/n/12 Identificar po-ten-cia-les pro-yec-tos
  []
 
 
-Overfull \vbox (75.40018pt too high) detected at line 512
+Overfull \vbox (75.40018pt too high) detected at line 511
  []
 
 
-Overfull \vbox (75.40018pt too high) detected at line 512
+Overfull \vbox (75.40018pt too high) detected at line 511
  []
 
 
-Overfull \hbox (9.45334pt too wide) in alignment at lines 371--521
+Overfull \hbox (9.45334pt too wide) in alignment at lines 370--520
  [] [] [] [] [] [] [] 
  []
 
@@ -8941,12 +8937,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [201]
-Underfull \hbox (badness 3354) in paragraph at lines 535--535
+Underfull \hbox (badness 3354) in paragraph at lines 534--534
  []|\OT1/ptm/m/n/12 Hiperpar[]ame-tro| 
  []
 
 
-Underfull \hbox (badness 4995) in paragraph at lines 535--536
+Underfull \hbox (badness 4995) in paragraph at lines 534--535
  []|\OT1/ptm/m/n/12 Valor| 
  []
 
@@ -8962,12 +8958,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-Underfull \hbox (badness 3354) in paragraph at lines 642--642
+Underfull \hbox (badness 3354) in paragraph at lines 641--641
  []|\OT1/ptm/m/n/12 Hiperpar[]ame-tro| 
  []
 
 
-Underfull \hbox (badness 4995) in paragraph at lines 642--643
+Underfull \hbox (badness 4995) in paragraph at lines 641--642
  []|\OT1/ptm/m/n/12 Valor| 
  []
 
@@ -8982,12 +8978,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [203
 
 ]
-Underfull \hbox (badness 3354) in paragraph at lines 749--749
+Underfull \hbox (badness 3354) in paragraph at lines 748--748
  []|\OT1/ptm/m/n/12 Hiperpar[]ame-tro| 
  []
 
 
-Underfull \hbox (badness 4995) in paragraph at lines 749--750
+Underfull \hbox (badness 4995) in paragraph at lines 748--749
  []|\OT1/ptm/m/n/12 Valor| 
  []
 
@@ -9002,23 +8998,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [204
 
 ]
-Underfull \hbox (badness 4859) in paragraph at lines 850--850
+Underfull \hbox (badness 4859) in paragraph at lines 849--849
  []|\OT1/ptm/m/n/12 Hiperpar[]ame-tro| 
  []
 
 
-Underfull \hbox (badness 4995) in paragraph at lines 850--851
+Underfull \hbox (badness 4995) in paragraph at lines 849--850
  []|\OT1/ptm/m/n/12 Valor| 
  []
 
 
-Overfull \hbox (17.7399pt too wide) in alignment at lines 846--938
+Overfull \hbox (17.7399pt too wide) in alignment at lines 845--937
  [] [] 
  []
 
 
 LaTeX Warning: Citation 'tec_keras_modeltraining' on page 205 undefined on inpu
-t line 940.
+t line 939.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -9030,7 +9026,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [205
 
-]) (tesis.aux
+])
+
+LaTeX Warning: Empty bibliography on input line 398.
+
+(tesis.aux
 LaTeX Info: Redefining \sptext on input line 13.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
@@ -9074,9 +9074,9 @@ rams/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/sebas/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/sebas/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/sebas/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tesis.pdf (218 pages, 13260460 bytes).
+Output written on tesis.pdf (218 pages, 13127437 bytes).
 PDF statistics:
- 2307 PDF objects out of 2487 (max. 8388607)
+ 2305 PDF objects out of 2487 (max. 8388607)
  528 named destinations out of 1000 (max. 500000)
  1403 words of extra memory for PDF output out of 10000 (max. 10000000)
 

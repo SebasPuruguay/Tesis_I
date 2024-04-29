@@ -380,12 +380,7 @@ pdfauthor={autor nombres}]{hyperref}
 \input{4/desarrollo}
 \input{5/resultados}
 \input{6/conclusion}
-% %%Bibliografia
-%\bibliographystyle{apalike} % No funciona
-%\renewcommand{\bibname}{BIBLIOGRAFÍA} % changes the header; default: Bibliography
 
-\printbibliography[heading=bibintoc,title={Referencias}]
-%\bibliography{biblio/references} % adjust this to fit your BibTex file
 
 %%Anexos
 \appendix
@@ -396,4 +391,10 @@ pdfauthor={autor nombres}]{hyperref}
 \addappheadtotoc
 \appendixpage
 \include{anexos/anexo}
+% %%Bibliografia
+%\bibliographystyle{apalike} % No funciona
+%\renewcommand{\bibname}{BIBLIOGRAFÍA} % changes the header; default: Bibliography
+
+\printbibliography[heading=bibintoc,title={BIBLIOGRAFÍA}]
+%\bibliography{biblio/references} % adjust this to fit your BibTex file
 \end{document}
