@@ -1,0 +1,141 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces Extensión de Google Chrome creada para predecir el estado del proyecto}}{13}{figure.caption.9}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Ejemplos de frases del Top 100 y sus respectivos pesos que señalan si un proyecto será o no financiado}}{14}{figure.caption.10}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Curvas ROC del modelo propuesto, el de base y el convencional}}{15}{figure.caption.11}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Evaluación de la performance de los modelos construidos en distintas etapas de tiempo}}{17}{figure.caption.12}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Curva ROC para cada modelo utilizado por el autor}}{18}{figure.caption.13}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Comparación de resultados de conjuntos de datos de distintas características de proyectos considerando incluir o no proyectos fracasados}}{20}{figure.caption.14}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Marco de trabajo de analítica textual de los autores}}{21}{figure.caption.15}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Performance de ambas bases de datos con distintas métricas}}{21}{figure.caption.16}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Exactitud del modelo SVM para cada categoría}}{23}{figure.caption.17}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Performance estadística del modelo predictivo de los autores}}{24}{figure.caption.18}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Gráfico de dispersión de cada modelo evaluado según su exactitud}}{26}{figure.caption.19}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Gráfico de historial de entrenamiento para subconjuntos de entrenamiento y validación}}{27}{figure.caption.20}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Promedio estimado de la exactitud de predicción vs tiempo estimado en días}}{29}{figure.caption.21}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Arquitectura SMP de los autores}}{30}{figure.caption.22}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Arquitectura de modelo de Aprendizaje Profundo Multimodal de los autores}}{32}{figure.caption.23}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Palabras clave seleccionadas que afectan el ratio de éxito según modelo SVM-RFE}}{33}{figure.caption.24}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Nube de palabras clave de 3 y 4 gramas usando el algoritmo TextRank}}{35}{figure.caption.25}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Arquitectura del sistema propuesto para predicción de temas y recomendaciones optimizadas}}{36}{figure.caption.26}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Mapas de proyecciones de región de éxito o fracaso generado por K-means}}{38}{figure.caption.27}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Distribución de clústers según ratio de éxito por categoría}}{38}{figure.caption.28}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Ejemplo de algoritmos de regresión y clasificación}}{41}{figure.caption.29}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Algoritmo de K Vecinos más cercanos con pesos ponderados}}{42}{figure.caption.32}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Funcionamiento del algoritmo de K medias}}{43}{figure.caption.34}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Componentes del Aprendizaje por Refuerzo}}{44}{figure.caption.35}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Ambiente del videojuego Pacman}}{45}{figure.caption.36}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Diferencia entre Aprendizaje Automático y Aprendizaje Profundo}}{46}{figure.caption.37}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Ejemplo de modelo multimodal de imágenes y texto}}{47}{figure.caption.38}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Ejemplo de modelo multimodal de señal de electroencefalografía y de ojo}}{48}{figure.caption.39}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Ejemplo de aprendizaje ensamblado apilado}}{49}{figure.caption.40}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Ejemplo de modelo apilado separado}}{50}{figure.caption.41}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Ejemplo de modelo apilado integrado}}{51}{figure.caption.42}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Fases de la metodología CRISP-DM}}{53}{figure.caption.43}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Fases de la metodología SEMMA}}{54}{figure.caption.44}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Fases de la metodología KDD}}{55}{figure.caption.45}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Modelo para representar una neurona propuesto por McCulloch y Pitts (1943)}}{57}{figure.caption.47}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Nodos con funciones de activación umbral en forma de puertas lógicas}}{58}{figure.caption.50}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Función de activación sigmoide}}{59}{figure.caption.52}%
+\contentsline {figure}{\numberline {38}{\ignorespaces Ilustración del algoritmo gradiente descendiente}}{60}{figure.caption.54}%
+\contentsline {figure}{\numberline {39}{\ignorespaces Actualización de pesos W con el algoritmo}}{61}{figure.caption.56}%
+\contentsline {figure}{\numberline {40}{\ignorespaces Capa oculta simple MLP con propagación hacia atrás}}{62}{figure.caption.58}%
+\contentsline {figure}{\numberline {41}{\ignorespaces Redes neuronales de ejemplo}}{63}{figure.caption.59}%
+\contentsline {figure}{\numberline {42}{\ignorespaces Función de activación tangente hiperbólica}}{64}{figure.caption.63}%
+\contentsline {figure}{\numberline {43}{\ignorespaces Función de activación puramente lineal}}{64}{figure.caption.65}%
+\contentsline {figure}{\numberline {44}{\ignorespaces Función de activación ReLU}}{65}{figure.caption.67}%
+\contentsline {figure}{\numberline {45}{\ignorespaces Ejemplo de perceptrón simple}}{66}{figure.caption.69}%
+\contentsline {figure}{\numberline {46}{\ignorespaces Ejemplo de perceptrón multicapa}}{66}{figure.caption.70}%
+\contentsline {figure}{\numberline {47}{\ignorespaces Ejemplo de red neuronal convolucional}}{67}{figure.caption.71}%
+\contentsline {figure}{\numberline {48}{\ignorespaces Modelos de redes neuronales que inspiraron a la CNN}}{68}{figure.caption.72}%
+\contentsline {figure}{\numberline {49}{\ignorespaces Ejecución de la convolución en una entrada}}{69}{figure.caption.74}%
+\contentsline {figure}{\numberline {50}{\ignorespaces Generación de una nueva imagen a partir de filtros}}{69}{figure.caption.75}%
+\contentsline {figure}{\numberline {51}{\ignorespaces Secuencia de varias capas convolucionales}}{70}{figure.caption.76}%
+\contentsline {figure}{\numberline {52}{\ignorespaces Extracción de características a partir de convoluciones}}{70}{figure.caption.77}%
+\contentsline {figure}{\numberline {53}{\ignorespaces Ejemplo de matriz de imagen de entrada y un filtro}}{71}{figure.caption.78}%
+\contentsline {figure}{\numberline {54}{\ignorespaces Dimensiones de una entrada y un filtro}}{71}{figure.caption.80}%
+\contentsline {figure}{\numberline {55}{\ignorespaces Paso de 2 píxeles por parte de un filtro}}{72}{figure.caption.82}%
+\contentsline {figure}{\numberline {56}{\ignorespaces Aplanado de matrices luego de agrupar la capa}}{72}{figure.caption.84}%
+\contentsline {figure}{\numberline {57}{\ignorespaces Arquitectura completa de una CNN}}{73}{figure.caption.85}%
+\contentsline {figure}{\numberline {58}{\ignorespaces Ejemplo de red neuronal recurrente}}{73}{figure.caption.86}%
+\contentsline {figure}{\numberline {59}{\ignorespaces Hiperplano con dos clases separadas por una distancia m}}{74}{figure.caption.87}%
+\contentsline {figure}{\numberline {60}{\ignorespaces Ejemplo de separación de 2 clases}}{75}{figure.caption.88}%
+\contentsline {figure}{\numberline {61}{\ignorespaces Aplicación de un kernel para transformar el espacio de los datos}}{76}{figure.caption.90}%
+\contentsline {figure}{\numberline {62}{\ignorespaces Ejemplo del algoritmo de árbol de decisión}}{77}{figure.caption.91}%
+\contentsline {figure}{\numberline {63}{\ignorespaces Arquitectura de modelo CNN con 2 canales para una oración de ejemplo}}{79}{figure.caption.92}%
+\contentsline {figure}{\numberline {64}{\ignorespaces Diferencias entre convoluciones según su dimensión}}{80}{figure.caption.93}%
+\contentsline {figure}{\numberline {65}{\ignorespaces Arquitectura de modelo CNN para clasificación de oraciones}}{81}{figure.caption.94}%
+\contentsline {figure}{\numberline {66}{\ignorespaces Arquitectura de una LSTM}}{83}{figure.caption.96}%
+\contentsline {figure}{\numberline {67}{\ignorespaces Representación de arquitectura BiRNN de la palabra \textit {jumped} en la oración}}{84}{figure.caption.97}%
+\contentsline {figure}{\numberline {68}{\ignorespaces Comparación entre arquitecturas LSTM y GRU}}{84}{figure.caption.98}%
+\contentsline {figure}{\numberline {69}{\ignorespaces Arquitectura de un modelo Seq2seq}}{85}{figure.caption.99}%
+\contentsline {figure}{\numberline {70}{\ignorespaces Ejemplo de funcionamiento de una capa de incrustación}}{87}{figure.caption.100}%
+\contentsline {figure}{\numberline {71}{\ignorespaces Incrustaciones de palabras por Word2Vec}}{87}{figure.caption.101}%
+\contentsline {figure}{\numberline {72}{\ignorespaces Incrustaciones de palabras por GloVe}}{88}{figure.caption.102}%
+\contentsline {figure}{\numberline {73}{\ignorespaces Ejemplo de funcionamiento de bolsa de palabras}}{89}{figure.caption.103}%
+\contentsline {figure}{\numberline {74}{\ignorespaces Ejemplo de funcionamiento de TF-IDF}}{90}{figure.caption.104}%
+\contentsline {figure}{\numberline {75}{\ignorespaces Ejemplo de proyecto vigente en Kickstarter}}{93}{figure.caption.106}%
+\contentsline {figure}{\numberline {76}{\ignorespaces Flujograma de la recolección de conjuntos finales de datos}}{99}{figure.caption.107}%
+\contentsline {figure}{\numberline {77}{\ignorespaces Metodología de la investigación}}{103}{figure.caption.108}%
+\contentsline {figure}{\numberline {78}{\ignorespaces Marco de trabajo del prototipo final}}{104}{figure.caption.109}%
+\contentsline {figure}{\numberline {79}{\ignorespaces Proceso de obtención y preparación de datasets iniciales de Metainformación}}{108}{figure.caption.110}%
+\contentsline {figure}{\numberline {80}{\ignorespaces Proceso resumido de generación de conjunto final de Metainformación}}{108}{figure.caption.111}%
+\contentsline {figure}{\numberline {81}{\ignorespaces Proceso de extracción de la descripción de un proyecto}}{109}{figure.caption.112}%
+\contentsline {figure}{\numberline {82}{\ignorespaces Proceso de extracción de comentarios de un proyecto}}{110}{figure.caption.113}%
+\contentsline {figure}{\numberline {83}{\ignorespaces Proceso de limpieza de conjunto de datos de descripciones}}{112}{figure.caption.114}%
+\contentsline {figure}{\numberline {84}{\ignorespaces Procesos de vectorización y creación de matriz incrustaciones de palabras}}{113}{figure.caption.115}%
+\contentsline {figure}{\numberline {85}{\ignorespaces Proceso de operación del prototipo del sistema}}{124}{figure.caption.116}%
+\contentsline {figure}{\numberline {86}{\ignorespaces Descripción de resultados de modelo descriptivo de ejemplo}}{126}{figure.caption.120}%
+\contentsline {figure}{\numberline {87}{\ignorespaces Comparación de tres resultados de la curva AUC en el modelo}}{127}{figure.caption.122}%
+\contentsline {figure}{\numberline {88}{\ignorespaces Cronograma de actividades de la investigación}}{130}{figure.caption.125}%
+\contentsline {figure}{\numberline {89}{\ignorespaces Vista del website Web Robots (visitado en agosto del 2019)}}{133}{figure.caption.128}%
+\contentsline {figure}{\numberline {90}{\ignorespaces Tamaño de conjunto de datos al corte de Julio 2019}}{134}{figure.caption.129}%
+\contentsline {figure}{\numberline {91}{\ignorespaces Visualización del archivo de metainformación subido a Kaggle}}{135}{figure.caption.130}%
+\contentsline {figure}{\numberline {92}{\ignorespaces Función para extraer textos de modalidad de descripción}}{137}{figure.caption.132}%
+\contentsline {figure}{\numberline {93}{\ignorespaces Ejecución de la función de extracción de descripciones y almacenamiento}}{138}{figure.caption.133}%
+\contentsline {figure}{\numberline {94}{\ignorespaces Visualización del archivo de descripción subido a Kaggle}}{138}{figure.caption.134}%
+\contentsline {figure}{\numberline {95}{\ignorespaces Función para extraer textos de modalidad de comentarios}}{139}{figure.caption.135}%
+\contentsline {figure}{\numberline {96}{\ignorespaces Ejecución de la función de extracción de comentarios y almacenamiento}}{140}{figure.caption.136}%
+\contentsline {figure}{\numberline {97}{\ignorespaces Instancias lanzadas en paralelo para la extracción de comentarios}}{140}{figure.caption.137}%
+\contentsline {figure}{\numberline {98}{\ignorespaces Visualización del archivo de comentarios subido a Kaggle}}{141}{figure.caption.138}%
+\contentsline {figure}{\numberline {99}{\ignorespaces Distribución de proyectos tecnológicos según su estado}}{141}{figure.caption.139}%
+\contentsline {figure}{\numberline {100}{\ignorespaces Evolución de cantidad de proyectos tecnológicos por año}}{142}{figure.caption.140}%
+\contentsline {figure}{\numberline {101}{\ignorespaces Evolución de proyectos tecnológicos, por su estado y año}}{143}{figure.caption.141}%
+\contentsline {figure}{\numberline {102}{\ignorespaces Distribución de las variables categóricas de Metainformación}}{143}{figure.caption.142}%
+\contentsline {figure}{\numberline {103}{\ignorespaces Diagrama de caja y bigote de patrocinadores}}{144}{figure.caption.143}%
+\contentsline {figure}{\numberline {104}{\ignorespaces Diagrama de caja y bigote de meta}}{144}{figure.caption.144}%
+\contentsline {figure}{\numberline {105}{\ignorespaces Diagrama de caja y bigote de monto patrocinado}}{145}{figure.caption.145}%
+\contentsline {figure}{\numberline {106}{\ignorespaces Diagrama de caja y bigote de duración}}{145}{figure.caption.146}%
+\contentsline {figure}{\numberline {107}{\ignorespaces Matriz de correlaciones entre variables independientes}}{146}{figure.caption.147}%
+\contentsline {figure}{\numberline {108}{\ignorespaces Gráfico de dispersión de correlaciones entre variables independientes}}{147}{figure.caption.148}%
+\contentsline {figure}{\numberline {109}{\ignorespaces Distribución de proyectos por presencia de descripciones y estado final}}{148}{figure.caption.149}%
+\contentsline {figure}{\numberline {110}{\ignorespaces Nube de palabras de descripciones}}{148}{figure.caption.150}%
+\contentsline {figure}{\numberline {111}{\ignorespaces Distribución de proyectos por presencia de comentarios y estado final}}{149}{figure.caption.151}%
+\contentsline {figure}{\numberline {112}{\ignorespaces Distribución de comentarios en proyectos exitosos y fracasados}}{150}{figure.caption.152}%
+\contentsline {figure}{\numberline {113}{\ignorespaces Nube de palabras de comentarios más frecuentes}}{150}{figure.caption.153}%
+\contentsline {figure}{\numberline {114}{\ignorespaces Matriz de correlaciones entre variables independientes considerando adicionales}}{151}{figure.caption.154}%
+\contentsline {figure}{\numberline {115}{\ignorespaces Función para dividir base de datos en subconjuntos de entrenamiento y prueba}}{152}{figure.caption.156}%
+\contentsline {figure}{\numberline {116}{\ignorespaces Función para normalizar variables}}{153}{figure.caption.157}%
+\contentsline {figure}{\numberline {117}{\ignorespaces Nube de palabras de descripciones posterior a la limpieza de texto}}{154}{figure.caption.159}%
+\contentsline {figure}{\numberline {118}{\ignorespaces Proceso de representación de palabras en vectores codificados}}{155}{figure.caption.160}%
+\contentsline {figure}{\numberline {119}{\ignorespaces Proceso de creación de matriz de incrustaciones de palabras}}{155}{figure.caption.161}%
+\contentsline {figure}{\numberline {120}{\ignorespaces Nube de palabras de comentarios posterior a la limpieza de texto}}{156}{figure.caption.162}%
+\contentsline {figure}{\numberline {121}{\ignorespaces Arquitectura de modelo MLP para la metadata}}{158}{figure.caption.163}%
+\contentsline {figure}{\numberline {122}{\ignorespaces Arquitectura de modelo CNN para las descripciones}}{159}{figure.caption.164}%
+\contentsline {figure}{\numberline {123}{\ignorespaces Arquitectura de modelo RNN para los comentarios}}{161}{figure.caption.165}%
+\contentsline {figure}{\numberline {124}{\ignorespaces Arquitectura del modelo apilado final The Hydra}}{164}{figure.caption.167}%
+\contentsline {figure}{\numberline {125}{\ignorespaces Exactitud y pérdida respectivamente de los subconjuntos de entrenamiento y validación para el modelo MLP de metadata con 100 épocas}}{166}{figure.caption.169}%
+\contentsline {figure}{\numberline {126}{\ignorespaces Matriz de confusión para el modelo de metadata}}{167}{figure.caption.170}%
+\contentsline {figure}{\numberline {127}{\ignorespaces Área bajo la curva ROC de modelo de metadata}}{168}{figure.caption.172}%
+\contentsline {figure}{\numberline {128}{\ignorespaces Exactitud y pérdida respectivamente de los subconjuntos de entrenamiento y validación para el modelo CNN de descripciones con 100 épocas}}{169}{figure.caption.173}%
+\contentsline {figure}{\numberline {129}{\ignorespaces Matriz de confusión para el modelo de descripciones}}{169}{figure.caption.174}%
+\contentsline {figure}{\numberline {130}{\ignorespaces Área bajo la curva ROC de modelo de descripciones}}{170}{figure.caption.176}%
+\contentsline {figure}{\numberline {131}{\ignorespaces Exactitud y pérdida respectivamente de los subconjuntos de entrenamiento y validación para el modelo RNN de comentarios con 50 épocas}}{171}{figure.caption.177}%
+\contentsline {figure}{\numberline {132}{\ignorespaces Matriz de confusión para el modelo de comentarios}}{172}{figure.caption.178}%
+\contentsline {figure}{\numberline {133}{\ignorespaces Área bajo la curva de modelo de comentarios}}{173}{figure.caption.180}%
+\contentsline {figure}{\numberline {134}{\ignorespaces Exactitud y pérdida respectivamente de los subconjuntos de entrenamiento y validación para el modelo apilado con 200 épocas}}{174}{figure.caption.181}%
+\contentsline {figure}{\numberline {135}{\ignorespaces Matriz de confusión para el modelo apilado}}{174}{figure.caption.182}%
+\contentsline {figure}{\numberline {136}{\ignorespaces Área bajo la curva de modelo apilado}}{175}{figure.caption.184}%
+\contentsline {figure}{\numberline {137}{\ignorespaces Proyecto consultado para la demostración. Captura de pantalla: 15/02/21}}{177}{figure.caption.186}%
+\contentsline {figure}{\numberline {138}{\ignorespaces Campaña del proyecto consultado. Captura de pantalla: 15/02/21}}{177}{figure.caption.187}%
+\contentsline {figure}{\numberline {139}{\ignorespaces Variables extraídas por modalidad del proyecto consultado}}{178}{figure.caption.188}%
+\contentsline {figure}{\numberline {140}{\ignorespaces Resultado de predicción de The Hydra para el proyecto consultado}}{178}{figure.caption.189}%
