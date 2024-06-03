@@ -1,54 +1,19 @@
-This is BibTeX, Version 0.99d
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: tesis.aux
-Reallocating 'name_of_file' (item size: 1) to 20 items.
-A level-1 auxiliary file: 1/planteamiento.aux
-Reallocating 'name_of_file' (item size: 1) to 12 items.
-A level-1 auxiliary file: 2/marco.aux
-Reallocating 'name_of_file' (item size: 1) to 17 items.
-A level-1 auxiliary file: anexos/anexo.aux
-I found no \citation commands---while reading file tesis.aux
-I found no \bibdata command---while reading file tesis.aux
-I found no \bibstyle command---while reading file tesis.aux
-You've used 0 entries,
-            0 wiz_defined-function locations,
-            86 strings with 530 characters,
-and the built_in function-call counts, 0 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 0
-:= -- 0
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 0
-format.name$ -- 0
-if$ -- 0
-int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 0
-num.names$ -- 0
-pop$ -- 0
-preamble$ -- 0
-purify$ -- 0
-quote$ -- 0
-skip$ -- 0
-stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 0
-(There were 3 error messages)
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'tesis.blg'
+[186] biber-MSWIN64:340> INFO - === 
+[246] Biber.pm:420> INFO - Reading 'tesis.bcf'
+[501] Biber.pm:994> INFO - Found 29 citekeys in bib section 0
+[542] Biber.pm:4463> INFO - Processing section 0
+[562] Biber.pm:4654> INFO - Looking for bibtex file 'biblio/references.bib' for section 0
+[637] bibtex.pm:1713> INFO - LaTeX decoding ...
+[721] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio/references.bib'
+[808] Utils.pm:410> ERROR - Name "Manikanta, Chaitanya, Sakunthala," has too many commas, skipping entry 'antecedente6'
+[958] Utils.pm:410> ERROR - BibTeX subsystem: C:\Users\sebas\AppData\Local\Temp\biber_tmp_XE2f\33e59b5ca9ec342068223d604c3f8d55_15040.utf8, line 167, syntax error: found "url", expected end of entry ("}" or ")") (skipping to next "@")
+[958] Biber.pm:131> WARN - Entry with key 'antecedente6' in section '0' is cited and found but not created (likely due to sourcemap)
+[958] Biber.pm:131> WARN - legacy month field 'Oct.' in entry 'antecedente4' is not an integer - this will probably not sort properly.
+[958] Biber.pm:131> WARN - Overwriting field 'year' with year value from field 'date' for entry 'cr_agroinforma1'
+[958] Biber.pm:131> WARN - Overwriting field 'month' with month value from field 'date' for entry 'cr_rancha1'
+[959] Biber.pm:131> WARN - Overwriting field 'month' with month value from field 'date' for entry 'cr_rancha4'
+[959] Biber.pm:131> WARN - legacy month field 'aug' in entry 'teamredac2022' is not an integer - this will probably not sort properly.
+[959] Biber.pm:133> INFO - WARNINGS: 6
+[959] Biber.pm:136> INFO - ERRORS: 2
