@@ -9,7 +9,7 @@ De acuerdo al reporte del Ministerio de Desarrollo Agrario y Riego (Midagri) del
 
 Sin embargo, el los últimos años, la producción se ha visto afectada por una de las patologías más mortales que es Phytophthora infestans, conocido por los agricultores como Rancha o tizón tardío, la cual es capaz de acabar con el 100\% de cultivos enteros en solo unos días sino se antepone una medida de prevención. Según el técnico del Servicio para el Desarrollo Integral Rural,   la rancha es peligrosa y puede arruinar  toda la siembra. Es relevante para el agricultor diagnosticarla y encontrar la mejor manera de controlarla. Las condiciones climáticas propicias para la aparición de la rancha o tizón tardío se dan cuando las temperaturas fluctúan entre los 15°C y 18°C, o bien, cuando la temperatura se mantiene por debajo de los 25°C durante un periodo de 7 días consecutivos. Asimismo, esta enfermedad se ve favorecida por la presencia de lluvias constantes o cuando los niveles de humedad relativa oscilan entre el 90\% y el 100\% \cite{cr_rancha1}. Los principales síntomas de la enfermedad en el tubérculo son: hojas, lesiones en los bordes mostrando manchas necróticas con halo amarillento y micelio blanquecino en el relieve de la hojas; tallos, lesiones que recorren el tallo de color marrón osucro; tubérculos, lesiones irregulares en de color marrón rojizo que no solo están presentes en los alrededores de la papa sino del al interior también \parencite{cr_rancha2}. 
 
-\begin{figure}[h]
+\begin{figure}[H]
 	\begin{center}
 		\includegraphics[width=0.65\textwidth]{1/figures/evolucionrancha.png}
 		\caption[Lecturas semanales de infección foliar]{Lecturas semanales de infección foliar\\
@@ -46,7 +46,7 @@ En este sentido, la presente investigación busca desarrollar e implementar un s
 
 
 \section{Formulación del Problema}
-Para la formulación de los problemas de la presente investigación, se elaboró un «árbol de problemas» (véase Anexo \ref{anexos:arbol_problema}).
+Para formular los problemas de esta investigación, se creó un "árbol de problemas". (véase Anexo \ref{anexos:arbol_problema}).
 \subsection{Problema General}
 \newcommand{\ProblemaGeneral}{
 	¿Es posible desarrollar un sistema de visión computacional que permita la clasificación temprana de la rancha (Phytophthora infestans) en hojas de papa peruana con alta precisión?
@@ -138,8 +138,9 @@ Se sostiene que al investigar específicamente técnicas de preprocesamiento de 
 	\item HE3: \Hthree
 	\item HE4: \Hfour
 \end{itemize}
+Se ha verificado que los problemas, objetivos e hipótesis descritos anteriormente guardan una estrecha relación entre sí, como se puede apreciar en la Matriz de Consistencia del \ref{1:table}1.
+Los objetivos específicos, por su parte, fueron el resultado de una lluvia de ideas realizada tras analizar los objetivos planteados en los antecedentes. El detalle de estos objetivos, junto con su correspondiente referencia, se encuentra en el \ref{anexos:arbol_objetivo}.
 
-Los problemas, objetivos e hipótesis descritas anteriormente se encuentran alineados en la Matriz de Consistencia del Anexo \ref{1:table}. Además, los objetivos específicos se formularon a partir de una lluvia de ideas luego de examinar los objetivos planteados en los antecedentes, cuyo detalle e item de referencia se encuentra en el Anexo \ref{anexos:arbol_objetivo}.
 
 \section{Justificación de la Investigación}
 
@@ -156,17 +157,17 @@ Muchos de los trabajos previos, superaron su efectividad y precision esperada; s
 Al concluior esta investigación, las personas podrán hacer uso del sistema de clasificación temprana de la 'Rancha' Phytophthora infestans en las hojas de papa peruana con el fin de tomar las medidas apropiadas para su control y erradicación. De encontrarse, con una plantación infectada deberán utilizar pesticidas especializados para esos casos de manera profesional. Los beneficiados serán aquellas personas que viven de la cultivación de este tubperculo, tales como agriculturos, campesinos, negociantes y el consumidor final. Esta investigación va a servir para evitar un tardía reacción a la Rancha en los cultivos de papa para que así no haya pérdida de cosecha. El trabajo presente demostrará que un sistema de vision computacional puede clasificar, mediante imágenes RGB de hojas de planta de papa, si el tubérculo presenta la enfermedad de tizón tardío, lo cual puede cambiar el proceso de cuidado de cultivo y no solo del agricultor sino de toda la caneda que se beneficia de este producto.
 
 \subsection{Metodológica}
-La implementación del modelo propuesto ayudará a agricultores a clasificar tempranamente el tizón tardío en la papa haciendo su trabajo más rápido y eficiente, ya que una detección temprana promete ser una rápida toma de decisiones que ayudará solucionar y controlar este problema.
+La aplicacion del modelo expuesto ayudará a agricultores a clasificar tempranamente el tizón tardío en la papa haciendo su trabajo más rápido y eficiente, ya que una detección temprana promete ser una rápida toma de decisiones que ayudará solucionar y controlar este problema.
 
-Para ello, se utilizaron técnicas Vision Computacional entrenados con un conjunto de datos compuesto por distintas bases de datos reales luego de un proceso de recolección de datos.
+En este trabajo, se emplearon técnicas de Visión Computacional que fueron preparadas con un conjunto de datos conformado por diversas bases de datos reales, las cuales fueron recopiladas previamente.
 
 \section{Delimitación del Estudio}
 
 \subsection{Espacial}
-Para la presente investigación, se consideraron proyectos de tecnología de distintas ciudades y países, mayoritariamente del territorio de lationamericano. Sin embargo, la información textual (descripción y comentarios) para la fase de entrenamiento solo se tómo en cuenta palabras en inglés.
+Nuestro estudio abarcó proyectos tecnológicos de diversas localidades y naciones, con un fuerte énfasis en Latinoamérica. No obstante, al entrenar el modelo, solo se consideraron descripciones y comentarios en inglés.
 
 \subsection{Temporal}
-El periodo de tiempo abarcará desde el año 2019, fecha en el cual se tiene registrado los primeros conjuntos de datos de proyectos en Kickstarter hasta el mes de agosto del año 2024, últimos registros descargados hasta el inicio del presente trabajo. Asimismo, obtener nuevos algoritmos y resultados que validen que las mismas técnicas pueden ser aplicadas en diferentes contextos.
+El periodo de tiempo tomara en cuenta desde el año 2024, fecha en la que se tiene mapeado los conjuntos de datos de plantas de papa con Rancha hasta el mes de diciembre de 2025, el cual se tendra las ultimas imagenes de plantas de papa con esta patologia.
 
 \subsection{Conceptual}
 Esta investigación se orientará en la implementación de un modelo que logre clasificar si un una o varias hojas de papa están infectadas con rancha. Para ello, se valió del uso de herramientas de Vision computacional  para desarrollar los modelos de acuerdo a sus modalidades respectivas.

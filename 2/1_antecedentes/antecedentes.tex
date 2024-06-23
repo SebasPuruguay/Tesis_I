@@ -7,7 +7,7 @@ En esta sección se mostrarán diferentes artículos de investigación y tesis q
 Este fue titulado \citetitle{CHAKRABORTY2022101781} la cual traducida al español significa «Reconocimiento automatizado de enfermedades del tizón de la hoja de la papa basado en imágenes ópticas mediante aprendizaje profundo». La investigación sostiene que el Tizón tardío se presenta como manchas en las hojas de la papa y que para su detección los agricultores sospechan de la patología lo que arriesga los cultivos debido a esta subjetividad y enorme consumo de tiempo. Asimismo, el trabajo explora diferentes recientes modelos de Deep Learning, los cuales los compara con técnicas existentes. 
 
 \subsubsection{Planteamiento del Problema y objetivo }
-El artículo aborda la papa como uno de los alimentos más consumidos a nivel mundial, el cual es un elemento relante en la dieta dieria de 1.5 mil millones de personas, pero que se ve afectado por varias patologías. Se plantea que una de las temidas es el Tizón tardío, la cual afecta el rendimiento de producción del tubérculo. Por eso, se requiere una detección temprana para implementar las estrategias de maneja eficaces. Sin embargo, las práticas convencionales para su dignóstico, como la inspección visual, son subjetivos y demandan enorme cantidad de tiempo. Por lo tanto, el artículo plantea que se necesita modelos computacionales avanzados para su clasificación temprana de estas enfermedades, para implementar una gestión y el control de las mismas en la papa. Los principales objetivos son explorar y entrenar modelos de aprendizaje profundo, identificar el modelo de mejor desempeño, optimizar el modelo seleccionado, comparar el modelo propuesto con técnicas existentes y proveer una solución práctica y efeciente.
+El artículo examina la importancia de la papa como uno de los alimentos más consumidos globalmente, esencial en la dieta diaria de 1.5 mil millones de personas, pero que sufre de diversas enfermedades. Entre las más temidas se encuentra el Tizón tardío, que impacta negativamente en la producción del tubérculo. Por ello, se destaca la necesidad de una detección temprana para aplicar estrategias de manejo eficaces. Sin embargo, los métodos convencionales de diagnóstico, como la inspección visual, son subjetivos y requieren mucho tiempo. Así, el artículo sugiere la necesidad de modelos computacionales avanzados para la clasificación temprana de estas enfermedades, mejorando su gestión y control en la papa. Los objetivos principales son explorar y entrenar modelos de aprendizaje profundo, identificar el modelo de mejor desempeño, optimizar el modelo seleccionado, comparar el modelo propuesto con técnicas existentes y proporcionar una solución práctica y eficiente.
 
 \subsubsection{Fundamento Teórico usado por el Autor}
 El autor planteó emplear recientes modelos de Deep Learning, los principales modelos que utilizó fueron VGG16, VGG19, ResNet50 y MobileNet utilizando imágenes ópticas de hojas de papa del conjunto de datos PlantVillage.
@@ -70,20 +70,22 @@ El autor planteó utilizar modelos de Deep Learning, se enfocó en modelos de li
 \subsubsection{Metodología empleada por los autores}
 La metodología empleada por el autor, para la creación de su modelo final de clasifacion es el siguiente:
  
+
+ \begin{enumerate}
+ 	\item Se adquirió la base de datos de imágenes del conjunto de datos PlantVillage y IA Challenger 2018 dataset, del cual solo extrajo imágenes de hoja de papa.
+ 	\item Realizaron un preprocesamiento de imágenes donde usaron técnicas para la Anotación de hoja, Zona de enfermedad, Volteo de imagen, Mejora HSV, Ajuste de birllo, Agregar sombras
+ 	\item Los CNN candidatos fueron  MobileNet, ShuffleNet, GhostNet y SqueezeNet
+ 	\item Entrenamiento y testeo de los modelos.
+ 	\item Se eligió ShuffleNetV2 como modelo final
+ 	\item Las clases que el modelo clasificaba son, Hoja de papa sana, Tizón tardio nivel 1, Tizón tardio nivel 2 y Tizón tardio nivel 3
+ \end{enumerate}
 \begin{figure}[H]
 	\begin{center}
 		\includegraphics[width=1\textwidth]{2/figures/ant2.2.jpg}
 		\caption{Arquitectura del bot de Azure (\cite{antecedente2})}
 	\end{center}
 \end{figure}
-\begin{enumerate}
-	\item Se adquirió la base de datos de imágenes del conjunto de datos PlantVillage y IA Challenger 2018 dataset, del cual solo extrajo imágenes de hoja de papa.
-	\item Realizaron un preprocesamiento de imágenes donde usaron técnicas para la Anotación de hoja, Zona de enfermedad, Volteo de imagen, Mejora HSV, Ajuste de birllo, Agregar sombras
-	\item Los CNN candidatos fueron  MobileNet, ShuffleNet, GhostNet y SqueezeNet
-	\item Entrenamiento y testeo de los modelos.
-	\item Se eligió ShuffleNetV2 como modelo final
-	\item Las clases que el modelo clasificaba son, Hoja de papa sana, Tizón tardio nivel 1, Tizón tardio nivel 2 y Tizón tardio nivel 3
-\end{enumerate}
+
 
 \subsubsection{Resultados obtenidos}
 En esta investigacion, se analizaron distintos resultados con diferentes técnicas. Con la técnica final,ShuffleNetV2 , se obtuvieron resultados un accuracy de 95.41\%. Finalmente, se consideró una mejoría para esta técnica, ya que se buscaba el mejor modelo final posible para un dispositivo móvil disminuyendo el tiempo de procesamiento y el costo computacional, tomando esos objetivos en cuenta, se logró un 95.04\%
@@ -155,7 +157,14 @@ Los autores plantean utilizar como técnica principal una DCNN (Deep Convolution
 
 \subsubsection{Metodología empleada por los autores}
 La metodología empleada por los autores, para la creación de su chatbot consiste en los siguientes pasos: 
-
+ \begin{enumerate}
+	\item Se adquirió la base de datos de imágenes del conjunto de datos PlantVillagey
+	\item Realizaron un preprocesamiento de imágenes donde se ajusto el tamaño de imagenes.
+	\item El modelo utilizó una DCNN
+	\item Entrenamiento y testeo de los modelos.
+	\item Se reajusto el modelo
+	\item Finalmente se compararon los resultados del modelo final con MLP y SVM
+\end{enumerate}
 \begin{figure}[H]
 	\begin{center}
 		\includegraphics[width=1\textwidth]{2/figures/ant5.jpg}
@@ -188,7 +197,14 @@ Los autores formulan utilizar como técnica principal un Red Neuronal Convolucio
 
 \subsubsection{Metodología empleada por los autores}
 La metodología empleada por los autores, para la creación de su chatbot consiste en los siguientes pasos: 
-
+ \begin{enumerate}
+	\item Se adquirió la base de datos de imágenes del conjunto de datos PlantVillage. Asimismo, añadieron una base de datos de imagenes propias tomadas con camaras digitales
+	\item Realizaron un preprocesamiento de imágenes donde se ajusto el tamaño de imagenes segun el dataset..
+	\item El modelo utilizó una CNN
+	\item Entrenamiento y testeo de los modelos.
+	\item Se reajusto el modelo a una PDDCNN
+	\item Finalmente, el modelo final detecto las clases Tizon Temprao, Tizon Tardio, Hoja Saludable
+\end{enumerate}
 \begin{figure}[H]
 	\begin{center}
 		\includegraphics[width=1\textwidth]{2/figures/ant6.jpg}
@@ -208,7 +224,7 @@ Los resultados finales fueron tomados sobre la base de datos que ellos crearon d
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Potato Blight Classification Android Application using Deep Learning  \citep*{antecedente7}}
 
-\citeauthor{antecedente7} realizó un artículo publicado en base de datos de ELSEVIER, siendo también parte de la revista Sustainable Chemistry and Pharmacy en el año 2022. Este fue titulado \citetitle{antecedente7} la cual traducida al español significa «Redes neuronales convolucionales profundas para la detección de enfermedades de la hoja del tomate basada en imágenes». El trabajo nos dice que el reconocimiento de enfermedades foliares en las plantas representa un riesgo significativo para la seguridad alimentaria, ya que puede reducir la producción agrícola y, por ende, la economía nacional. Es crucial identificar estas enfermedades en etapas tempranas para mejorar la calidad y cantidad de los productos agrícolas. Por lo tanto, se requiere un sistema automático de reconocimiento de enfermedades foliares que pueda identificar y clasificar estas enfermedades en etapas tempranas. En este contexto, se han utilizado modelos de redes neuronales convolucionales profundas (DCNN) para el análisis de imágenes de hojas, con el objetivo de mejorar la precisión y reducir el tiempo de respuesta en la identificación de enfermedades foliares en tomates. Se propone un sistema automático de identificación de enfermedades foliares en tomates utilizando DCNN, con un conjunto de datos de 18160 imágenes de hojas de tomate. Este conjunto de datos se dividió en un 60\% para entrenamiento y un 40\% para pruebas, logrando una precisión del 98.40\% en el conjunto de pruebas con el modelo DCNN propuesto.
+\citeauthor{antecedente7} realizó un artículo publicado en base de datos de ELSEVIER, siendo también parte de la revista Sustainable Chemistry and Pharmacy en el año 2022. Este fue titulado \citetitle{antecedente7} la cual traducida al español significa «Redes neuronales convolucionales profundas para la detección de enfermedades de la hoja del tomate basada en imágenes». El trabajo nos dice que el reconocimiento de enfermedades foliares en las plantas representa un riesgo significativo para la seguridad alimentaria, ya que puede reducir la producción agrícola y, por ende, la economía nacional. Es crucial identificar estas enfermedades en etapas tempranas para mejorar la calidad y cantidad de los productos agrícolas. Por lo tanto, se requiere un sistema automático de reconocimiento de enfermedades foliares que pueda identificar y clasificar estas enfermedades en etapas tempranas. En este contexto, se han utilizado modelos de redes neuronales convolucionales profundas (DCNN) para el análisis de imágenes de hojas, con el objetivo de aumentar la exactitud y disminuir el tiempo de respuesta. identificación de enfermedades foliares en tomates. Se propone un sistema automático de identificación de enfermedades foliares en tomates utilizando DCNN, con un conjunto de datos de 18160 imágenes de hojas de tomate. Este conjunto de datos se dividió en un 60\% para entrenamiento y un 40\% para pruebas, logrando una precisión del 98.40\% en el conjunto de pruebas con el modelo DCNN propuesto.
 
 \subsubsection{Planteamiento del Problema y objetivo }
 
@@ -220,7 +236,14 @@ Los autores plantean utilizar como técnica principal una DCNN (Deep Convolution
 
 \subsubsection{Metodología empleada por los autores}
 La metodología empleada por los autores, para la creación de su modelo consiste en los siguientes pasos: 
-
+ \begin{enumerate}
+	\item Se adquirió la base de datos de imágenes del conjunto de datos PlantVillage.
+	\item Realizaron un preprocesamiento de imágenes donde se hizo el labeling manualmente.
+	\item Se extrajo caracteristicas de las imagenes usando VGG19
+	\item Los candidatos de CNN para esta investigacion fueron VGG16, VGG19 e Inception v3
+	\item Se hizo el testeo y entrenamiento del modelo
+	\item Finalmente, se evaluó el modelo con las siguientes metricas: AUC, CA, F1, Precision y Recall
+\end{enumerate}
 \begin{figure}[H]
 	\begin{center}
 		\includegraphics[width=1\textwidth]{2/figures/ant7.jpg}
@@ -262,7 +285,7 @@ La metodología empleada por el autor, para la creación de su chatbot consiste 
 
 \subsubsection{Resultados obtenidos}
 
-Los aislamientos de P. infestans tienen varias estructuras de infección que pueden infectar diferentes partes de la planta de papa y pueden sobrevivir durante un largo período. El hongo es capaz de reproducirse tanto sexual como asexualmente, y también presenta patrones de apareamiento A1 y A2 y diferentes genotipos. Todas estas características han llevado a la aparición de varios desafíos en el estudio de la virulencia y la agresividad. El segundo y más importante desafío incluye cómo elegir el mejor método para controlar la enfermedad (tizón tardío), ya que aparecen aislamientos que pueden resistir diferentes fungicidas, también pueden infectar plantas resistentes y muchas razones hacen que este desafío sea más importante.
+Los aislamientos de P. infestans tienen varias estructuras de infección que pueden infectar diferentes partes de la planta de papa y pueden sobrevivir durante un largo período. El hongo es capaz de reproducirse tanto sexual como asexualmente, y también presenta patrones de apareamiento A1 y A2 y diferentes genotipos. Todas estas características han llevado a la aparición de varios desafíos en el estudio de la virulencia y la agresividad. El segundo y más importante desafío incluye cómo elegir el mejor método para controlar la enfermedad (tizón tardío), ya que aparecen aislamientos que pueden resistir diferentes fungicidas, también pueden infectar plantas resistentes y muchas razones hacen que este desafío sea más relevante.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

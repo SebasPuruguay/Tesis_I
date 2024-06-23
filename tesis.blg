@@ -1,19 +1,17 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'tesis.blg'
-[186] biber-MSWIN64:340> INFO - === 
-[246] Biber.pm:420> INFO - Reading 'tesis.bcf'
-[501] Biber.pm:994> INFO - Found 29 citekeys in bib section 0
-[542] Biber.pm:4463> INFO - Processing section 0
-[562] Biber.pm:4654> INFO - Looking for bibtex file 'biblio/references.bib' for section 0
-[637] bibtex.pm:1713> INFO - LaTeX decoding ...
-[721] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio/references.bib'
-[808] Utils.pm:410> ERROR - Name "Manikanta, Chaitanya, Sakunthala," has too many commas, skipping entry 'antecedente6'
-[958] Utils.pm:410> ERROR - BibTeX subsystem: C:\Users\sebas\AppData\Local\Temp\biber_tmp_XE2f\33e59b5ca9ec342068223d604c3f8d55_15040.utf8, line 167, syntax error: found "url", expected end of entry ("}" or ")") (skipping to next "@")
-[958] Biber.pm:131> WARN - Entry with key 'antecedente6' in section '0' is cited and found but not created (likely due to sourcemap)
-[958] Biber.pm:131> WARN - legacy month field 'Oct.' in entry 'antecedente4' is not an integer - this will probably not sort properly.
-[958] Biber.pm:131> WARN - Overwriting field 'year' with year value from field 'date' for entry 'cr_agroinforma1'
-[958] Biber.pm:131> WARN - Overwriting field 'month' with month value from field 'date' for entry 'cr_rancha1'
-[959] Biber.pm:131> WARN - Overwriting field 'month' with month value from field 'date' for entry 'cr_rancha4'
-[959] Biber.pm:131> WARN - legacy month field 'aug' in entry 'teamredac2022' is not an integer - this will probably not sort properly.
-[959] Biber.pm:133> INFO - WARNINGS: 6
-[959] Biber.pm:136> INFO - ERRORS: 2
+[198] biber-MSWIN64:340> INFO - === 
+[257] Biber.pm:420> INFO - Reading 'tesis.bcf'
+[551] Biber.pm:994> INFO - Found 45 citekeys in bib section 0
+[589] Biber.pm:4463> INFO - Processing section 0
+[611] Biber.pm:4654> INFO - Looking for bibtex file 'biblio/references.bib' for section 0
+[699] bibtex.pm:1713> INFO - LaTeX decoding ...
+[810] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio/references.bib'
+[1167] Utils.pm:410> ERROR - BibTeX subsystem: C:\Users\sebas\AppData\Local\Temp\biber_tmp_NnrH\33e59b5ca9ec342068223d604c3f8d55_8248.utf8, line 283, syntax error: found "url", expected end of entry ("}" or ")") (skipping to next "@")
+[1167] Biber.pm:131> WARN - legacy month field 'Oct.' in entry 'antecedente4' is not an integer - this will probably not sort properly.
+[1167] Biber.pm:131> WARN - Overwriting field 'year' with year value from field 'date' for entry 'cr_agroinforma1'
+[1167] Biber.pm:131> WARN - Overwriting field 'month' with month value from field 'date' for entry 'cr_rancha1'
+[1168] Biber.pm:131> WARN - Overwriting field 'month' with month value from field 'date' for entry 'cr_rancha4'
+[1168] Biber.pm:131> WARN - legacy month field 'aug' in entry 'teamredac2022' is not an integer - this will probably not sort properly.
+[1168] Biber.pm:133> INFO - WARNINGS: 5
+[1168] Biber.pm:136> INFO - ERRORS: 1
