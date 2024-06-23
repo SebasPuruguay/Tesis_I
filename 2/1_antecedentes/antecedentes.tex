@@ -9,36 +9,32 @@ Este fue titulado \citetitle{CHAKRABORTY2022101781} la cual traducida al españo
 \subsubsection{Planteamiento del Problema y objetivo }
 El artículo examina la importancia de la papa como uno de los alimentos más consumidos globalmente, esencial en la dieta diaria de 1.5 mil millones de personas, pero que sufre de diversas enfermedades. Entre las más temidas se encuentra el Tizón tardío, que impacta negativamente en la producción del tubérculo. Por ello, se destaca la necesidad de una detección temprana para aplicar estrategias de manejo eficaces. Sin embargo, los métodos convencionales de diagnóstico, como la inspección visual, son subjetivos y requieren mucho tiempo. Así, el artículo sugiere la necesidad de modelos computacionales avanzados para la clasificación temprana de estas enfermedades, mejorando su gestión y control en la papa. Los objetivos principales son explorar y entrenar modelos de aprendizaje profundo, identificar el modelo de mejor desempeño, optimizar el modelo seleccionado, comparar el modelo propuesto con técnicas existentes y proporcionar una solución práctica y eficiente.
 
+
 \subsubsection{Fundamento Teórico usado por el Autor}
 El autor planteó emplear recientes modelos de Deep Learning, los principales modelos que utilizó fueron VGG16, VGG19, ResNet50 y MobileNet utilizando imágenes ópticas de hojas de papa del conjunto de datos PlantVillage.
-
 
 
 \subsubsection{Metodología empleada por los autores}
 La metodología empleada por el autor, para la creación de su chatbot consiste en 6 pasos: 
 
+\begin{enumerate}
+\item Se adquirió la base de datos de imágenes del conjunto de datos PlantVillage, del cual solo extrajo imágenes de hoja de papa.
+\item Realizaron un preprocesamiento de imágenes donde usaron las técnicas de Cambio de ancho, Cambio de Largo, Zoom y recorte aleatorios, Zoom y recortes rotativos y Giro horizontal
+\item Los CNN candidatos fueron  VGG16, VGG19, ResNet50 y MobileNet
+\item Entrenamiento y testeo de los modelos.
+\item Se eligió VGG16 como modelo fianl
+\item Las clases que el modelo clasificaba son, Hoja de papa sana, Hoja de papa con Tizon temprano, Hoja de papa con Tizon tardío
+\end{enumerate}
 \begin{figure}[h]
 	\begin{center}
 		\includegraphics[width=1\textwidth]{2/figures/ant1.jpeg}
-		\caption{Metodología propuesta para el modelo (\cite{CHAKRABORTY2022101781})}
+		\caption{Metodología propuesta para el modelo 
+		(\cite{CHAKRABORTY2022101781})}
 	\end{center}
 \end{figure}
 
-\begin{enumerate}
-	\item Se adquirió la base de datos de imágenes del conjunto de datos PlantVillage, del cual solo extrajo imágenes de hoja de papa.
-	\item Realizaron un preprocesamiento de imágenes donde usaron las técnicas de Cambio de ancho, Cambio de Largo, Zoom y recorte aleatorios, Zoom y recortes rotativos y Giro horizontal
-	\item Los CNN candidatos fueron  VGG16, VGG19, ResNet50 y MobileNet
-	\item Entrenamiento y testeo de los modelos.
-	\item Se eligió VGG16 como modelo fianl
-	\item Las clases que el modelo clasificaba son, Hoja de papa sana, Hoja de papa con Tizon temprano, Hoja de papa con Tizon tardío
-\end{enumerate}
-
 \subsubsection{Resultados obtenidos}
-
-
-
 En el paper, cuando se evaluan las distintas técnicas de CNN a considerar, la que sobresale y tiene un mayor desempeño logrando un accuracy promedio del 92.69\%. Es por eso, que se tunea y se escoge como la técnica principal para el desarrollo del modelo final, obteniendo un accuracy promedio del 97.89\%. 
-
 \begin{figure}[H]
 	\begin{center}
 		\includegraphics[width=0.8\textwidth]{2/figures/ant1.2.jpeg}
@@ -47,17 +43,18 @@ En el paper, cuando se evaluan las distintas técnicas de CNN a considerar, la q
 \end{figure}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \subsection{Research and Validation of Potato Late Blight Detection Method Based on Deep Learning \citep*{antecedente2}}
+
 \citeauthor{antecedente2} realizó este trabajo publicado en la revista Agronomy, para la sección de Precision and Digital Agriculture.
 Este fue titulado \citetitle{antecedente2} la cual traducida al español significa «Investigación y validación del método de detección del tizón tardío de la papa basado en aprendizaje profundo». La investigación nos dice que el Tizón tardío puede llevar al fracaso total del cultivo papa. Asimismo, construyeron un total de siete categorías de conjuntos de datos de enfermedades de las hojas de papa en fondos simples y complejos. Finalmente, la investigacion se introduce en diferentes modelos de Deep Learning en distantas versiones.
 
 \subsubsection{Planteamiento del Problema y objetivo }
-El trabajo discute sobre el Tizón tardío como enfermedad muy grave para los cultivos de papa. Esta pone en riesgo el total del cultivo, además que los métodos tradicionales como la detección basada en la inspección visual suele ser subjetivo y demora tiempo. Asimismo, los sistemas de detección actuales suelen ser ineficientes debido a la varibilida de luminosidad y el sombreado de las hojas. Es crucial desarrollar un modelo de detección automatizada que pueda superar estas limitaciones, permitiendo una monitorización y prevención temprana del tizón tardío de la papa. El objetivo de este estudio es desarrollar y optimizar un modelo de aprendizaje profundo para la detección del tizón tardío en hojas de papa, que sea altamente preciso y rápido en su inferencia, y que pueda ser implementado en dispositivos móviles para la monitorización automática y la alerta temprana de enfermedades en cultivos. Para alcanzar este objetivo, se plantean las siguientes metas específicas: Lograr una clasificación detallada de enfermedades, Opitmizar el modelo base elegido, Evaluar la viabilidad y efectivdad del modelo en hardware.
+El trabajo discute sobre el Tizón tardío como enfermedad muy grave para los cultivos de papa. Esta pone en riesgo el total del cultivo, además que los métodos tradicionales como la detección basada en la inspección visual suele ser subjetivo y demora tiempo. Asimismo, los sistemas de detección actuales suelen ser ineficientes debido a la varibilida de luminosidad y el sombreado de las hojas. Es crucial desarrollar un modelo de detección automatizada que pueda superar estas limitaciones, permitiendo una monitorización y prevención temprana del tizón tardío de la papa. El objetivo de este estudio es desarrollar y optimizar un modelo de aprendizaje profundo para la detección del tizón tardío en hojas de papa, que sea altamente preciso y rápido en su inferencia, y que pueda ser implementado en dispositivos móviles para la monitorización automática y la alerta temprana de enfermedades en cultivos. Para alcanzar este objetivo, se plantean las siguientes metas específicas: Lograr una clasificación detallada de enfermedades, Opitmizar el modelo base elegido, Evaluar la viabilidad y efectivdad del modelo en hardware
 
 \subsubsection{Fundamento Teórico usado por el Autor}
 
 El autor planteó utilizar modelos de Deep Learning, se enfocó en modelos de ligeros y eficientes estos con el fin de implantar el modelo en un dispositivo móvil. Las técnicas que utilizó fueron MobileNet, ShuffleNet, GhostNet, and SqueezeNet pre-trained models usando imágenes de hojas de papa de los conjuntos de dato Plant Village y AI Challenger 2018. 
+
 
 \begin{figure}[H]
 	\begin{center}
@@ -69,16 +66,16 @@ El autor planteó utilizar modelos de Deep Learning, se enfocó en modelos de li
 
 \subsubsection{Metodología empleada por los autores}
 La metodología empleada por el autor, para la creación de su modelo final de clasifacion es el siguiente:
- 
 
- \begin{enumerate}
- 	\item Se adquirió la base de datos de imágenes del conjunto de datos PlantVillage y IA Challenger 2018 dataset, del cual solo extrajo imágenes de hoja de papa.
- 	\item Realizaron un preprocesamiento de imágenes donde usaron técnicas para la Anotación de hoja, Zona de enfermedad, Volteo de imagen, Mejora HSV, Ajuste de birllo, Agregar sombras
- 	\item Los CNN candidatos fueron  MobileNet, ShuffleNet, GhostNet y SqueezeNet
- 	\item Entrenamiento y testeo de los modelos.
- 	\item Se eligió ShuffleNetV2 como modelo final
- 	\item Las clases que el modelo clasificaba son, Hoja de papa sana, Tizón tardio nivel 1, Tizón tardio nivel 2 y Tizón tardio nivel 3
- \end{enumerate}
+
+\begin{enumerate}
+	\item Se adquirió la base de datos de imágenes del conjunto de datos PlantVillage y IA Challenger 2018 dataset, del cual solo extrajo imágenes de hoja de papa.
+	\item Realizaron un preprocesamiento de imágenes donde usaron técnicas para la Anotación de hoja, Zona de enfermedad, Volteo de imagen, Mejora HSV, Ajuste de birllo, Agregar sombras
+	\item Los CNN candidatos fueron  MobileNet, ShuffleNet, GhostNet y SqueezeNet
+	\item Entrenamiento y testeo de los modelos.
+	\item Se eligió ShuffleNetV2 como modelo final
+	\item Las clases que el modelo clasificaba son, Hoja de papa sana, Tizón tardio nivel 1, Tizón tardio nivel 2 y Tizón tardio nivel 3
+\end{enumerate}
 \begin{figure}[H]
 	\begin{center}
 		\includegraphics[width=1\textwidth]{2/figures/ant2.2.jpg}
@@ -103,6 +100,7 @@ En esta investigacion, se analizaron distintos resultados con diferentes técnic
 		\caption{Interfaz de operación de detección de imágenes. (\cite{antecedente2})}
 	\end{center}
 \end{figure}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -122,11 +120,11 @@ El autor plantea hacer uso de CNN y SVM como sus posibles modelos finales. Utili
 La metodología empleada por el autor, para la creación de su modelo consiste en los siguientes pasos: 
 
 \begin{enumerate}
-    \item Captura los datos imputados por parte del cliente.
-    \item Envía el query a Dialogflow para su procesamiento.
-    \item Se procesa la información mediante una API externa y el código implementado, así como la base de datos.
-    \item Retorna los resultados procesados y se agrega información extra requerida.
-    \item Envía al cliente o usuario la respuesta.
+	\item Captura los datos imputados por parte del cliente.
+	\item Envía el query a Dialogflow para su procesamiento.
+	\item Se procesa la información mediante una API externa y el código implementado, así como la base de datos.
+	\item Retorna los resultados procesados y se agrega información extra requerida.
+	\item Envía al cliente o usuario la respuesta.
 \end{enumerate}
 
 \begin{figure}[H]
@@ -157,7 +155,7 @@ Los autores plantean utilizar como técnica principal una DCNN (Deep Convolution
 
 \subsubsection{Metodología empleada por los autores}
 La metodología empleada por los autores, para la creación de su chatbot consiste en los siguientes pasos: 
- \begin{enumerate}
+\begin{enumerate}
 	\item Se adquirió la base de datos de imágenes del conjunto de datos PlantVillagey
 	\item Realizaron un preprocesamiento de imágenes donde se ajusto el tamaño de imagenes.
 	\item El modelo utilizó una DCNN
@@ -197,7 +195,7 @@ Los autores formulan utilizar como técnica principal un Red Neuronal Convolucio
 
 \subsubsection{Metodología empleada por los autores}
 La metodología empleada por los autores, para la creación de su chatbot consiste en los siguientes pasos: 
- \begin{enumerate}
+\begin{enumerate}
 	\item Se adquirió la base de datos de imágenes del conjunto de datos PlantVillage. Asimismo, añadieron una base de datos de imagenes propias tomadas con camaras digitales
 	\item Realizaron un preprocesamiento de imágenes donde se ajusto el tamaño de imagenes segun el dataset..
 	\item El modelo utilizó una CNN
@@ -236,7 +234,7 @@ Los autores plantean utilizar como técnica principal una DCNN (Deep Convolution
 
 \subsubsection{Metodología empleada por los autores}
 La metodología empleada por los autores, para la creación de su modelo consiste en los siguientes pasos: 
- \begin{enumerate}
+\begin{enumerate}
 	\item Se adquirió la base de datos de imágenes del conjunto de datos PlantVillage.
 	\item Realizaron un preprocesamiento de imágenes donde se hizo el labeling manualmente.
 	\item Se extrajo caracteristicas de las imagenes usando VGG19
@@ -304,6 +302,6 @@ Los aislamientos de P. infestans tienen varias estructuras de infección que pue
 
 % %%%Ecuacion
 % \begin{equation}  
-% \label{eq:RMSE}
-% RMSE = \sqrt{\frac{\sum_{i=1}^{N}{\Big(O_i -T_i\Big)^2}}{N}}
-% \end{equation}
+	% \label{eq:RMSE}
+	% RMSE = \sqrt{\frac{\sum_{i=1}^{N}{\Big(O_i -T_i\Big)^2}}{N}}
+	% \end{equation}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.9)  22 JUN 2024 22:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.9)  23 JUN 2024 17:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -87,26 +87,6 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@dimlist=\toks18
 
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
-Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen149
-\lightrulewidth=\dimen150
-\cmidrulewidth=\dimen151
-\belowrulesep=\dimen152
-\belowbottomsep=\dimen153
-\aboverulesep=\dimen154
-\abovetopsep=\dimen155
-\cmidrulesep=\dimen156
-\cmidrulekern=\dimen157
-\defaultaddspace=\dimen158
-\@cmidla=\count266
-\@cmidlb=\count267
-\@aboverulesep=\dimen159
-\@belowrulesep=\dimen160
-\@thisruleclass=\count268
-\@lastruleclass=\count269
-\@thisrulewidth=\dimen161
-)
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks19
@@ -117,14 +97,14 @@ Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
 
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count270
+\etb@tempcnta=\count266
 )
-\csq@reset=\count271
-\csq@gtype=\count272
-\csq@glevel=\count273
-\csq@qlevel=\count274
-\csq@maxlvl=\count275
-\csq@tshold=\count276
+\csq@reset=\count267
+\csq@gtype=\count268
+\csq@glevel=\count269
+\csq@qlevel=\count270
+\csq@maxlvl=\count271
+\csq@tshold=\count272
 \csq@ltx@everypar=\toks21
 
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
@@ -137,13 +117,13 @@ Package csquotes Info: ... configuration file loaded successfully.
 File: csquotes.cfg 
 )) (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2024/02/07 v24.2 The Babel package
-\babel@savecnt=\count277
-\U@D=\dimen162
+\babel@savecnt=\count273
+\U@D=\dimen149
 \l@unhyphenated=\language79
 
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count278
+\bbl@dirlevel=\count274
 
 *************************************
 * Local config file bblopts.cfg used
@@ -156,7 +136,7 @@ File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
 df
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 \es@quottoks=\toks22
-\es@quotdepth=\count279
+\es@quotdepth=\count275
 Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
@@ -193,7 +173,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )) (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count280
+\lrq@indent=\count276
 
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -205,49 +185,49 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count281
-\c@listtotal=\count282
-\c@listcount=\count283
-\c@liststart=\count284
-\c@liststop=\count285
-\c@citecount=\count286
-\c@citetotal=\count287
-\c@multicitecount=\count288
-\c@multicitetotal=\count289
-\c@instcount=\count290
-\c@maxnames=\count291
-\c@minnames=\count292
-\c@maxitems=\count293
-\c@minitems=\count294
-\c@citecounter=\count295
-\c@maxcitecounter=\count296
-\c@savedcitecounter=\count297
-\c@uniquelist=\count298
-\c@uniquename=\count299
-\c@refsection=\count300
-\c@refsegment=\count301
-\c@maxextratitle=\count302
-\c@maxextratitleyear=\count303
-\c@maxextraname=\count304
-\c@maxextradate=\count305
-\c@maxextraalpha=\count306
-\c@abbrvpenalty=\count307
-\c@highnamepenalty=\count308
-\c@lownamepenalty=\count309
-\c@maxparens=\count310
-\c@parenlevel=\count311
-\blx@tempcnta=\count312
-\blx@tempcntb=\count313
-\blx@tempcntc=\count314
-\c@blx@maxsection=\count315
-\blx@maxsegment@0=\count316
-\blx@notetype=\count317
-\blx@parenlevel@text=\count318
-\blx@parenlevel@foot=\count319
-\blx@sectionciteorder@0=\count320
-\blx@sectionciteorderinternal@0=\count321
-\blx@entrysetcounter=\count322
-\blx@biblioinstance=\count323
+\c@tabx@nest=\count277
+\c@listtotal=\count278
+\c@listcount=\count279
+\c@liststart=\count280
+\c@liststop=\count281
+\c@citecount=\count282
+\c@citetotal=\count283
+\c@multicitecount=\count284
+\c@multicitetotal=\count285
+\c@instcount=\count286
+\c@maxnames=\count287
+\c@minnames=\count288
+\c@maxitems=\count289
+\c@minitems=\count290
+\c@citecounter=\count291
+\c@maxcitecounter=\count292
+\c@savedcitecounter=\count293
+\c@uniquelist=\count294
+\c@uniquename=\count295
+\c@refsection=\count296
+\c@refsegment=\count297
+\c@maxextratitle=\count298
+\c@maxextratitleyear=\count299
+\c@maxextraname=\count300
+\c@maxextradate=\count301
+\c@maxextraalpha=\count302
+\c@abbrvpenalty=\count303
+\c@highnamepenalty=\count304
+\c@lownamepenalty=\count305
+\c@maxparens=\count306
+\c@parenlevel=\count307
+\blx@tempcnta=\count308
+\blx@tempcntb=\count309
+\blx@tempcntc=\count310
+\c@blx@maxsection=\count311
+\blx@maxsegment@0=\count312
+\blx@notetype=\count313
+\blx@parenlevel@text=\count314
+\blx@parenlevel@foot=\count315
+\blx@sectionciteorder@0=\count316
+\blx@sectionciteorderinternal@0=\count317
+\blx@entrysetcounter=\count318
+\blx@biblioinstance=\count319
 \labelnumberwidth=\skip50
 \labelalphawidth=\skip51
 \biblabelsep=\skip52
@@ -259,9 +239,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@bcfin=\read3
 \blx@bcfout=\write3
 \blx@langwohyphens=\language80
-\c@mincomprange=\count324
-\c@maxcomprange=\count325
-\c@mincompwidth=\count326
+\c@mincomprange=\count320
+\c@maxcomprange=\count321
+\c@mincompwidth=\count322
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -276,84 +256,84 @@ File: apa.dbx 2023/03/20 v9.17 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count327
-\c@savedafterword=\count328
-\c@annotator=\count329
-\c@savedannotator=\count330
-\c@author=\count331
-\c@savedauthor=\count332
-\c@bookauthor=\count333
-\c@savedbookauthor=\count334
-\c@commentator=\count335
-\c@savedcommentator=\count336
-\c@editor=\count337
-\c@savededitor=\count338
-\c@editora=\count339
-\c@savededitora=\count340
-\c@editorb=\count341
-\c@savededitorb=\count342
-\c@editorc=\count343
-\c@savededitorc=\count344
-\c@foreword=\count345
-\c@savedforeword=\count346
-\c@holder=\count347
-\c@savedholder=\count348
-\c@introduction=\count349
-\c@savedintroduction=\count350
-\c@namea=\count351
-\c@savednamea=\count352
-\c@nameb=\count353
-\c@savednameb=\count354
-\c@namec=\count355
-\c@savednamec=\count356
-\c@translator=\count357
-\c@savedtranslator=\count358
-\c@shortauthor=\count359
-\c@savedshortauthor=\count360
-\c@shorteditor=\count361
-\c@savedshorteditor=\count362
-\c@narrator=\count363
-\c@savednarrator=\count364
-\c@execproducer=\count365
-\c@savedexecproducer=\count366
-\c@execdirector=\count367
-\c@savedexecdirector=\count368
-\c@with=\count369
-\c@savedwith=\count370
-\c@labelname=\count371
-\c@savedlabelname=\count372
-\c@institution=\count373
-\c@savedinstitution=\count374
-\c@lista=\count375
-\c@savedlista=\count376
-\c@listb=\count377
-\c@savedlistb=\count378
-\c@listc=\count379
-\c@savedlistc=\count380
-\c@listd=\count381
-\c@savedlistd=\count382
-\c@liste=\count383
-\c@savedliste=\count384
-\c@listf=\count385
-\c@savedlistf=\count386
-\c@location=\count387
-\c@savedlocation=\count388
-\c@organization=\count389
-\c@savedorganization=\count390
-\c@origlocation=\count391
-\c@savedoriglocation=\count392
-\c@origpublisher=\count393
-\c@savedorigpublisher=\count394
-\c@publisher=\count395
-\c@savedpublisher=\count396
-\c@language=\count397
-\c@savedlanguage=\count398
-\c@origlanguage=\count399
-\c@savedoriglanguage=\count400
-\c@citation=\count401
-\c@savedcitation=\count402
-\c@pageref=\count403
-\c@savedpageref=\count404
+\c@afterword=\count323
+\c@savedafterword=\count324
+\c@annotator=\count325
+\c@savedannotator=\count326
+\c@author=\count327
+\c@savedauthor=\count328
+\c@bookauthor=\count329
+\c@savedbookauthor=\count330
+\c@commentator=\count331
+\c@savedcommentator=\count332
+\c@editor=\count333
+\c@savededitor=\count334
+\c@editora=\count335
+\c@savededitora=\count336
+\c@editorb=\count337
+\c@savededitorb=\count338
+\c@editorc=\count339
+\c@savededitorc=\count340
+\c@foreword=\count341
+\c@savedforeword=\count342
+\c@holder=\count343
+\c@savedholder=\count344
+\c@introduction=\count345
+\c@savedintroduction=\count346
+\c@namea=\count347
+\c@savednamea=\count348
+\c@nameb=\count349
+\c@savednameb=\count350
+\c@namec=\count351
+\c@savednamec=\count352
+\c@translator=\count353
+\c@savedtranslator=\count354
+\c@shortauthor=\count355
+\c@savedshortauthor=\count356
+\c@shorteditor=\count357
+\c@savedshorteditor=\count358
+\c@narrator=\count359
+\c@savednarrator=\count360
+\c@execproducer=\count361
+\c@savedexecproducer=\count362
+\c@execdirector=\count363
+\c@savedexecdirector=\count364
+\c@with=\count365
+\c@savedwith=\count366
+\c@labelname=\count367
+\c@savedlabelname=\count368
+\c@institution=\count369
+\c@savedinstitution=\count370
+\c@lista=\count371
+\c@savedlista=\count372
+\c@listb=\count373
+\c@savedlistb=\count374
+\c@listc=\count375
+\c@savedlistc=\count376
+\c@listd=\count377
+\c@savedlistd=\count378
+\c@liste=\count379
+\c@savedliste=\count380
+\c@listf=\count381
+\c@savedlistf=\count382
+\c@location=\count383
+\c@savedlocation=\count384
+\c@organization=\count385
+\c@savedorganization=\count386
+\c@origlocation=\count387
+\c@savedoriglocation=\count388
+\c@origpublisher=\count389
+\c@savedorigpublisher=\count390
+\c@publisher=\count391
+\c@savedpublisher=\count392
+\c@language=\count393
+\c@savedlanguage=\count394
+\c@origlanguage=\count395
+\c@savedoriglanguage=\count396
+\c@citation=\count397
+\c@savedcitation=\count398
+\c@pageref=\count399
+\c@savedpageref=\count400
 \shorthandwidth=\skip58
 \shortjournalwidth=\skip59
 \shortserieswidth=\skip60
@@ -378,19 +358,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
-\c@textcitecount=\count405
-\c@textcitetotal=\count406
-\c@textcitemaxnames=\count407
-\c@biburlbigbreakpenalty=\count408
-\c@biburlbreakpenalty=\count409
-\c@biburlnumpenalty=\count410
-\c@biburlucpenalty=\count411
-\c@biburllcpenalty=\count412
+\c@textcitecount=\count401
+\c@textcitetotal=\count402
+\c@textcitemaxnames=\count403
+\c@biburlbigbreakpenalty=\count404
+\c@biburlbreakpenalty=\count405
+\c@biburlnumpenalty=\count406
+\c@biburlucpenalty=\count407
+\c@biburllcpenalty=\count408
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count413
+\c@smartand=\count409
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
@@ -410,8 +390,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
 bx
 File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count414
-\c@bbx:relatedtotal=\count415
+\c@bbx:relatedcount=\count410
+\c@bbx:relatedtotal=\count411
 )
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defin
 ed, overwriting.
@@ -462,7 +442,7 @@ Package: expl3 2024-03-14 L3 programming layer (loader)
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count416
+\l__color_backend_stack_int=\count412
 \l__pdf_internal_box=\box51
 ))
 Package biblatex Info: ... and expl3
@@ -503,11 +483,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count417
+\c@section@level=\count413
 )
-\@linkdim=\dimen163
-\Hy@linkcounter=\count418
-\Hy@pagecounter=\count419
+\@linkdim=\dimen150
+\Hy@linkcounter=\count414
+\Hy@pagecounter=\count415
 
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
@@ -517,7 +497,7 @@ Now handling font encoding PD1 ...
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count420
+\Hy@SavedSpaceFactor=\count416
 
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
@@ -533,9 +513,9 @@ Package hyperref Info: Plain pages OFF on input line 4194.
 Package hyperref Info: Backreferencing OFF on input line 4199.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4446.
-\c@Hy@tempcnt=\count421
+\c@Hy@tempcnt=\count417
 LaTeX Info: Redefining \url on input line 4784.
-\XeTeXLinkMargin=\dimen164
+\XeTeXLinkMargin=\dimen151
 
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -545,9 +525,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count422
-\Field@Width=\dimen165
-\Fld@charsize=\dimen166
+\Fld@menulength=\count418
+\Field@Width=\dimen152
+\Fld@charsize=\dimen153
 Package hyperref Info: Hyper figures OFF on input line 6063.
 Package hyperref Info: Link nesting OFF on input line 6068.
 Package hyperref Info: Hyper index ON on input line 6071.
@@ -560,9 +540,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6093.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count423
-\c@Item=\count424
-\c@Hfootnote=\count425
+\Hy@abspage=\count419
+\c@Item=\count420
+\c@Hfootnote=\count421
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
@@ -573,8 +553,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count426
-\c@bookmark@seq@number=\count427
+\Fld@listcount=\count422
+\c@bookmark@seq@number=\count423
 
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
@@ -589,20 +569,12 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip72
 )
-(C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count428
-\float@exts=\toks23
-\float@box=\box52
-\@float@everytoks=\toks24
-\@floatcapt=\box53
-)
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks25
+\@emptytoks=\toks23
 \symAMSa=\mathgroup6
 \symAMSb=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
@@ -626,25 +598,24 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen167
-\Gin@req@width=\dimen168
+\Gin@req@height=\dimen154
+\Gin@req@width=\dimen155
 ) (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen169
-\captionmargin=\dimen170
-\caption@leftmargin=\dimen171
-\caption@rightmargin=\dimen172
-\caption@width=\dimen173
-\caption@indent=\dimen174
-\caption@parindent=\dimen175
-\caption@hangindent=\dimen176
+\caption@tempdima=\dimen156
+\captionmargin=\dimen157
+\caption@leftmargin=\dimen158
+\caption@rightmargin=\dimen159
+\caption@width=\dimen160
+\caption@indent=\dimen161
+\caption@parindent=\dimen162
+\caption@hangindent=\dimen163
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count429
-\c@continuedfloat=\count430
-Package caption Info: float package is loaded.
+\c@caption@flags=\count424
+\c@continuedfloat=\count425
 Package caption Info: hyperref package is loaded.
 )
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\eucal.sty
@@ -665,14 +636,14 @@ File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 ) (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
 Package: footmisc 2023/07/05 v6.0f a miscellany of footnote facilities
-\FN@temptoken=\toks26
-\footnotemargin=\dimen177
-\@outputbox@depth=\dimen178
+\FN@temptoken=\toks24
+\footnotemargin=\dimen164
+\@outputbox@depth=\dimen165
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/bigfoot\perpage.sty
 Package: perpage 2014/10/25 2.0 Reset/sort counters per page
-\c@abspage=\count431
+\c@abspage=\count426
 )
-\c@pp@a@footnote=\count432
+\c@pp@a@footnote=\count427
 Package footmisc Info: Declaring symbol style bringhurst on input line 696.
 Package footmisc Info: Declaring symbol style chicago on input line 704.
 Package footmisc Info: Declaring symbol style wiley on input line 713.
@@ -684,28 +655,30 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 765
 )
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
-\c@tracingmulticols=\count433
-\mult@box=\box54
-\multicol@leftmargin=\dimen179
-\c@unbalance=\count434
-\c@collectmore=\count435
-\doublecol@number=\count436
-\multicoltolerance=\count437
-\multicolpretolerance=\count438
-\full@width=\dimen180
-\page@free=\dimen181
-\premulticols=\dimen182
-\postmulticols=\dimen183
+\c@tracingmulticols=\count428
+\mult@box=\box52
+\multicol@leftmargin=\dimen166
+\c@unbalance=\count429
+\c@collectmore=\count430
+\doublecol@number=\count431
+\multicoltolerance=\count432
+\multicolpretolerance=\count433
+\full@width=\dimen167
+\page@free=\dimen168
+\premulticols=\dimen169
+\postmulticols=\dimen170
 \multicolsep=\skip73
 \multicolbaselineskip=\skip74
-\partial@page=\box55
-\last@line=\box56
-\mc@boxedresult=\box57
-\maxbalancingoverflow=\dimen184
-\mult@rightbox=\box58
-\mult@grightbox=\box59
-\mult@firstbox=\box60
-\mult@gfirstbox=\box61
+\partial@page=\box53
+\last@line=\box54
+\mc@boxedresult=\box55
+\maxbalancingoverflow=\dimen171
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@firstbox=\box58
+\mult@gfirstbox=\box59
+\@tempa=\box60
+\@tempa=\box61
 \@tempa=\box62
 \@tempa=\box63
 \@tempa=\box64
@@ -740,17 +713,15 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \@tempa=\box93
 \@tempa=\box94
 \@tempa=\box95
-\@tempa=\box96
-\@tempa=\box97
-\c@minrows=\count439
-\c@columnbadness=\count440
-\c@finalcolumnbadness=\count441
-\last@try=\dimen185
-\multicolovershoot=\dimen186
-\multicolundershoot=\dimen187
-\mult@nat@firstbox=\box98
-\colbreak@box=\box99
-\mc@col@check@num=\count442
+\c@minrows=\count434
+\c@columnbadness=\count435
+\c@finalcolumnbadness=\count436
+\last@try=\dimen172
+\multicolovershoot=\dimen173
+\multicolundershoot=\dimen174
+\mult@nat@firstbox=\box96
+\colbreak@box=\box97
+\mc@col@check@num=\count437
 )
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/tocbibind\tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
@@ -760,9 +731,9 @@ Package tocbibind Note: Using chapter style headings, unless overridden.
 
 ) (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
-\c@@pps=\count443
-\c@@ppsavesec=\count444
-\c@@ppsaveapp=\count445
+\c@@pps=\count438
+\c@@ppsavesec=\count439
+\c@@ppsaveapp=\count440
 ) (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
@@ -777,13 +748,41 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@orf=\skip83
 ) (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen188
-\ar@mcellbox=\box100
-\extrarowheight=\dimen189
-\NC@list=\toks27
+\col@sep=\dimen175
+\ar@mcellbox=\box98
+\extrarowheight=\dimen176
+\NC@list=\toks25
 \extratabsurround=\skip84
 \backup@length=\skip85
-\ar@cellbox=\box101
+\ar@cellbox=\box99
+)
+(C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count441
+\float@exts=\toks26
+\float@box=\box100
+\@float@everytoks=\toks27
+\@floatcapt=\box101
+)
+(C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen177
+\lightrulewidth=\dimen178
+\cmidrulewidth=\dimen179
+\belowrulesep=\dimen180
+\belowbottomsep=\dimen181
+\aboverulesep=\dimen182
+\abovetopsep=\dimen183
+\cmidrulesep=\dimen184
+\cmidrulekern=\dimen185
+\defaultaddspace=\dimen186
+\@cmidla=\count442
+\@cmidlb=\count443
+\@aboverulesep=\dimen187
+\@belowrulesep=\dimen188
+\@thisruleclass=\count444
+\@lastruleclass=\count445
+\@thisrulewidth=\dimen189
 )
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
@@ -1024,11 +1023,15 @@ Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-42.
+44.
 
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
+
+LaTeX Warning: Unused global option(s):
+    [times].
+
 (tesis.aux
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
@@ -1055,24 +1058,24 @@ LaTeX Warning: Label `' multiply defined.
 ) (anexos/anexo.aux))
 \openout1 = `tesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1108,8 +1111,8 @@ LaTeX Font Info:    ... okay on input line 142.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 142.
-LaTeX Info: Redefining \% on input line 142.
+LaTeX Info: Redefining \. on input line 144.
+LaTeX Info: Redefining \% on input line 144.
 Package biblatex Info: Trying to load language 'spanish' -> 'spanish-apa'...
 Package biblatex Info: ... file 'spanish-apa.lbx' found.
 
@@ -1137,10 +1140,18 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'tesis.bbl' found.
- (tesis.bbl)
-Package biblatex Info: Reference section=0 on input line 142.
-Package biblatex Info: Reference segment=0 on input line 142.
-Package hyperref Info: Link coloring ON on input line 142.
+ (tesis.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                cr_rancha1
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
+Package biblatex Info: Reference section=0 on input line 144.
+Package biblatex Info: Reference segment=0 on input line 144.
+Package hyperref Info: Link coloring ON on input line 144.
  (tesis.out) (tesis.out)
 \@outlinefile=\write4
 \openout4 = `tesis.out'.
@@ -1172,6 +1183,7 @@ fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
@@ -1181,11 +1193,11 @@ File: translations-basic-dictionary-spanish.trsl (spanish translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `spanish'. on input line 142.
-<images_repo/esanlogomin.png, id=471, 100.6962pt x 100.2144pt>
+or `spanish'. on input line 144.
+<images_repo/esanlogomin.png, id=467, 100.6962pt x 100.2144pt>
 File: images_repo/esanlogomin.png Graphic file (type png)
 <use images_repo/esanlogomin.png>
-Package pdftex.def Info: images_repo/esanlogomin.png  used on input line 148.
+Package pdftex.def Info: images_repo/esanlogomin.png  used on input line 150.
 (pdftex.def)             Requested size: 203.83434pt x 202.87491pt.
  [1
 
@@ -1234,43 +1246,10 @@ l.22 ...mberline {2}MARCO TEÓRICO}{12}{chapter.2}
                                                   % [1
 
 ]
+LaTeX Info: Redefining \sptext on input line 99.
+LaTeX Info: Redefining \. on input line 99.
+LaTeX Info: Redefining \% on input line 99.
 
-LaTeX Warning: Citation 'CHAKRABORTY2022101781' on page 2 undefined on input li
-ne 24.
-
-
-LaTeX Warning: Citation 'antecedente2' on page 2 undefined on input line 29.
-
-
-LaTeX Warning: Citation 'antecedente3' on page 2 undefined on input line 34.
-
-
-LaTeX Warning: Citation 'antecedente5' on page 2 undefined on input line 39.
-
-
-LaTeX Warning: Citation 'antecedente6' on page 2 undefined on input line 44.
-
-
-LaTeX Warning: Citation 'antecedente7' on page 2 undefined on input line 49.
-
-
-LaTeX Warning: Citation 'antecedente4' on page 2 undefined on input line 54.
-
-
-LaTeX Warning: Citation 'tecnica3' on page 2 undefined on input line 62.
-
-
-LaTeX Warning: Citation 'tecnica2' on page 2 undefined on input line 79.
-
-
-LaTeX Warning: Citation 'tecnica1' on page 2 undefined on input line 84.
-
-
-LaTeX Warning: Citation 'tecnica4' on page 2 undefined on input line 92.
-
-LaTeX Info: Redefining \sptext on input line 101.
-LaTeX Info: Redefining \. on input line 101.
-LaTeX Info: Redefining \% on input line 101.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -1279,19 +1258,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[2]
-
-LaTeX Warning: Citation 'vc1' on page 3 undefined on input line 101.
-
-
-LaTeX Warning: Citation 'prom2' on page 3 undefined on input line 111.
-
-)
+[2])
 \tf@toc=\write5
 \openout5 = `tesis.toc'.
 
-LaTeX Info: Redefining \. on input line 195.
-LaTeX Info: Redefining \% on input line 195.
+LaTeX Info: Redefining \. on input line 197.
+LaTeX Info: Redefining \% on input line 197.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1306,21 +1278,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
  (1/planteamiento.tex
 Cap\'{\i }tulo 1.
-
-LaTeX Warning: Citation 'cr_elcomercioproduccionpapa' on page 4 undefined on in
-put line 5.
-
-
-LaTeX Warning: Citation 'cr_agroinforma1' on page 4 undefined on input line 8.
-
-
-LaTeX Warning: Citation 'minagri_estadisticas_2022' on page 4 undefined on inpu
-t line 8.
-
-
-LaTeX Warning: Citation 'inei_cenagro_2022' on page 4 undefined on input line 8
-.
-
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
 0.
 (C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
@@ -1329,45 +1286,18 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 
 LaTeX Warning: Citation 'cr_rancha1' on page 4 undefined on input line 10.
 
-
-LaTeX Warning: Citation 'cr_rancha2' on page 4 undefined on input line 10.
-
 [4
 
 
 ]
-<1/figures/evolucionrancha.png, id=565, 853.1875pt x 290.08376pt>
+<1/figures/evolucionrancha.png, id=605, 853.1875pt x 290.08376pt>
 File: 1/figures/evolucionrancha.png Graphic file (type png)
 <use 1/figures/evolucionrancha.png>
 Package pdftex.def Info: 1/figures/evolucionrancha.png  used on input line 14.
-(pdftex.def)             Requested size: 294.4266pt x 100.10555pt.
+(pdftex.def)             Requested size: 452.96826pt x 154.01366pt.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
 
-
-LaTeX Warning: Citation 'cr_gestion2018emprend' on page 5 undefined on input li
-ne 16.
-
-
-LaTeX Warning: Citation 'cr_gestion2018emprend' on page 5 undefined on input li
-ne 16.
-
-
-LaTeX Warning: Citation 'cr_rancha6' on page 5 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'cr_rancha3' on page 5 undefined on input line 23.
-
-
-LaTeX Warning: Citation 'cr_rancha4' on page 5 undefined on input line 23.
-
-
-LaTeX Warning: Citation 'cr_rancha5' on page 5 undefined on input line 23.
-
-
-LaTeX Warning: Citation 'cr_agroinforma2' on page 5 undefined on input line 25.
-
-
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -1377,14 +1307,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [5 <./1/figures/evolucionrancha.png>]
-
-LaTeX Warning: Citation 'cr_iaplanta' on page 6 undefined on input line 27.
-
-
-LaTeX Warning: Citation 'cr_iaplanta2' on page 6 undefined on input line 29.
-
 LaTeX Info: Redefining \. on input line 30.
 LaTeX Info: Redefining \% on input line 30.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -1394,13 +1319,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [6]
-Overfull \hbox (1.45438pt too wide) in paragraph at lines 75--75
-[]\OT1/ptm/m/n/12 ?`C[]omo po-de-mos de-sa-rro-llar un sis-te-ma de de-tec-ci[]
-on au-tom[]ati-ca de -an-cha"Phytophthora
- []
+LaTeX Info: Redefining \. on input line 68.
+LaTeX Info: Redefining \% on input line 68.
 
-LaTeX Info: Redefining \. on input line 87.
-LaTeX Info: Redefining \% on input line 87.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -1410,8 +1331,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [7]
-LaTeX Info: Redefining \. on input line 138.
-LaTeX Info: Redefining \% on input line 138.
+LaTeX Info: Redefining \. on input line 112.
+LaTeX Info: Redefining \% on input line 112.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1422,9 +1343,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [8]
-LaTeX Info: Redefining \. on input line 155.
-LaTeX Info: Redefining \% on input line 155.
 
+LaTeX Warning: Reference `anexos:arbol_objetivo' on page 9 undefined on input l
+ine 116.
+
+LaTeX Info: Redefining \. on input line 127.
+LaTeX Info: Redefining \% on input line 127.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -1434,8 +1358,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [9]
-LaTeX Info: Redefining \. on input line 171.
-LaTeX Info: Redefining \% on input line 171.
+LaTeX Info: Redefining \. on input line 142.
+LaTeX Info: Redefining \% on input line 142.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1446,8 +1370,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [10])
-LaTeX Info: Redefining \. on input line 195.
-LaTeX Info: Redefining \% on input line 195.
+LaTeX Info: Redefining \. on input line 197.
+LaTeX Info: Redefining \% on input line 197.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1464,46 +1388,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Cap\'{\i }tulo 2.
 (2/1_antecedentes/antecedentes.tex
 
-LaTeX Warning: Citation 'CHAKRABORTY2022101781' on page 12 undefined on input l
-ine 4.
-
-
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\citep' on input line 4.
 
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 7.
 
-LaTeX Warning: Citation 'CHAKRABORTY2022101781' on page 12 undefined on input l
-ine 6.
-
-
-LaTeX Warning: Citation 'CHAKRABORTY2022101781' on page 12 undefined on input l
-ine 7.
-
-[12
+(C:\Users\sebas\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+) [12
 
 
 
 
 ]
-<2/figures/ant1.jpeg, id=613, 1447.4075pt x 775.89874pt>
+<2/figures/ant1.jpeg, id=673, 1447.4075pt x 775.89874pt>
 File: 2/figures/ant1.jpeg Graphic file (type jpg)
 <use 2/figures/ant1.jpeg>
-Package pdftex.def Info: 2/figures/ant1.jpeg  used on input line 22.
+Package pdftex.def Info: 2/figures/ant1.jpeg  used on input line 30.
 (pdftex.def)             Requested size: 452.96826pt x 242.82294pt.
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
 
-
-LaTeX Warning: Citation 'CHAKRABORTY2022101781' on page 13 undefined on input l
-ine 23.
-
-
-LaTeX Warning: Citation 'CHAKRABORTY2022101781' on page 13 undefined on input l
-ine 23.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-LaTeX Info: Redefining \. on input line 41.
-LaTeX Info: Redefining \% on input line 41.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -1513,22 +1418,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [13]
-<2/figures/ant1.2.jpeg, id=624, 1059.96pt x 738.76pt>
+<2/figures/ant1.2.jpeg, id=686, 1059.96pt x 738.76pt>
 File: 2/figures/ant1.2.jpeg Graphic file (type jpg)
 <use 2/figures/ant1.2.jpeg>
-Package pdftex.def Info: 2/figures/ant1.2.jpeg  used on input line 44.
+Package pdftex.def Info: 2/figures/ant1.2.jpeg  used on input line 40.
 (pdftex.def)             Requested size: 362.37598pt x 252.56158pt.
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
 
-
-LaTeX Warning: Citation 'CHAKRABORTY2022101781' on page 14 undefined on input l
-ine 45.
-
-
-LaTeX Warning: Citation 'CHAKRABORTY2022101781' on page 14 undefined on input l
-ine 45.
-
-LaTeX Info: Redefining \. on input line 48.
-LaTeX Info: Redefining \% on input line 48.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -1539,20 +1436,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [14 <./2/figures/ant1.jpeg>]
 
-LaTeX Warning: Citation 'antecedente2' on page 15 undefined on input line 51.
-
-
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\citep' on input line 51.
+(hyperref)                removing `\citep' on input line 46.
 
-
-LaTeX Warning: Citation 'antecedente2' on page 15 undefined on input line 52.
-
-
-LaTeX Warning: Citation 'antecedente2' on page 15 undefined on input line 53.
-
-LaTeX Info: Redefining \. on input line 57.
-LaTeX Info: Redefining \% on input line 57.
+LaTeX Info: Redefining \. on input line 53.
+LaTeX Info: Redefining \% on input line 53.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -1562,20 +1450,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [15 <./2/figures/ant1.2.jpeg>]
-<2/figures/ant2.jpeg, id=635, 1134.2375pt x 464.73625pt>
+<2/figures/ant2.jpeg, id=702, 1134.2375pt x 464.73625pt>
 File: 2/figures/ant2.jpeg Graphic file (type jpg)
 <use 2/figures/ant2.jpeg>
-Package pdftex.def Info: 2/figures/ant2.jpeg  used on input line 64.
+Package pdftex.def Info: 2/figures/ant2.jpeg  used on input line 61.
 (pdftex.def)             Requested size: 271.7837pt x 111.3546pt.
+LaTeX Info: Redefining \. on input line 72.
+LaTeX Info: Redefining \% on input line 72.
 
-
-LaTeX Warning: Citation 'antecedente2' on page 16 undefined on input line 65.
-
-
-LaTeX Warning: Citation 'antecedente2' on page 16 undefined on input line 65.
-
-LaTeX Info: Redefining \. on input line 76.
-LaTeX Info: Redefining \% on input line 76.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -1585,45 +1467,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [16 <./2/figures/ant2.jpeg>]
-<2/figures/ant2.2.jpg, id=641, 9833.73875pt x 5019.75375pt>
+<2/figures/ant2.2.jpg, id=710, 9833.73875pt x 5019.75375pt>
 File: 2/figures/ant2.2.jpg Graphic file (type jpg)
 <use 2/figures/ant2.2.jpg>
-Package pdftex.def Info: 2/figures/ant2.2.jpg  used on input line 84.
+Package pdftex.def Info: 2/figures/ant2.2.jpg  used on input line 81.
 (pdftex.def)             Requested size: 452.96826pt x 231.16425pt.
+LaTeX Info: Redefining \. on input line 89.
+LaTeX Info: Redefining \% on input line 89.
 
-
-LaTeX Warning: Citation 'antecedente2' on page 17 undefined on input line 85.
-
-
-LaTeX Warning: Citation 'antecedente2' on page 17 undefined on input line 85.
-
-<2/figures/ant2.3.jpeg, id=642, 1086.0575pt x 601.24625pt>
-File: 2/figures/ant2.3.jpeg Graphic file (type jpg)
-<use 2/figures/ant2.3.jpeg>
-Package pdftex.def Info: 2/figures/ant2.3.jpeg  used on input line 95.
-(pdftex.def)             Requested size: 452.96826pt x 250.76941pt.
-
-LaTeX Warning: Citation 'antecedente2' on page 17 undefined on input line 97.
-
-
-LaTeX Warning: Citation 'antecedente2' on page 17 undefined on input line 97.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<2/figures/ant2.4.jpeg, id=643, 895.345pt x 595.22375pt>
-File: 2/figures/ant2.4.jpeg Graphic file (type jpg)
-<use 2/figures/ant2.4.jpeg>
-Package pdftex.def Info: 2/figures/ant2.4.jpeg  used on input line 102.
-(pdftex.def)             Requested size: 317.0764pt x 210.79276pt.
-
-LaTeX Warning: Citation 'antecedente2' on page 17 undefined on input line 103.
-
-
-LaTeX Warning: Citation 'antecedente2' on page 17 undefined on input line 103.
-
-LaTeX Info: Redefining \. on input line 107.
-LaTeX Info: Redefining \% on input line 107.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -1633,450 +1484,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [17 <./2/figures/ant2.2.jpg>]
-Overfull \vbox (35.21536pt too high) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 107.
-LaTeX Info: Redefining \% on input line 107.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[18 <./2/figures/ant2.3.jpeg> <./2/figures/ant2.4.jpeg>]
-
-LaTeX Warning: Citation 'antecedente3' on page 19 undefined on input line 109.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\citep' on input line 109.
-
-
-LaTeX Warning: Citation 'antecedente3' on page 19 undefined on input line 111.
-
-
-LaTeX Warning: Citation 'antecedente3' on page 19 undefined on input line 111.
-
-LaTeX Info: Redefining \. on input line 127.
-LaTeX Info: Redefining \% on input line 127.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[19]
-<2/figures/ant3.jpeg, id=667, 699.61375pt x 869.2475pt>
-File: 2/figures/ant3.jpeg Graphic file (type jpg)
-<use 2/figures/ant3.jpeg>
-Package pdftex.def Info: 2/figures/ant3.jpeg  used on input line 134.
-(pdftex.def)             Requested size: 452.96826pt x 562.80241pt.
-
-
-LaTeX Warning: Citation 'antecedente3' on page 20 undefined on input line 135.
-
-
-LaTeX Warning: Citation 'antecedente3' on page 20 undefined on input line 135.
-
-LaTeX Info: Redefining \. on input line 138.
-LaTeX Info: Redefining \% on input line 138.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[20]
-LaTeX Info: Redefining \. on input line 142.
-LaTeX Info: Redefining \% on input line 142.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[21 <./2/figures/ant3.jpeg>]
-
-LaTeX Warning: Citation 'antecedente5' on page 22 undefined on input line 144.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\citep' on input line 144.
-
-
-LaTeX Warning: Citation 'antecedente5' on page 22 undefined on input line 146.
-
-
-LaTeX Warning: Citation 'antecedente5' on page 22 undefined on input line 146.
-
-LaTeX Info: Redefining \. on input line 151.
-LaTeX Info: Redefining \% on input line 151.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[22]
-<2/figures/ant5.jpg, id=685, 10354.685pt x 4766.80875pt>
-File: 2/figures/ant5.jpg Graphic file (type jpg)
-<use 2/figures/ant5.jpg>
-Package pdftex.def Info: 2/figures/ant5.jpg  used on input line 170.
-(pdftex.def)             Requested size: 452.96826pt x 208.46008pt.
-
-
-LaTeX Warning: Citation 'antecedente5' on page 23 undefined on input line 171.
-
-
-LaTeX Warning: Citation 'antecedente5' on page 23 undefined on input line 171.
-
-LaTeX Info: Redefining \. on input line 174.
-LaTeX Info: Redefining \% on input line 174.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[23]
-<2/figures/ant5.2.jpeg, id=696, 2487.2925pt x 809.0225pt>
-File: 2/figures/ant5.2.jpeg Graphic file (type jpg)
-<use 2/figures/ant5.2.jpeg>
-Package pdftex.def Info: 2/figures/ant5.2.jpeg  used on input line 180.
-(pdftex.def)             Requested size: 452.96826pt x 147.33368pt.
-
-
-LaTeX Warning: Citation 'antecedente5' on page 24 undefined on input line 181.
-
-
-LaTeX Warning: Citation 'antecedente5' on page 24 undefined on input line 181.
-
-
-LaTeX Warning: Citation 'antecedente6' on page 24 undefined on input line 186.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\citep' on input line 186.
-
-
-LaTeX Warning: Citation 'antecedente6' on page 24 undefined on input line 188.
-
-
-LaTeX Warning: Citation 'antecedente6' on page 24 undefined on input line 188.
-
-LaTeX Info: Redefining \. on input line 189.
-LaTeX Info: Redefining \% on input line 189.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[24 <./2/figures/ant5.jpg> <./2/figures/ant5.2.jpeg>]
-LaTeX Info: Redefining \. on input line 203.
-LaTeX Info: Redefining \% on input line 203.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[25]
-<2/figures/ant6.jpg, id=709, 11232.96625pt x 4394.4175pt>
-File: 2/figures/ant6.jpg Graphic file (type jpg)
-<use 2/figures/ant6.jpg>
-Package pdftex.def Info: 2/figures/ant6.jpg  used on input line 210.
-(pdftex.def)             Requested size: 452.96826pt x 177.15488pt.
-
-
-LaTeX Warning: Citation 'antecedente6' on page 26 undefined on input line 211.
-
-
-LaTeX Warning: Citation 'antecedente6' on page 26 undefined on input line 211.
-
-<2/figures/ant6.2.jpeg, id=710, 1192.455pt x 782.925pt>
-File: 2/figures/ant6.2.jpeg Graphic file (type jpg)
-<use 2/figures/ant6.2.jpeg>
-Package pdftex.def Info: 2/figures/ant6.2.jpeg  used on input line 220.
-(pdftex.def)             Requested size: 452.96826pt x 297.39513pt.
-
-LaTeX Warning: Citation 'antecedente6' on page 26 undefined on input line 221.
-
-
-LaTeX Warning: Citation 'antecedente6' on page 26 undefined on input line 221.
-
-LaTeX Info: Redefining \. on input line 225.
-LaTeX Info: Redefining \% on input line 225.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[26 <./2/figures/ant6.jpg>]
-
-LaTeX Warning: Citation 'antecedente7' on page 27 undefined on input line 225.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\citep' on input line 225.
-
-
-LaTeX Warning: Citation 'antecedente7' on page 27 undefined on input line 227.
-
-
-LaTeX Warning: Citation 'antecedente7' on page 27 undefined on input line 227.
-
-LaTeX Info: Redefining \. on input line 228.
-LaTeX Info: Redefining \% on input line 228.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[27 <./2/figures/ant6.2.jpeg>]
-LaTeX Info: Redefining \. on input line 244.
-LaTeX Info: Redefining \% on input line 244.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[28]
-<2/figures/ant7.jpg, id=733, 10322.565pt x 4781.865pt>
-File: 2/figures/ant7.jpg Graphic file (type jpg)
-<use 2/figures/ant7.jpg>
-Package pdftex.def Info: 2/figures/ant7.jpg  used on input line 249.
-(pdftex.def)             Requested size: 452.96826pt x 209.7752pt.
-
-
-LaTeX Warning: Citation 'antecedente7' on page 29 undefined on input line 250.
-
-
-LaTeX Warning: Citation 'antecedente7' on page 29 undefined on input line 250.
-
-<2/figures/ant7.2.jpeg, id=734, 2366.8425pt x 612.2875pt>
-File: 2/figures/ant7.2.jpeg Graphic file (type jpg)
-<use 2/figures/ant7.2.jpeg>
-Package pdftex.def Info: 2/figures/ant7.2.jpeg  used on input line 259.
-(pdftex.def)             Requested size: 452.96826pt x 117.17668pt.
-
-LaTeX Warning: Citation 'antecedente7' on page 29 undefined on input line 260.
-
-
-LaTeX Warning: Citation 'antecedente7' on page 29 undefined on input line 260.
-
-
-LaTeX Warning: Citation 'antecedente4' on page 29 undefined on input line 264.
-
-
-Overfull \hbox (1.37683pt too wide) in paragraph at lines 264--264
-[]\OT1/ptm/b/n/14.4 Investigation of Phy-tophtho-ra In-fes-tans Cau-sing Po-ta-
-to La-te Blight
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\citep' on input line 264.
-
-
-LaTeX Warning: Citation 'antecedente4' on page 29 undefined on input line 266.
-
-
-LaTeX Warning: Citation 'antecedente4' on page 29 undefined on input line 266.
-
-LaTeX Info: Redefining \. on input line 267.
-LaTeX Info: Redefining \% on input line 267.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[29 <./2/figures/ant7.jpg> <./2/figures/ant7.2.jpeg>]
-<2/figures/ant4.jpg, id=744, 9965.23pt x 4953.50626pt>
-File: 2/figures/ant4.jpg Graphic file (type jpg)
-<use 2/figures/ant4.jpg>
-Package pdftex.def Info: 2/figures/ant4.jpg  used on input line 281.
-(pdftex.def)             Requested size: 452.96826pt x 225.0901pt.
-
-
-LaTeX Warning: Citation 'antecedente4' on page 30 undefined on input line 282.
-
-
-LaTeX Warning: Citation 'antecedente4' on page 30 undefined on input line 282.
-
-LaTeX Info: Redefining \. on input line 284.
-LaTeX Info: Redefining \% on input line 284.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[30]) (2/2_teoria/base_teo.tex
-
-LaTeX Warning: Citation 'teamredac2022' on page 31 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'rouhiainen2018inteligencia' on page 31 undefined on in
-put line 3.
-
-
-LaTeX Warning: Citation 'ricardo2021inteligencia' on page 31 undefined on input
- line 3.
-
-
-LaTeX Warning: Citation 'cajahuanca2021inteligencia' on page 31 undefined on in
-put line 3.
-
-LaTeX Info: Redefining \. on input line 5.
-LaTeX Info: Redefining \% on input line 5.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[31 <./2/figures/ant4.jpg>]
-
-LaTeX Warning: Citation 'rusk2016deep' on page 32 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'rouhiainen2018inteligencia' on page 32 undefined on in
-put line 7.
-
-
-LaTeX Warning: Citation 'kelleher2019deep' on page 32 undefined on input line 8
-.
-
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[32]
-
-LaTeX Warning: Citation 'tecnica3' on page 33 undefined on input line 10.
-
-
-Overfull \hbox (32.75627pt too wide) in paragraph at lines 10--10
-\OT1/ptm/b/n/14.4 tor ma-chi-ne clas-si-fi-ca-tion: Ap-pli-ca-tions, cha-llen-g
-es and trends ([]) 
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\citep' on input line 10.
-
-LaTeX Info: Redefining \. on input line 16.
-LaTeX Info: Redefining \% on input line 16.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[33]
-LaTeX Info: Redefining \. on input line 35.
-LaTeX Info: Redefining \% on input line 35.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[34]
-<2/figures/svm1.jpeg, id=767, 1007.765pt x 827.09pt>
-File: 2/figures/svm1.jpeg Graphic file (type jpg)
-<use 2/figures/svm1.jpeg>
-Package pdftex.def Info: 2/figures/svm1.jpeg  used on input line 41.
-(pdftex.def)             Requested size: 452.96826pt x 371.75797pt.
-
-
-LaTeX Warning: Citation 'tecnica3' on page 35 undefined on input line 42.
-
-
-LaTeX Warning: Citation 'tecnica3' on page 35 undefined on input line 42.
-
-LaTeX Info: Redefining \. on input line 52.
-LaTeX Info: Redefining \% on input line 52.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[35 <./2/figures/svm1.jpeg>]
-<2/figures/svm2.jpeg, id=778, 887.315pt x 717.68124pt>
-File: 2/figures/svm2.jpeg Graphic file (type jpg)
-<use 2/figures/svm2.jpeg>
-Package pdftex.def Info: 2/figures/svm2.jpeg  used on input line 89.
-(pdftex.def)             Requested size: 362.37598pt x 293.09041pt.
-
-
-LaTeX Warning: Citation 'tecnica3' on page 36 undefined on input line 90.
-
-
-LaTeX Warning: Citation 'tecnica3' on page 36 undefined on input line 90.
-
-LaTeX Info: Redefining \. on input line 93.
-LaTeX Info: Redefining \% on input line 93.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[36]
+<2/figures/ant2.3.jpeg, id=724, 1086.0575pt x 601.24625pt>
+File: 2/figures/ant2.3.jpeg Graphic file (type jpg)
+<use 2/figures/ant2.3.jpeg>
+Package pdftex.def Info: 2/figures/ant2.3.jpeg  used on input line 92.
+(pdftex.def)             Requested size: 452.96826pt x 250.76941pt.
+<2/figures/ant2.4.jpeg, id=727, 895.345pt x 595.22375pt>
+File: 2/figures/ant2.4.jpeg Graphic file (type jpg)
+<use 2/figures/ant2.4.jpeg>
+Package pdftex.def Info: 2/figures/ant2.4.jpeg  used on input line 99.
+(pdftex.def)             Requested size: 317.0764pt x 210.79276pt.
 LaTeX Info: Redefining \. on input line 103.
 LaTeX Info: Redefining \% on input line 103.
 
@@ -2088,32 +1505,329 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
+[18 <./2/figures/ant2.3.jpeg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citep' on input line 107.
+
+LaTeX Info: Redefining \. on input line 114.
+LaTeX Info: Redefining \% on input line 114.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[19 <./2/figures/ant2.4.jpeg>]
+<2/figures/ant3.jpeg, id=742, 699.61375pt x 869.2475pt>
+File: 2/figures/ant3.jpeg Graphic file (type jpg)
+<use 2/figures/ant3.jpeg>
+Package pdftex.def Info: 2/figures/ant3.jpeg  used on input line 132.
+(pdftex.def)             Requested size: 452.96826pt x 562.80241pt.
+LaTeX Info: Redefining \. on input line 136.
+LaTeX Info: Redefining \% on input line 136.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[20]
+LaTeX Info: Redefining \. on input line 140.
+LaTeX Info: Redefining \% on input line 140.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[21 <./2/figures/ant3.jpeg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citep' on input line 142.
+
+LaTeX Info: Redefining \. on input line 149.
+LaTeX Info: Redefining \% on input line 149.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[22]
+<2/figures/ant5.jpg, id=764, 10354.685pt x 4766.80875pt>
+File: 2/figures/ant5.jpg Graphic file (type jpg)
+<use 2/figures/ant5.jpg>
+Package pdftex.def Info: 2/figures/ant5.jpg  used on input line 168.
+(pdftex.def)             Requested size: 452.96826pt x 208.46008pt.
+LaTeX Info: Redefining \. on input line 172.
+LaTeX Info: Redefining \% on input line 172.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[23]
+<2/figures/ant5.2.jpeg, id=777, 2487.2925pt x 809.0225pt>
+File: 2/figures/ant5.2.jpeg Graphic file (type jpg)
+<use 2/figures/ant5.2.jpeg>
+Package pdftex.def Info: 2/figures/ant5.2.jpeg  used on input line 178.
+(pdftex.def)             Requested size: 452.96826pt x 147.33368pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citep' on input line 184.
+
+LaTeX Info: Redefining \. on input line 187.
+LaTeX Info: Redefining \% on input line 187.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[24 <./2/figures/ant5.jpg> <./2/figures/ant5.2.jpeg>]
+LaTeX Info: Redefining \. on input line 201.
+LaTeX Info: Redefining \% on input line 201.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[25]
+<2/figures/ant6.jpg, id=793, 11232.96625pt x 4394.4175pt>
+File: 2/figures/ant6.jpg Graphic file (type jpg)
+<use 2/figures/ant6.jpg>
+Package pdftex.def Info: 2/figures/ant6.jpg  used on input line 208.
+(pdftex.def)             Requested size: 452.96826pt x 177.15488pt.
+<2/figures/ant6.2.jpeg, id=796, 1192.455pt x 782.925pt>
+File: 2/figures/ant6.2.jpeg Graphic file (type jpg)
+<use 2/figures/ant6.2.jpeg>
+Package pdftex.def Info: 2/figures/ant6.2.jpeg  used on input line 218.
+(pdftex.def)             Requested size: 452.96826pt x 297.39513pt.
+LaTeX Info: Redefining \. on input line 223.
+LaTeX Info: Redefining \% on input line 223.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[26 <./2/figures/ant6.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citep' on input line 223.
+
+LaTeX Info: Redefining \. on input line 226.
+LaTeX Info: Redefining \% on input line 226.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[27 <./2/figures/ant6.2.jpeg>]
+LaTeX Info: Redefining \. on input line 242.
+LaTeX Info: Redefining \% on input line 242.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[28]
+<2/figures/ant7.jpg, id=822, 10322.565pt x 4781.865pt>
+File: 2/figures/ant7.jpg Graphic file (type jpg)
+<use 2/figures/ant7.jpg>
+Package pdftex.def Info: 2/figures/ant7.jpg  used on input line 247.
+(pdftex.def)             Requested size: 452.96826pt x 209.7752pt.
+<2/figures/ant7.2.jpeg, id=825, 2366.8425pt x 612.2875pt>
+File: 2/figures/ant7.2.jpeg Graphic file (type jpg)
+<use 2/figures/ant7.2.jpeg>
+Package pdftex.def Info: 2/figures/ant7.2.jpeg  used on input line 257.
+(pdftex.def)             Requested size: 452.96826pt x 117.17668pt.
+
+Overfull \hbox (1.37683pt too wide) in paragraph at lines 262--262
+[]\OT1/ptm/b/n/14.4 Investigation of Phy-tophtho-ra In-fes-tans Cau-sing Po-ta-
+to La-te Blight
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citep' on input line 262.
+
+LaTeX Info: Redefining \. on input line 265.
+LaTeX Info: Redefining \% on input line 265.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[29 <./2/figures/ant7.jpg> <./2/figures/ant7.2.jpeg>]
+LaTeX Info: Redefining \. on input line 273.
+LaTeX Info: Redefining \% on input line 273.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[30]
+<2/figures/ant4.jpg, id=843, 9965.23pt x 4953.50626pt>
+File: 2/figures/ant4.jpg Graphic file (type jpg)
+<use 2/figures/ant4.jpg>
+Package pdftex.def Info: 2/figures/ant4.jpg  used on input line 279.
+(pdftex.def)             Requested size: 452.96826pt x 225.0901pt.
+) (2/2_teoria/base_teo.tex
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[31 <./2/figures/ant4.jpg>]
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[32]
+Overfull \hbox (5.02222pt too wide) in paragraph at lines 9--9
+\OT1/ptm/b/n/14.4 tor ma-chi-ne clas-si-fi-ca-tion: Ap-pli-ca-tions, cha-llen-g
+es and trends ([][][]Cer-
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citep' on input line 9.
+
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[33]
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[34]
+<2/figures/svm1.jpeg, id=877, 1007.765pt x 827.09pt>
+File: 2/figures/svm1.jpeg Graphic file (type jpg)
+<use 2/figures/svm1.jpeg>
+Package pdftex.def Info: 2/figures/svm1.jpeg  used on input line 40.
+(pdftex.def)             Requested size: 452.96826pt x 371.75797pt.
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[35 <./2/figures/svm1.jpeg>]
+<2/figures/svm2.jpeg, id=890, 887.315pt x 717.68124pt>
+File: 2/figures/svm2.jpeg Graphic file (type jpg)
+<use 2/figures/svm2.jpeg>
+Package pdftex.def Info: 2/figures/svm2.jpeg  used on input line 88.
+(pdftex.def)             Requested size: 362.37598pt x 293.09041pt.
+LaTeX Info: Redefining \. on input line 92.
+LaTeX Info: Redefining \% on input line 92.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[36]
+LaTeX Info: Redefining \. on input line 102.
+LaTeX Info: Redefining \% on input line 102.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
 [37 <./2/figures/svm2.jpeg>]
-<2/figures/svm3.jpeg, id=790, 856.19875pt x 601.24625pt>
+<2/figures/svm3.jpeg, id=904, 856.19875pt x 601.24625pt>
 File: 2/figures/svm3.jpeg Graphic file (type jpg)
 <use 2/figures/svm3.jpeg>
-Package pdftex.def Info: 2/figures/svm3.jpeg  used on input line 107.
+Package pdftex.def Info: 2/figures/svm3.jpeg  used on input line 106.
 (pdftex.def)             Requested size: 362.37598pt x 254.46664pt.
-
-
-LaTeX Warning: Citation 'tecnica3' on page 38 undefined on input line 108.
-
-
-LaTeX Warning: Citation 'tecnica3' on page 38 undefined on input line 108.
-
-<2/figures/svm4.jpeg, id=791, 996.72375pt x 763.85374pt>
+<2/figures/svm4.jpeg, id=907, 996.72375pt x 763.85374pt>
 File: 2/figures/svm4.jpeg Graphic file (type jpg)
 <use 2/figures/svm4.jpeg>
-Package pdftex.def Info: 2/figures/svm4.jpeg  used on input line 114.
+Package pdftex.def Info: 2/figures/svm4.jpeg  used on input line 113.
 (pdftex.def)             Requested size: 362.37598pt x 277.70285pt.
+LaTeX Info: Redefining \. on input line 117.
+LaTeX Info: Redefining \% on input line 117.
 
-LaTeX Warning: Citation 'tecnica3' on page 38 undefined on input line 115.
-
-
-LaTeX Warning: Citation 'tecnica3' on page 38 undefined on input line 115.
-
-LaTeX Info: Redefining \. on input line 118.
-LaTeX Info: Redefining \% on input line 118.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2123,8 +1837,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [38 <./2/figures/svm3.jpeg>]
-LaTeX Info: Redefining \. on input line 131.
-LaTeX Info: Redefining \% on input line 131.
+LaTeX Info: Redefining \. on input line 130.
+LaTeX Info: Redefining \% on input line 130.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2135,8 +1849,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [39 <./2/figures/svm4.jpeg>]
-LaTeX Info: Redefining \. on input line 158.
-LaTeX Info: Redefining \% on input line 158.
+LaTeX Info: Redefining \. on input line 157.
+LaTeX Info: Redefining \% on input line 157.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2147,13 +1861,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [40]
-Overfull \hbox (3.97388pt too wide) in paragraph at lines 172--173
+Overfull \hbox (3.97388pt too wide) in paragraph at lines 171--172
 []\OT1/ptm/m/n/12 Actualmente exis-ten va-rias im-ple-men-ta-cio-nes de M[]aqui
 -nas de Vec-to-res de So-por-te (SVM)
  []
 
-LaTeX Info: Redefining \. on input line 183.
-LaTeX Info: Redefining \% on input line 183.
+LaTeX Info: Redefining \. on input line 182.
+LaTeX Info: Redefining \% on input line 182.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2163,22 +1877,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [41]
-Underfull \hbox (badness 1077) in paragraph at lines 213--213
+Underfull \hbox (badness 1077) in paragraph at lines 212--212
 []|\OT1/ptm/m/n/12 Ronan Co-llo-bert and Samy
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--217
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
 []|\OT1/ptm/m/n/12 Incremental
  []
 
 
-Overfull \hbox (9.82306pt too wide) in paragraph at lines 209--220
+Overfull \hbox (9.82306pt too wide) in paragraph at lines 208--219
  [][] 
  []
 
-LaTeX Info: Redefining \. on input line 221.
-LaTeX Info: Redefining \% on input line 221.
+LaTeX Info: Redefining \. on input line 220.
+LaTeX Info: Redefining \% on input line 220.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2188,20 +1902,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [42]
+LaTeX Info: Redefining \. on input line 231.
+LaTeX Info: Redefining \% on input line 231.
 
-LaTeX Warning: Citation 'svmm1' on page 43 undefined on input line 223.
-
-
-LaTeX Warning: Citation 'svmm2' on page 43 undefined on input line 225.
-
-
-LaTeX Warning: Citation 'svmm3' on page 43 undefined on input line 227.
-
-
-LaTeX Warning: Citation 'svmm4' on page 43 undefined on input line 231.
-
-LaTeX Info: Redefining \. on input line 232.
-LaTeX Info: Redefining \% on input line 232.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2211,28 +1914,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [43]
-
-LaTeX Warning: Citation 'svmm5' on page 44 undefined on input line 233.
-
-
-LaTeX Warning: Citation 'svmm6' on page 44 undefined on input line 235.
-
-
-LaTeX Warning: Citation 'svmm7' on page 44 undefined on input line 237.
-
-<2/figures/svm5.jpeg, id=834, 1205.50375pt x 807.015pt>
+<2/figures/svm5.jpeg, id=962, 1205.50375pt x 807.015pt>
 File: 2/figures/svm5.jpeg Graphic file (type jpg)
 <use 2/figures/svm5.jpeg>
-Package pdftex.def Info: 2/figures/svm5.jpeg  used on input line 242.
+Package pdftex.def Info: 2/figures/svm5.jpeg  used on input line 241.
 (pdftex.def)             Requested size: 452.96826pt x 303.23326pt.
+LaTeX Info: Redefining \. on input line 245.
+LaTeX Info: Redefining \% on input line 245.
 
-LaTeX Warning: Citation 'tecnica3' on page 44 undefined on input line 243.
-
-
-LaTeX Warning: Citation 'tecnica3' on page 44 undefined on input line 243.
-
-LaTeX Info: Redefining \. on input line 246.
-LaTeX Info: Redefining \% on input line 246.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2242,20 +1931,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [44]
-<2/figures/svm6.jpeg, id=843, 1205.50375pt x 733.74126pt>
+<2/figures/svm6.jpeg, id=978, 1205.50375pt x 733.74126pt>
 File: 2/figures/svm6.jpeg Graphic file (type jpg)
 <use 2/figures/svm6.jpeg>
-Package pdftex.def Info: 2/figures/svm6.jpeg  used on input line 249.
+Package pdftex.def Info: 2/figures/svm6.jpeg  used on input line 248.
 (pdftex.def)             Requested size: 452.96826pt x 275.7009pt.
+LaTeX Info: Redefining \. on input line 255.
+LaTeX Info: Redefining \% on input line 255.
 
-
-LaTeX Warning: Citation 'tecnica3' on page 45 undefined on input line 250.
-
-
-LaTeX Warning: Citation 'tecnica3' on page 45 undefined on input line 250.
-
-LaTeX Info: Redefining \. on input line 256.
-LaTeX Info: Redefining \% on input line 256.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2266,14 +1949,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [45 <./2/figures/svm5.jpeg> <./2/figures/svm6.jpeg>]
 
-LaTeX Warning: Citation 'tecnica2' on page 46 undefined on input line 258.
-
-
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\citep' on input line 258.
+(hyperref)                removing `\citep' on input line 257.
 
-LaTeX Info: Redefining \. on input line 262.
-LaTeX Info: Redefining \% on input line 262.
+LaTeX Info: Redefining \. on input line 261.
+LaTeX Info: Redefining \% on input line 261.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2283,20 +1963,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [46]
-<2/figures/cnn1.jpeg, id=854, 1504.62125pt x 728.7225pt>
+<2/figures/cnn1.jpeg, id=993, 1504.62125pt x 728.7225pt>
 File: 2/figures/cnn1.jpeg Graphic file (type jpg)
 <use 2/figures/cnn1.jpeg>
-Package pdftex.def Info: 2/figures/cnn1.jpeg  used on input line 278.
+Package pdftex.def Info: 2/figures/cnn1.jpeg  used on input line 277.
 (pdftex.def)             Requested size: 452.96826pt x 219.38567pt.
+LaTeX Info: Redefining \. on input line 281.
+LaTeX Info: Redefining \% on input line 281.
 
-
-LaTeX Warning: Citation 'tecnica2' on page 47 undefined on input line 279.
-
-
-LaTeX Warning: Citation 'tecnica2' on page 47 undefined on input line 279.
-
-LaTeX Info: Redefining \. on input line 282.
-LaTeX Info: Redefining \% on input line 282.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2306,20 +1980,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [47]
-<2/figures/cnn2.jpeg, id=859, 929.4725pt x 615.29875pt>
+<2/figures/cnn2.jpeg, id=1000, 929.4725pt x 615.29875pt>
 File: 2/figures/cnn2.jpeg Graphic file (type jpg)
 <use 2/figures/cnn2.jpeg>
-Package pdftex.def Info: 2/figures/cnn2.jpeg  used on input line 291.
+Package pdftex.def Info: 2/figures/cnn2.jpeg  used on input line 290.
 (pdftex.def)             Requested size: 452.96826pt x 299.856pt.
+LaTeX Info: Redefining \. on input line 294.
+LaTeX Info: Redefining \% on input line 294.
 
-
-LaTeX Warning: Citation 'tecnica2' on page 48 undefined on input line 292.
-
-
-LaTeX Warning: Citation 'tecnica2' on page 48 undefined on input line 292.
-
-LaTeX Info: Redefining \. on input line 295.
-LaTeX Info: Redefining \% on input line 295.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2329,22 +1997,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [48 <./2/figures/cnn1.jpeg>]
-Underfull \hbox (badness 6658) in paragraph at lines 312--312
+Underfull \hbox (badness 6658) in paragraph at lines 311--311
 []|\OT1/ptm/m/n/12 Softmax + En-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 312--312
+Underfull \hbox (badness 10000) in paragraph at lines 311--311
 []|$[]\OT1/ztmcm/m/n/12 (\OML/ztmcm/m/it/12 y; y[]\OT1/ztmcm/m/n/12 ) =
  []
 
 
-Overfull \hbox (9.82306pt too wide) in paragraph at lines 304--315
+Overfull \hbox (9.82306pt too wide) in paragraph at lines 303--314
  [][] 
  []
 
-LaTeX Info: Redefining \. on input line 316.
-LaTeX Info: Redefining \% on input line 316.
+LaTeX Info: Redefining \. on input line 314.
+LaTeX Info: Redefining \% on input line 314.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2354,52 +2022,52 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [49 <./2/figures/cnn2.jpeg>]
-Underfull \hbox (badness 10000) in paragraph at lines 328--328
+Underfull \hbox (badness 10000) in paragraph at lines 327--327
 []|\OT1/ptm/m/n/12 Batch Gra-
  []
 
 
-Underfull \hbox (badness 2818) in paragraph at lines 328--328
+Underfull \hbox (badness 2818) in paragraph at lines 327--327
 \OT1/ptm/m/n/12 dient Des-cent
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 330--330
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
 []|\OT1/ptm/m/n/12 Stochastic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 332--332
+Underfull \hbox (badness 10000) in paragraph at lines 331--331
 []|\OT1/ptm/m/n/12 Mini-batch
  []
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 334--334
+Underfull \hbox (badness 2269) in paragraph at lines 333--333
 []|\OT1/ptm/m/n/12 Introduce un par[]ame-tro de
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 336--336
+Underfull \hbox (badness 1057) in paragraph at lines 335--335
 []|\OT1/ptm/m/n/12 Adaptive Mo-
  []
 
 
-Underfull \hbox (badness 5388) in paragraph at lines 336--336
+Underfull \hbox (badness 5388) in paragraph at lines 335--335
 \OT1/ptm/m/n/12 ment Es-ti-ma-
  []
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 336--336
+Underfull \hbox (badness 1024) in paragraph at lines 335--335
 []|\OT1/ptm/m/n/12 Calcula una ta-sa de apren-
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 336--336
+Underfull \hbox (badness 1472) in paragraph at lines 335--335
 \OT1/ptm/m/n/12 di-za-je adap-ta-ti-va pa-ra ca-da
  []
 
-LaTeX Info: Redefining \. on input line 340.
-LaTeX Info: Redefining \% on input line 340.
+LaTeX Info: Redefining \. on input line 339.
+LaTeX Info: Redefining \% on input line 339.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2409,8 +2077,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [50]
-LaTeX Info: Redefining \. on input line 342.
-LaTeX Info: Redefining \% on input line 342.
+LaTeX Info: Redefining \. on input line 341.
+LaTeX Info: Redefining \% on input line 341.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2421,20 +2089,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [51]
-<2/figures/cnn3.jpeg, id=882, 1606.0pt x 548.0475pt>
+<2/figures/cnn3.jpeg, id=1026, 1606.0pt x 548.0475pt>
 File: 2/figures/cnn3.jpeg Graphic file (type jpg)
 <use 2/figures/cnn3.jpeg>
-Package pdftex.def Info: 2/figures/cnn3.jpeg  used on input line 357.
+Package pdftex.def Info: 2/figures/cnn3.jpeg  used on input line 356.
 (pdftex.def)             Requested size: 452.96826pt x 154.57283pt.
+LaTeX Info: Redefining \. on input line 361.
+LaTeX Info: Redefining \% on input line 361.
 
-
-LaTeX Warning: Citation 'tecnica2' on page 52 undefined on input line 359.
-
-
-LaTeX Warning: Citation 'tecnica2' on page 52 undefined on input line 359.
-
-LaTeX Info: Redefining \. on input line 362.
-LaTeX Info: Redefining \% on input line 362.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2444,20 +2106,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [52]
-<2/figures/cnn4.jpeg, id=887, 1479.5275pt x 443.6575pt>
+<2/figures/cnn4.jpeg, id=1033, 1479.5275pt x 443.6575pt>
 File: 2/figures/cnn4.jpeg Graphic file (type jpg)
 <use 2/figures/cnn4.jpeg>
-Package pdftex.def Info: 2/figures/cnn4.jpeg  used on input line 372.
+Package pdftex.def Info: 2/figures/cnn4.jpeg  used on input line 371.
 (pdftex.def)             Requested size: 452.96826pt x 135.82645pt.
+LaTeX Info: Redefining \. on input line 378.
+LaTeX Info: Redefining \% on input line 378.
 
-
-LaTeX Warning: Citation 'tecnica2' on page 53 undefined on input line 375.
-
-
-LaTeX Warning: Citation 'tecnica2' on page 53 undefined on input line 375.
-
-LaTeX Info: Redefining \. on input line 379.
-LaTeX Info: Redefining \% on input line 379.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2467,20 +2123,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [53 <./2/figures/cnn3.jpeg> <./2/figures/cnn4.jpeg>]
-<2/figures/cn55.jpeg, id=894, 876.27374pt x 738.76pt>
+<2/figures/cn55.jpeg, id=1042, 876.27374pt x 738.76pt>
 File: 2/figures/cn55.jpeg Graphic file (type jpg)
 <use 2/figures/cn55.jpeg>
-Package pdftex.def Info: 2/figures/cn55.jpeg  used on input line 398.
+Package pdftex.def Info: 2/figures/cn55.jpeg  used on input line 397.
 (pdftex.def)             Requested size: 452.96826pt x 381.89162pt.
+LaTeX Info: Redefining \. on input line 402.
+LaTeX Info: Redefining \% on input line 402.
 
-
-LaTeX Warning: Citation 'tecnica2' on page 54 undefined on input line 400.
-
-
-LaTeX Warning: Citation 'tecnica2' on page 54 undefined on input line 400.
-
-LaTeX Info: Redefining \. on input line 403.
-LaTeX Info: Redefining \% on input line 403.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2490,20 +2140,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [54]
-<2/figures/cnn6.jpeg, id=900, 1718.42pt x 1957.3125pt>
+<2/figures/cnn6.jpeg, id=1050, 1718.42pt x 1957.3125pt>
 File: 2/figures/cnn6.jpeg Graphic file (type jpg)
 <use 2/figures/cnn6.jpeg>
-Package pdftex.def Info: 2/figures/cnn6.jpeg  used on input line 409.
+Package pdftex.def Info: 2/figures/cnn6.jpeg  used on input line 408.
 (pdftex.def)             Requested size: 452.96826pt x 515.93767pt.
+LaTeX Info: Redefining \. on input line 414.
+LaTeX Info: Redefining \% on input line 414.
 
-
-LaTeX Warning: Citation 'tecnica2' on page 55 undefined on input line 412.
-
-
-LaTeX Warning: Citation 'tecnica2' on page 55 undefined on input line 412.
-
-LaTeX Info: Redefining \. on input line 415.
-LaTeX Info: Redefining \% on input line 415.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2513,8 +2157,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [55 <./2/figures/cn55.jpeg>]
-LaTeX Info: Redefining \. on input line 417.
-LaTeX Info: Redefining \% on input line 417.
+LaTeX Info: Redefining \. on input line 416.
+LaTeX Info: Redefining \% on input line 416.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2525,8 +2169,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [56 <./2/figures/cnn6.jpeg>]
-LaTeX Info: Redefining \. on input line 426.
-LaTeX Info: Redefining \% on input line 426.
+LaTeX Info: Redefining \. on input line 425.
+LaTeX Info: Redefining \% on input line 425.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2537,26 +2181,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [57]
-<2/figures/cnn7.jpeg, id=915, 1529.715pt x 578.16pt>
+<2/figures/cnn7.jpeg, id=1067, 1529.715pt x 578.16pt>
 File: 2/figures/cnn7.jpeg Graphic file (type jpg)
 <use 2/figures/cnn7.jpeg>
-Package pdftex.def Info: 2/figures/cnn7.jpeg  used on input line 433.
+Package pdftex.def Info: 2/figures/cnn7.jpeg  used on input line 432.
 (pdftex.def)             Requested size: 452.96826pt x 171.19972pt.
-
-
-LaTeX Warning: Citation 'tecnica2' on page 58 undefined on input line 435.
-
-
-LaTeX Warning: Citation 'tecnica2' on page 58 undefined on input line 435.
-
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 441.
+            Default family used instead on input line 440.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
-            Default family used instead on input line 441.
-LaTeX Info: Redefining \. on input line 442.
-LaTeX Info: Redefining \% on input line 442.
+            Default family used instead on input line 440.
+LaTeX Info: Redefining \. on input line 441.
+LaTeX Info: Redefining \% on input line 441.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2566,20 +2204,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [58 <./2/figures/cnn7.jpeg>]
-<2/figures/cnn8.jpeg, id=921, 329.23pt x 629.35126pt>
+<2/figures/cnn8.jpeg, id=1075, 329.23pt x 629.35126pt>
 File: 2/figures/cnn8.jpeg Graphic file (type jpg)
 <use 2/figures/cnn8.jpeg>
-Package pdftex.def Info: 2/figures/cnn8.jpeg  used on input line 447.
+Package pdftex.def Info: 2/figures/cnn8.jpeg  used on input line 446.
 (pdftex.def)             Requested size: 271.7837pt x 519.5477pt.
+LaTeX Info: Redefining \. on input line 451.
+LaTeX Info: Redefining \% on input line 451.
 
-
-LaTeX Warning: Citation 'tecnica2' on page 59 undefined on input line 449.
-
-
-LaTeX Warning: Citation 'tecnica2' on page 59 undefined on input line 449.
-
-LaTeX Info: Redefining \. on input line 452.
-LaTeX Info: Redefining \% on input line 452.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2589,8 +2221,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [59]
-LaTeX Info: Redefining \. on input line 457.
-LaTeX Info: Redefining \% on input line 457.
+LaTeX Info: Redefining \. on input line 456.
+LaTeX Info: Redefining \% on input line 456.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2601,20 +2233,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [60 <./2/figures/cnn8.jpeg>]
-<2/figures/cnn9.jpeg, id=933, 1103.12125pt x 830.10126pt>
+<2/figures/cnn9.jpeg, id=1089, 1103.12125pt x 830.10126pt>
 File: 2/figures/cnn9.jpeg Graphic file (type jpg)
 <use 2/figures/cnn9.jpeg>
-Package pdftex.def Info: 2/figures/cnn9.jpeg  used on input line 461.
+Package pdftex.def Info: 2/figures/cnn9.jpeg  used on input line 460.
 (pdftex.def)             Requested size: 452.96826pt x 340.86304pt.
+LaTeX Info: Redefining \. on input line 467.
+LaTeX Info: Redefining \% on input line 467.
 
-
-LaTeX Warning: Citation 'tecnica2' on page 61 undefined on input line 463.
-
-
-LaTeX Warning: Citation 'tecnica2' on page 61 undefined on input line 463.
-
-LaTeX Info: Redefining \. on input line 468.
-LaTeX Info: Redefining \% on input line 468.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2624,16 +2250,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [61 <./2/figures/cnn9.jpeg>]
+Overfull \hbox (6.65062pt too wide) in paragraph at lines 476--476
+[]\OT1/ptm/b/n/14.4 Vision Trans-for-mer: Ex-plai-na-bi-lity of Vi-sion Trans-f
+or-mers: A Com-
+ []
 
-LaTeX Warning: Citation 'alonso2016vision' on page 62 undefined on input line 4
-79.
 
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citep' on input line 476.
 
-LaTeX Warning: Citation 'alonso2016vision' on page 62 undefined on input line 4
-80.
-
-LaTeX Info: Redefining \. on input line 481.
-LaTeX Info: Redefining \% on input line 481.
+LaTeX Info: Redefining \. on input line 478.
+LaTeX Info: Redefining \% on input line 478.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2643,21 +2270,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [62]
-
-LaTeX Warning: Citation 'tecnica1' on page 63 undefined on input line 482.
-
-
-Overfull \hbox (6.65062pt too wide) in paragraph at lines 482--482
-[]\OT1/ptm/b/n/14.4 Vision Trans-for-mer: Ex-plai-na-bi-lity of Vi-sion Trans-f
-or-mers: A Com-
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\citep' on input line 482.
-
 LaTeX Info: Redefining \. on input line 487.
 LaTeX Info: Redefining \% on input line 487.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2667,8 +2282,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [63]
-LaTeX Info: Redefining \. on input line 497.
-LaTeX Info: Redefining \% on input line 497.
+<2/figures/vt1.jpeg, id=1107, 1517.67pt x 757.83125pt>
+File: 2/figures/vt1.jpeg Graphic file (type jpg)
+<use 2/figures/vt1.jpeg>
+Package pdftex.def Info: 2/figures/vt1.jpeg  used on input line 496.
+(pdftex.def)             Requested size: 452.96826pt x 226.18321pt.
+LaTeX Info: Redefining \. on input line 500.
+LaTeX Info: Redefining \% on input line 500.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2679,31 +2299,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [64]
-<2/figures/vt1.jpeg, id=951, 1517.67pt x 757.83125pt>
-File: 2/figures/vt1.jpeg Graphic file (type jpg)
-<use 2/figures/vt1.jpeg>
-Package pdftex.def Info: 2/figures/vt1.jpeg  used on input line 502.
-(pdftex.def)             Requested size: 452.96826pt x 226.18321pt.
-
-
-LaTeX Warning: Citation 'tecnica1' on page 65 undefined on input line 503.
-
-
-LaTeX Warning: Citation 'tecnica1' on page 65 undefined on input line 503.
-
-<2/figures/vt2.jpeg, id=952, 1377.145pt x 3248.135pt>
+<2/figures/vt2.jpeg, id=1114, 1377.145pt x 3248.135pt>
 File: 2/figures/vt2.jpeg Graphic file (type jpg)
 <use 2/figures/vt2.jpeg>
-Package pdftex.def Info: 2/figures/vt2.jpeg  used on input line 511.
+Package pdftex.def Info: 2/figures/vt2.jpeg  used on input line 505.
 (pdftex.def)             Requested size: 271.7837pt x 640.99162pt.
+LaTeX Info: Redefining \. on input line 510.
+LaTeX Info: Redefining \% on input line 510.
 
-LaTeX Warning: Citation 'tecnica1' on page 65 undefined on input line 513.
-
-
-LaTeX Warning: Citation 'tecnica1' on page 65 undefined on input line 513.
-
-LaTeX Info: Redefining \. on input line 515.
-LaTeX Info: Redefining \% on input line 515.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2713,8 +2316,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [65 <./2/figures/vt1.jpeg>]
-LaTeX Info: Redefining \. on input line 516.
-LaTeX Info: Redefining \% on input line 516.
+LaTeX Info: Redefining \. on input line 513.
+LaTeX Info: Redefining \% on input line 513.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2724,44 +2327,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[66]
-LaTeX Info: Redefining \. on input line 519.
-LaTeX Info: Redefining \% on input line 519.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[67 <./2/figures/vt2.jpeg>]
-<2/figures/vt4.jpeg, id=968, 3103.595pt x 1608.0075pt>
+[66 <./2/figures/vt2.jpeg>]
+<2/figures/vt4.jpeg, id=1129, 3103.595pt x 1608.0075pt>
 File: 2/figures/vt4.jpeg Graphic file (type jpg)
 <use 2/figures/vt4.jpeg>
-Package pdftex.def Info: 2/figures/vt4.jpeg  used on input line 542.
+Package pdftex.def Info: 2/figures/vt4.jpeg  used on input line 536.
 (pdftex.def)             Requested size: 452.96826pt x 234.68863pt.
-
-
-LaTeX Warning: Citation 'tecnica1' on page 68 undefined on input line 543.
-
-
-LaTeX Warning: Citation 'tecnica1' on page 68 undefined on input line 543.
-
-LaTeX Info: Redefining \. on input line 546.
-LaTeX Info: Redefining \% on input line 546.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[68]
-LaTeX Info: Redefining \. on input line 553.
-LaTeX Info: Redefining \% on input line 553.
+LaTeX Info: Redefining \. on input line 540.
+LaTeX Info: Redefining \% on input line 540.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2771,32 +2344,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[69 <./2/figures/vt4.jpeg>]
-<2/figures/vt6.jpeg, id=979, 2981.1375pt x 1545.775pt>
+[67]
+LaTeX Info: Redefining \. on input line 547.
+LaTeX Info: Redefining \% on input line 547.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[68 <./2/figures/vt4.jpeg>]
+<2/figures/vt6.jpeg, id=1142, 2981.1375pt x 1545.775pt>
 File: 2/figures/vt6.jpeg Graphic file (type jpg)
 <use 2/figures/vt6.jpeg>
-Package pdftex.def Info: 2/figures/vt6.jpeg  used on input line 576.
+Package pdftex.def Info: 2/figures/vt6.jpeg  used on input line 570.
 (pdftex.def)             Requested size: 452.96826pt x 234.85175pt.
-
-
-LaTeX Warning: Citation 'tecnica1' on page 70 undefined on input line 577.
-
-
-LaTeX Warning: Citation 'tecnica1' on page 70 undefined on input line 577.
-
-LaTeX Info: Redefining \. on input line 580.
-LaTeX Info: Redefining \% on input line 580.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[70]
-LaTeX Info: Redefining \. on input line 591.
-LaTeX Info: Redefining \% on input line 591.
+LaTeX Info: Redefining \. on input line 574.
+LaTeX Info: Redefining \% on input line 574.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2806,21 +2373,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[71 <./2/figures/vt6.jpeg>]
-<2/figures/vt8.jpeg, id=990, 2127.95pt x 1549.79pt>
+[69]
+LaTeX Info: Redefining \. on input line 585.
+LaTeX Info: Redefining \% on input line 585.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[70 <./2/figures/vt6.jpeg>]
+<2/figures/vt8.jpeg, id=1155, 2127.95pt x 1549.79pt>
 File: 2/figures/vt8.jpeg Graphic file (type jpg)
 <use 2/figures/vt8.jpeg>
-Package pdftex.def Info: 2/figures/vt8.jpeg  used on input line 607.
+Package pdftex.def Info: 2/figures/vt8.jpeg  used on input line 601.
 (pdftex.def)             Requested size: 452.96826pt x 329.88765pt.
+LaTeX Info: Redefining \. on input line 605.
+LaTeX Info: Redefining \% on input line 605.
 
-
-LaTeX Warning: Citation 'tecnica1' on page 72 undefined on input line 608.
-
-
-LaTeX Warning: Citation 'tecnica1' on page 72 undefined on input line 608.
-
-LaTeX Info: Redefining \. on input line 611.
-LaTeX Info: Redefining \% on input line 611.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2829,16 +2402,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[72]
-
-LaTeX Warning: Citation 'tecnica4' on page 73 undefined on input line 617.
-
+[71]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\citep' on input line 617.
+(hyperref)                removing `\citep' on input line 610.
 
-LaTeX Info: Redefining \. on input line 619.
-LaTeX Info: Redefining \% on input line 619.
+LaTeX Info: Redefining \. on input line 612.
+LaTeX Info: Redefining \% on input line 612.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2847,21 +2417,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[73 <./2/figures/vt8.jpeg>]
-<2/figures/yolo1.jpeg, id=1001, 1606.0pt x 336.25626pt>
+[72 <./2/figures/vt8.jpeg>]
+<2/figures/yolo1.jpeg, id=1169, 1606.0pt x 336.25626pt>
 File: 2/figures/yolo1.jpeg Graphic file (type jpg)
 <use 2/figures/yolo1.jpeg>
-Package pdftex.def Info: 2/figures/yolo1.jpeg  used on input line 624.
+Package pdftex.def Info: 2/figures/yolo1.jpeg  used on input line 617.
 (pdftex.def)             Requested size: 452.96826pt x 94.83864pt.
+LaTeX Info: Redefining \. on input line 626.
+LaTeX Info: Redefining \% on input line 626.
 
-
-LaTeX Warning: Citation 'tecnica4' on page 74 undefined on input line 628.
-
-
-LaTeX Warning: Citation 'tecnica4' on page 74 undefined on input line 628.
-
-LaTeX Info: Redefining \. on input line 633.
-LaTeX Info: Redefining \% on input line 633.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2870,21 +2434,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[74 <./2/figures/yolo1.jpeg>]
-<2/figures/yolo2.jpeg, id=1007, 1198.4775pt x 775.89874pt>
+[73 <./2/figures/yolo1.jpeg>]
+<2/figures/yolo2.jpeg, id=1177, 1198.4775pt x 775.89874pt>
 File: 2/figures/yolo2.jpeg Graphic file (type jpg)
 <use 2/figures/yolo2.jpeg>
-Package pdftex.def Info: 2/figures/yolo2.jpeg  used on input line 636.
+Package pdftex.def Info: 2/figures/yolo2.jpeg  used on input line 629.
 (pdftex.def)             Requested size: 452.96826pt x 293.24629pt.
+LaTeX Info: Redefining \. on input line 635.
+LaTeX Info: Redefining \% on input line 635.
 
-
-LaTeX Warning: Citation 'tecnica4' on page 75 undefined on input line 637.
-
-
-LaTeX Warning: Citation 'tecnica4' on page 75 undefined on input line 637.
-
-LaTeX Info: Redefining \. on input line 642.
-LaTeX Info: Redefining \% on input line 642.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2893,21 +2451,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[75 <./2/figures/yolo2.jpeg>]
-<2/figures/yolo3.jpeg, id=1013, 1606.0pt x 697.60625pt>
+[74 <./2/figures/yolo2.jpeg>]
+<2/figures/yolo3.jpeg, id=1185, 1606.0pt x 697.60625pt>
 File: 2/figures/yolo3.jpeg Graphic file (type jpg)
 <use 2/figures/yolo3.jpeg>
-Package pdftex.def Info: 2/figures/yolo3.jpeg  used on input line 645.
+Package pdftex.def Info: 2/figures/yolo3.jpeg  used on input line 638.
 (pdftex.def)             Requested size: 452.96826pt x 196.75479pt.
+LaTeX Info: Redefining \. on input line 651.
+LaTeX Info: Redefining \% on input line 651.
 
-
-LaTeX Warning: Citation 'tecnica4' on page 76 undefined on input line 646.
-
-
-LaTeX Warning: Citation 'tecnica4' on page 76 undefined on input line 646.
-
-LaTeX Info: Redefining \. on input line 658.
-LaTeX Info: Redefining \% on input line 658.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2916,27 +2468,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[76 <./2/figures/yolo3.jpeg>]
+[75 <./2/figures/yolo3.jpeg>]
+LaTeX Info: Redefining \. on input line 682.
+LaTeX Info: Redefining \% on input line 682.
 
-LaTeX Warning: Citation 'DPM' on page 77 undefined on input line 674.
-
-
-LaTeX Warning: Citation 'DPM' on page 77 undefined on input line 675.
-
-
-LaTeX Warning: Citation 'DPM' on page 77 undefined on input line 679.
-
-
-LaTeX Warning: Citation 'RCNN' on page 77 undefined on input line 680.
-
-
-LaTeX Warning: Citation 'FastRCNN' on page 77 undefined on input line 681.
-
-
-LaTeX Warning: Citation 'FasterRCNN' on page 77 undefined on input line 682.
-
-LaTeX Info: Redefining \. on input line 689.
-LaTeX Info: Redefining \% on input line 689.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2945,14 +2480,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[77]
-<2/figures/yolo4.jpeg, id=1027, 1111.15125pt x 562.1pt>
+[76]
+<2/figures/yolo4.jpeg, id=1201, 1111.15125pt x 562.1pt>
 File: 2/figures/yolo4.jpeg Graphic file (type jpg)
 <use 2/figures/yolo4.jpeg>
-Package pdftex.def Info: 2/figures/yolo4.jpeg  used on input line 702.
+Package pdftex.def Info: 2/figures/yolo4.jpeg  used on input line 695.
 (pdftex.def)             Requested size: 362.37598pt x 183.31503pt.
-LaTeX Info: Redefining \. on input line 710.
-LaTeX Info: Redefining \% on input line 710.
+LaTeX Info: Redefining \. on input line 703.
+LaTeX Info: Redefining \% on input line 703.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2962,21 +2497,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[78 <./2/figures/yolo4.jpeg>]
-<2/figures/yolo5.jpeg, id=1035, 1606.0pt x 663.47874pt>
+[77 <./2/figures/yolo4.jpeg>]
+<2/figures/yolo5.jpeg, id=1208, 1606.0pt x 663.47874pt>
 File: 2/figures/yolo5.jpeg Graphic file (type jpg)
 <use 2/figures/yolo5.jpeg>
-Package pdftex.def Info: 2/figures/yolo5.jpeg  used on input line 737.
+Package pdftex.def Info: 2/figures/yolo5.jpeg  used on input line 730.
 (pdftex.def)             Requested size: 362.37598pt x 149.70148pt.
+LaTeX Info: Redefining \. on input line 736.
+LaTeX Info: Redefining \% on input line 736.
 
-
-LaTeX Warning: Citation 'tecnica4' on page 79 undefined on input line 738.
-
-
-LaTeX Warning: Citation 'tecnica4' on page 79 undefined on input line 738.
-
-LaTeX Info: Redefining \. on input line 744.
-LaTeX Info: Redefining \% on input line 744.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -2985,15 +2514,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[79 <./2/figures/yolo5.jpeg>]) (2/3_conceptos/marc_conceptual.tex
-
-LaTeX Warning: Citation 'vc1' on page 80 undefined on input line 2.
-
+[78 <./2/figures/yolo5.jpeg>]) (2/3_conceptos/marc_conceptual.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\citep' on input line 2.
 
-<2/figures/vc1.jpeg, id=1042, 1279.78125pt x 843.15pt>
+<2/figures/vc1.jpeg, id=1220, 1279.78125pt x 843.15pt>
 File: 2/figures/vc1.jpeg Graphic file (type jpg)
 <use 2/figures/vc1.jpeg>
 Package pdftex.def Info: 2/figures/vc1.jpeg  used on input line 14.
@@ -3008,8 +2534,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[80]
-<2/figures/vc2.jpeg, id=1047, 1606.0pt x 600.2425pt>
+[79]
+<2/figures/vc2.jpeg, id=1225, 1606.0pt x 600.2425pt>
 File: 2/figures/vc2.jpeg Graphic file (type jpg)
 <use 2/figures/vc2.jpeg>
 Package pdftex.def Info: 2/figures/vc2.jpeg  used on input line 44.
@@ -3025,8 +2551,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[81 <./2/figures/vc1.jpeg>]
-<2/figures/vc3.png, id=1053, 722.7pt x 381.67593pt>
+[80 <./2/figures/vc1.jpeg>]
+<2/figures/vc3.png, id=1231, 722.7pt x 381.67593pt>
 File: 2/figures/vc3.png Graphic file (type png)
 <use 2/figures/vc3.png>
 Package pdftex.def Info: 2/figures/vc3.png  used on input line 59.
@@ -3042,7 +2568,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[82 <./2/figures/vc2.jpeg> <./2/figures/vc3.png>]
+[81 <./2/figures/vc2.jpeg> <./2/figures/vc3.png>]
 LaTeX Info: Redefining \. on input line 121.
 LaTeX Info: Redefining \% on input line 121.
 
@@ -3054,15 +2580,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[83]
-<2/figures/vc6.jpeg, id=1067, 1209.51875pt x 407.5225pt>
+[82]
+<2/figures/vc6.jpeg, id=1245, 1209.51875pt x 407.5225pt>
 File: 2/figures/vc6.jpeg Graphic file (type jpg)
 <use 2/figures/vc6.jpeg>
 Package pdftex.def Info: 2/figures/vc6.jpeg  used on input line 130.
 (pdftex.def)             Requested size: 362.37598pt x 122.09601pt.
-
-
-LaTeX Warning: Citation 'prom2' on page 84 undefined on input line 138.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -3078,7 +2601,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[84 <./2/figures/vc6.jpeg>]
+[83 <./2/figures/vc6.jpeg>]
 LaTeX Info: Redefining \. on input line 150.
 LaTeX Info: Redefining \% on input line 150.
 
@@ -3090,15 +2613,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[85]
-<2/figures/prom1.jpeg, id=1078, 1439.3775pt x 292.09125pt>
+[84]
+<2/figures/prom1.jpeg, id=1257, 1439.3775pt x 292.09125pt>
 File: 2/figures/prom1.jpeg Graphic file (type jpg)
 <use 2/figures/prom1.jpeg>
 Package pdftex.def Info: 2/figures/prom1.jpeg  used on input line 153.
 (pdftex.def)             Requested size: 362.37598pt x 73.53517pt.
 ))
-LaTeX Info: Redefining \. on input line 196.
-LaTeX Info: Redefining \% on input line 196.
+LaTeX Info: Redefining \. on input line 198.
+LaTeX Info: Redefining \% on input line 198.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3108,18 +2631,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[86 <./2/figures/prom1.jpeg>]
+[85 <./2/figures/prom1.jpeg>]
 \openout2 = `3/metodologia.aux'.
 
  (3/metodologia.tex
 Cap\'{\i }tulo 3.
-[87
+[86
 
 
 
 
 ]
-<3/figures/img.jpg, id=1088, 1505.625pt x 1505.625pt>
+<3/figures/img.jpg, id=1267, 1505.625pt x 1505.625pt>
 File: 3/figures/img.jpg Graphic file (type jpg)
 <use 3/figures/img.jpg>
 Package pdftex.def Info: 3/figures/img.jpg  used on input line 36.
@@ -3135,21 +2658,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[88]
-Overfull \vbox (18.85002pt too high) detected at line 55
+[87]
+Overfull \vbox (18.85002pt too high) detected at line 52
  []
 
 
-Overfull \vbox (37.70004pt too high) detected at line 60
- []
-
-
-Overfull \hbox (49.07579pt too wide) in paragraph at lines 50--66
+Overfull \hbox (49.07579pt too wide) in paragraph at lines 47--68
 [][] 
  []
 
-LaTeX Info: Redefining \. on input line 67.
-LaTeX Info: Redefining \% on input line 67.
+LaTeX Info: Redefining \. on input line 69.
+LaTeX Info: Redefining \% on input line 69.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 17.21764pt, for example:
@@ -3158,9 +2677,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[89 <./3/figures/img.jpg>]
-LaTeX Info: Redefining \. on input line 75.
-LaTeX Info: Redefining \% on input line 75.
+[88 <./3/figures/img.jpg>]
+LaTeX Info: Redefining \. on input line 76.
+LaTeX Info: Redefining \% on input line 76.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[89]
+<3/figures/metodologia.jpg, id=1283, 8799.87625pt x 5608.955pt>
+File: 3/figures/metodologia.jpg Graphic file (type jpg)
+<use 3/figures/metodologia.jpg>
+Package pdftex.def Info: 3/figures/metodologia.jpg  used on input line 86.
+(pdftex.def)             Requested size: 452.96826pt x 288.6804pt.
+LaTeX Info: Redefining \. on input line 91.
+LaTeX Info: Redefining \% on input line 91.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3171,30 +2707,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [90]
-<3/figures/metodologia.jpg, id=1105, 8799.87625pt x 5608.955pt>
-File: 3/figures/metodologia.jpg Graphic file (type jpg)
-<use 3/figures/metodologia.jpg>
-Package pdftex.def Info: 3/figures/metodologia.jpg  used on input line 85.
-(pdftex.def)             Requested size: 452.96826pt x 288.6804pt.
-LaTeX Info: Redefining \. on input line 90.
-LaTeX Info: Redefining \% on input line 90.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.21764pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.21764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
-
-[91]
-<3/figures/meto2.jpg, id=1110, 13026.6675pt x 3789.15625pt>
+<3/figures/meto2.jpg, id=1289, 13026.6675pt x 3789.15625pt>
 File: 3/figures/meto2.jpg Graphic file (type jpg)
 <use 3/figures/meto2.jpg>
-Package pdftex.def Info: 3/figures/meto2.jpg  used on input line 96.
+Package pdftex.def Info: 3/figures/meto2.jpg  used on input line 97.
 (pdftex.def)             Requested size: 362.37598pt x 105.40184pt.
-LaTeX Info: Redefining \. on input line 106.
-LaTeX Info: Redefining \% on input line 106.
+LaTeX Info: Redefining \. on input line 107.
+LaTeX Info: Redefining \% on input line 107.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3204,9 +2723,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[92 <./3/figures/metodologia.jpg> <./3/figures/meto2.jpg>])
-LaTeX Info: Redefining \. on input line 197.
-LaTeX Info: Redefining \% on input line 197.
+[91 <./3/figures/metodologia.jpg> <./3/figures/meto2.jpg>])
+LaTeX Info: Redefining \. on input line 199.
+LaTeX Info: Redefining \% on input line 199.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3216,7 +2735,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[93]
+[92]
 \openout2 = `anexos/anexo.aux'.
 
  (anexos/anexo.tex
@@ -3227,36 +2746,6 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--20
-[]|\OT1/ptm/m/n/10.95 Desarrollar un sis-te-ma de
- []
-
-
-Underfull \hbox (badness 1596) in paragraph at lines 20--20
-\OT1/ptm/m/n/10.95 de-tec-ci[]on au-tom[]ati-ca de -an-
- []
-
-
-Underfull \hbox (badness 1546) in paragraph at lines 20--20
-\OT1/ptm/m/n/10.95 al-can-ce una pre-ci-si[]on al-ta en
- []
-
-
-Underfull \hbox (badness 3861) in paragraph at lines 20--21
-[]|\OT1/ptm/m/n/10.95 La im-ple-men-ta-ci[]on de t[]ecni-
- []
-
-
-Underfull \hbox (badness 1132) in paragraph at lines 20--21
-\OT1/ptm/m/n/10.95 y de-tec-ci[]on de im[]age-nes per-
- []
-
-
-Underfull \hbox (badness 1596) in paragraph at lines 20--21
-\OT1/ptm/m/n/10.95 de-tec-ci[]on au-tom[]ati-ca de -an-
- []
-
 
 Underfull \hbox (badness 1546) in paragraph at lines 24--24
 []|\OT1/ptm/m/n/10.95 Identificar las t[]ecni-cas de vi-
@@ -3278,21 +2767,25 @@ Underfull \hbox (badness 1072) in paragraph at lines 26--26
  []
 
 
-Overfull \hbox (11.42305pt too wide) in paragraph at lines 7--30
+Overfull \hbox (11.42305pt too wide) in paragraph at lines 7--29
  [][] 
  []
 
-[94
+
+LaTeX Warning: Float too large for page by 55.65419pt on input line 31.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[93
 
 
 
 
 
 ]
-Overfull \vbox (284.18611pt too high) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 33.
-LaTeX Info: Redefining \% on input line 33.
+LaTeX Info: Redefining \. on input line 35.
+LaTeX Info: Redefining \% on input line 35.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3302,254 +2795,258 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[95]
+[94]
 Anexos B.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
 
-Overfull \hbox (1.37367pt too wide) in paragraph at lines 50--51
+Overfull \hbox (1.37367pt too wide) in paragraph at lines 49--50
 []|[]| 
  []
 
 
-Underfull \hbox (badness 7326) in paragraph at lines 52--53
+Underfull \hbox (badness 7326) in paragraph at lines 51--52
 []|\OT1/ptm/m/n/10 Design and De-ve-lop-ment
  []
 
 
-Underfull \hbox (badness 2310) in paragraph at lines 52--53
+Underfull \hbox (badness 2310) in paragraph at lines 51--52
 \OT1/ptm/m/n/10 of AI-Powered Health-ca-re
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
 []|\OT1/ptm/m/n/10 Prakasam S
  []
 
 
-Underfull \hbox (badness 4995) in paragraph at lines 53--54
+Underfull \hbox (badness 4995) in paragraph at lines 52--53
 \OT1/ptm/m/n/10 krish-nan and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
 \OT1/ptm/m/n/10 Kirthic-kram
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 54--55
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 53--54
 []|\OT1/ptm/m/n/10 2023| 
  []
 
 
-Underfull \hbox (badness 5771) in paragraph at lines 60--61
+Underfull \hbox (badness 5771) in paragraph at lines 59--60
 []|\OT1/ptm/m/n/10 Artificial In-te-lli-gen-ce Po-
  []
 
 
-Underfull \hbox (badness 1168) in paragraph at lines 60--61
+Underfull \hbox (badness 1168) in paragraph at lines 59--60
 \OT1/ptm/m/n/10 we-red Chat-bot for Men-tal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 []|\OT1/ptm/m/n/10 Ansh Meh-ta
  []
 
 
-Underfull \hbox (badness 4995) in paragraph at lines 61--62
+Underfull \hbox (badness 4995) in paragraph at lines 60--61
 \OT1/ptm/m/n/10 and Sukha-da
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 \OT1/ptm/m/n/10 Vir-kar and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 \OT1/ptm/m/n/10 Jay Kha-tri
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 \OT1/ptm/m/n/10 and Rhu-tu-ja
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 \OT1/ptm/m/n/10 Tha-kur and
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 62--63
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 61--62
 []|\OT1/ptm/m/n/10 2022| 
  []
 
 
-Overfull \hbox (1.37367pt too wide) in paragraph at lines 67--68
+Overfull \hbox (1.37367pt too wide) in paragraph at lines 66--67
 []|[]| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 []|\OT1/ptm/m/n/10 Jorge Cor-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 \OT1/ptm/m/n/10 de-ro, Luis
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 \OT1/ptm/m/n/10 Barba-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 \OT1/ptm/m/n/10 Guaman
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 \OT1/ptm/m/n/10 and Fran-co
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 72--73
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 71--72
 []|\OT1/ptm/m/n/10 2022| 
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 79--80
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 78--79
 []|\OT1/ptm/m/n/10 2021| 
  []
 
 
-Underfull \hbox (badness 4429) in paragraph at lines 81--82
+Underfull \hbox (badness 4429) in paragraph at lines 80--81
 []|\OT1/ptm/m/n/10 Revista Cu-ba-na de
  []
 
 
-Overfull \hbox (1.37367pt too wide) in paragraph at lines 84--85
+Overfull \hbox (1.37367pt too wide) in paragraph at lines 83--84
 []|[]| 
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 86--87
+Underfull \hbox (badness 2111) in paragraph at lines 85--86
 []|\OT1/ptm/m/n/10 The Scien-ce of De-tec-ting
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
 []|\OT1/ptm/m/n/10 Ruixiang
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 88--89
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 87--88
 []|\OT1/ptm/m/n/10 2024| 
  []
 
 
-Underfull \hbox (badness 7012) in paragraph at lines 90--91
+Underfull \hbox (badness 7012) in paragraph at lines 89--90
 []|\OT1/ptm/m/n/10 Communications of
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 97--98
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 96--97
 []|\OT1/ptm/m/n/10 2020| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--100
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
 []|\OT1/ptm/m/n/10 International Con-
  []
 
 
-Underfull \hbox (badness 1990) in paragraph at lines 99--100
+Underfull \hbox (badness 1990) in paragraph at lines 98--99
 \OT1/ptm/m/n/10 ni-ca-tion and Sig-nal
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 105--106
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 104--105
 []|\OT1/ptm/m/n/10 2024| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
 \OT1/ptm/m/n/10 for Re-search in
  []
 
 
-Underfull \hbox (badness 2932) in paragraph at lines 107--108
+Underfull \hbox (badness 2932) in paragraph at lines 106--107
 \OT1/ptm/m/n/10 Ap-plied Scien-ce &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
 []|\OT1/ptm/m/n/10 Revisiting uni-ver-sity stu-
  []
 
 
-Underfull \hbox (badness 2401) in paragraph at lines 112--113
+Underfull \hbox (badness 2401) in paragraph at lines 111--112
 \OT1/ptm/m/n/10 dents' in-ten-tion to ac-cept
  []
 
 
-Underfull \hbox (badness 4954) in paragraph at lines 112--113
+Underfull \hbox (badness 4954) in paragraph at lines 111--112
 \OT1/ptm/m/n/10 in-te-gra-tion bet-ween TAM
  []
 
 
-Underfull \hbox (badness 3323) in paragraph at lines 112--113
+Underfull \hbox (badness 3323) in paragraph at lines 111--112
 \OT1/ptm/m/n/10 and SCT: a south Asian
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
 []|\OT1/ptm/m/n/10 Md. Ra-biul
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
 \OT1/ptm/m/n/10 Awal and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
 \OT1/ptm/m/n/10 Md. Enamul
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 114--115
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 113--114
 []|\OT1/ptm/m/n/10 2024| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--118
+Underfull \hbox (badness 10000) in paragraph at lines 115--117
 []|\OT1/ptm/m/n/10 ResearchGate -
  []
 
 
-Underfull \hbox (badness 4120) in paragraph at lines 116--118
+Underfull \hbox (badness 4120) in paragraph at lines 115--117
 \OT1/ptm/m/n/10 Jour-nal of Ap-plied
  []
 
 
-Underfull \hbox (badness 2005) in paragraph at lines 116--118
+Underfull \hbox (badness 2005) in paragraph at lines 115--117
 \OT1/ptm/m/n/10 Re-search in Higher
  []
 
-[96
+
+LaTeX Warning: Float too large for page by 31.17427pt on input line 121.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[95
 
 ]
-Overfull \vbox (264.30893pt too high) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 123.
-LaTeX Info: Redefining \% on input line 123.
+LaTeX Info: Redefining \. on input line 124.
+LaTeX Info: Redefining \% on input line 124.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3559,29 +3056,56 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[97]
+[96]
 Anexos C.
-<anexos/arbol_problema.jpg, id=1138, 963.6pt x 542.025pt>
+<anexos/arbol_problema.jpg, id=1317, 388.45125pt x 441.14813pt>
 File: anexos/arbol_problema.jpg Graphic file (type jpg)
 <use anexos/arbol_problema.jpg>
-Package pdftex.def Info: anexos/arbol_problema.jpg  used on input line 129.
-(pdftex.def)             Requested size: 339.7262pt x 191.09277pt.
-[98
+Package pdftex.def Info: anexos/arbol_problema.jpg  used on input line 128.
+(pdftex.def)             Requested size: 339.7262pt x 385.82191pt.
+) [97
 
- <./anexos/arbol_problema.jpg>]
-Anexos D.
-<anexos/arbol_objetivos.jpg, id=1143, 963.6pt x 542.025pt>
-File: anexos/arbol_objetivos.jpg Graphic file (type jpg)
-<use anexos/arbol_objetivos.jpg>
-Package pdftex.def Info: anexos/arbol_objetivos.jpg  used on input line 140.
-(pdftex.def)             Requested size: 339.7262pt x 191.09277pt.
-) [99
+ <./anexos/arbol_problema.jpg>] [98
 
- <./anexos/arbol_objetivos.jpg>]
 
-LaTeX Warning: Empty bibliography on input line 214.
 
-(tesis.aux
+]
+LaTeX Info: Redefining \. on input line 216.
+LaTeX Info: Redefining \% on input line 216.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[99]
+LaTeX Info: Redefining \. on input line 216.
+LaTeX Info: Redefining \% on input line 216.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[100]
+LaTeX Info: Redefining \. on input line 218.
+LaTeX Info: Redefining \% on input line 218.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[101] (tesis.aux
 LaTeX Info: Redefining \sptext on input line 12.
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
@@ -3599,39 +3123,35 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: 2B0F45915612702A05557EF9DFF87F4C;29000.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                tesis
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: DE754EBBB3B025CF543F42F358BA81BD;28765.
 Package logreq Info: Writing requests to 'tesis.run.xml'.
 \openout1 = `tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29755 strings out of 474424
- 577905 string characters out of 5741740
- 1953496 words of memory out of 5000000
- 51329 multiletter control sequences out of 15000+600000
- 614153 words of font info for 156 fonts, out of 8000000 for 9000
+ 30103 strings out of 474424
+ 589012 string characters out of 5741740
+ 1954496 words of memory out of 5000000
+ 51636 multiletter control sequences out of 15000+600000
+ 612674 words of font info for 155 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,32n,84p,2348b,3521s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 66i,32n,84p,2348b,3682s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\sebas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1200.pk><C:/Users/sebas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmex10.pfb><C:/Users/sebas/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmmi10.pfb><C:/Users/sebas/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmr10.pfb><C:/Users/sebas/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/sebas/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/sebas/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/sebas/AppData
-/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/sebas/AppData/
-Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/sebas/AppData/
-Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/sebas/AppData/
-Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tesis.pdf (100 pages, 15429450 bytes).
+ms/MiKTeX/fonts/type1/public/amsfonts/latxfont/lasy10.pfb><C:/Users/sebas/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Use
+rs/sebas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/User
+s/sebas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users
+/sebas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users
+/sebas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users
+/sebas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on tesis.pdf (102 pages, 15218752 bytes).
 PDF statistics:
- 1270 PDF objects out of 1440 (max. 8388607)
- 337 named destinations out of 1000 (max. 500000)
- 1192 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1507 PDF objects out of 1728 (max. 8388607)
+ 375 named destinations out of 1000 (max. 500000)
+ 1179 words of extra memory for PDF output out of 10000 (max. 10000000)
 

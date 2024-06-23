@@ -1,0 +1,3350 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{svmm2}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8813f9fadc5df82a408538da220563e8}{%
+           family={Afifi},
+           familyi={A\bibinitperiod},
+           given={Shereen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94f5d2154d08e66bcb3d7c21ecd1bd5d}{%
+           family={GholamHosseini},
+           familyi={G\bibinitperiod},
+           given={Hamid},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d07c8a5eb78eebe3b33bcf7e0fef7e1a}{%
+           family={Sinha},
+           familyi={S\bibinitperiod},
+           given={Roopak},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{1903b29a8823d63b7aac11459f22003f}
+      \strng{fullhash}{a8ebcb8d27f59f90c6734a28053c1c10}
+      \strng{fullhashraw}{a8ebcb8d27f59f90c6734a28053c1c10}
+      \strng{bibnamehash}{a8ebcb8d27f59f90c6734a28053c1c10}
+      \strng{authorbibnamehash}{a8ebcb8d27f59f90c6734a28053c1c10}
+      \strng{authornamehash}{1903b29a8823d63b7aac11459f22003f}
+      \strng{authorfullhash}{a8ebcb8d27f59f90c6734a28053c1c10}
+      \strng{authorfullhashraw}{a8ebcb8d27f59f90c6734a28053c1c10}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neural Computing and Applications}
+      \field{number}{6}
+      \field{title}{Dynamic hardware system for cascade SVM classification of melanoma}
+      \field{volume}{32}
+      \field{year}{2020}
+      \field{pages}{1777\bibrangedash 1788}
+      \range{pages}{12}
+    \endentry
+    \entry{cr_iaplanta2}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=65497fd76f2c3eaeb20204cdda0fe7df}{%
+           family={Alba},
+           familyi={A\bibinitperiod},
+           given={José\bibnamedelimb Rolando\bibnamedelima García},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb4732ee2953efe0be9949f4e4e97ea1}{%
+           family={Franco},
+           familyi={F\bibinitperiod},
+           given={Rodrigo\bibnamedelima Rodríguez},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=71241f4416394e2fb72956a36c74072a}{%
+           family={Cerdán},
+           familyi={C\bibinitperiod},
+           given={María\bibnamedelimb María\bibnamedelima Angélica},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0c179e667ea5de3e58b3edb3c7ecbd62}
+      \strng{fullhash}{9336ddfa0bb77e14cc699cd7235f7be7}
+      \strng{fullhashraw}{9336ddfa0bb77e14cc699cd7235f7be7}
+      \strng{bibnamehash}{9336ddfa0bb77e14cc699cd7235f7be7}
+      \strng{authorbibnamehash}{9336ddfa0bb77e14cc699cd7235f7be7}
+      \strng{authornamehash}{0c179e667ea5de3e58b3edb3c7ecbd62}
+      \strng{authorfullhash}{9336ddfa0bb77e14cc699cd7235f7be7}
+      \strng{authorfullhashraw}{9336ddfa0bb77e14cc699cd7235f7be7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{RINDERESU}
+      \field{number}{1-2}
+      \field{title}{Sistemas expertos en agricultura de precisión: revisión sistemática de la literatura}
+      \field{volume}{7}
+      \field{year}{2023}
+    \endentry
+    \entry{antecedente4}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ceb17826d22c688d46fcde3ec6ac7db1}{%
+           family={Alrudainy},
+           familyi={A\bibinitperiod},
+           given={Alaa\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7d5fd1246d80809a2770eb2a7b31b4e}{%
+           family={Mshari},
+           familyi={M\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3159954fb9ff15bd24ef0935bf20a0da}
+      \strng{fullhash}{3159954fb9ff15bd24ef0935bf20a0da}
+      \strng{fullhashraw}{3159954fb9ff15bd24ef0935bf20a0da}
+      \strng{bibnamehash}{3159954fb9ff15bd24ef0935bf20a0da}
+      \strng{authorbibnamehash}{3159954fb9ff15bd24ef0935bf20a0da}
+      \strng{authornamehash}{3159954fb9ff15bd24ef0935bf20a0da}
+      \strng{authorfullhash}{3159954fb9ff15bd24ef0935bf20a0da}
+      \strng{authorfullhashraw}{3159954fb9ff15bd24ef0935bf20a0da}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biomedicine and Chemical Sciences}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{Investigation of Phytophthora Infestans Causing Potato Late Blight Disease}
+      \field{volume}{1}
+      \field{year}{2022}
+      \field{pages}{289\bibrangedash 294}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.48112/bcs.v1i4.291
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.irapa.org/index.php/BCS/article/view/291
+      \endverb
+      \verb{url}
+      \verb https://journals.irapa.org/index.php/BCS/article/view/291
+      \endverb
+    \endentry
+    \entry{antecedente5}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=51bfd2bdfc225dcac766510a7e00c938}{%
+           family={Anandhakrishnan},
+           familyi={A\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a18e9ebdf121074355b4a834f99182b}{%
+           family={Jaisakthi},
+           familyi={J\bibinitperiod},
+           given={S.M.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bec62b9ecc99071dbaef3eb7e7662fb5}
+      \strng{fullhash}{bec62b9ecc99071dbaef3eb7e7662fb5}
+      \strng{fullhashraw}{bec62b9ecc99071dbaef3eb7e7662fb5}
+      \strng{bibnamehash}{bec62b9ecc99071dbaef3eb7e7662fb5}
+      \strng{authorbibnamehash}{bec62b9ecc99071dbaef3eb7e7662fb5}
+      \strng{authornamehash}{bec62b9ecc99071dbaef3eb7e7662fb5}
+      \strng{authorfullhash}{bec62b9ecc99071dbaef3eb7e7662fb5}
+      \strng{authorfullhashraw}{bec62b9ecc99071dbaef3eb7e7662fb5}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2352-5541}
+      \field{journaltitle}{Sustainable Chemistry and Pharmacy}
+      \field{title}{Deep Convolutional Neural Networks for image based tomato leaf disease detection}
+      \field{volume}{30}
+      \field{year}{2022}
+      \field{pages}{100793}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.scp.2022.100793
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352554122001978
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352554122001978
+      \endverb
+      \keyw{Energy optimization,Hybrid energy storage system,Convolution neural networks,MLP and SVM,Electrochemical pretreatment procedure,Classification,Recognition,Deep neural Network,Dynamic integrated system}
+    \endentry
+    \entry{cr_iaplanta}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=a02f47f99fefd5c62b23389bf3d4b3d7}{%
+           family={Bhugra},
+           familyi={B\bibinitperiod},
+           given={Swati},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=71bf98cda35f642d608e80cc85440d32}{%
+           family={Kaushik},
+           familyi={K\bibinitperiod},
+           given={Vinay},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c95ad17e5e03ebee68db4a731203df7}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Amit},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4577b92589d9e3f6be0053e42942035c}{%
+           family={Lall},
+           familyi={L\bibinitperiod},
+           given={Brejesh},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=abb33278221f7cd9001859bcc4daff1a}{%
+           family={Chaudhury},
+           familyi={C\bibinitperiod},
+           given={Santanu},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b9f09834ebe59f87e6d9540fe400d0b9}
+      \strng{fullhash}{be5256cc6c4d853512549e57a79560cb}
+      \strng{fullhashraw}{be5256cc6c4d853512549e57a79560cb}
+      \strng{bibnamehash}{be5256cc6c4d853512549e57a79560cb}
+      \strng{authorbibnamehash}{be5256cc6c4d853512549e57a79560cb}
+      \strng{authornamehash}{b9f09834ebe59f87e6d9540fe400d0b9}
+      \strng{authorfullhash}{be5256cc6c4d853512549e57a79560cb}
+      \strng{authorfullhashraw}{be5256cc6c4d853512549e57a79560cb}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision}
+      \field{title}{AnoLeaf: Unsupervised Leaf Disease Segmentation via Structurally Robust Generative Inpainting}
+      \field{year}{2023}
+      \field{pages}{6415\bibrangedash 6424}
+      \range{pages}{10}
+    \endentry
+    \entry{cajahuanca2021inteligencia}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=b9d7892e1e0aef16359ec3da73610afa}{%
+           family={Cajahuanca},
+           familyi={C\bibinitperiod},
+           given={Julio\bibnamedelimb Elvis\bibnamedelima Valero},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f4a26e077bde3670ac5a7bdd28a6cda}{%
+           family={Crispin},
+           familyi={C\bibinitperiod},
+           given={Fernando\bibnamedelimb Viterbo\bibnamedelima Sinche},
+           giveni={F\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86f8504b0e45bcc81ebb130e389c4279}{%
+           family={Flores},
+           familyi={F\bibinitperiod},
+           given={Rafael\bibnamedelimb Edwin\bibnamedelima Gordillo},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58feef32752c16ab6c52648ca7a2fea9}{%
+           family={Franco},
+           familyi={F\bibinitperiod},
+           given={Alfredo\bibnamedelimb César\bibnamedelima Larios},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2f6e69091fca3ca6f26f835de0d5f90d}
+      \strng{fullhash}{e5a0d014de4b28e9fcbfa4e67e085064}
+      \strng{fullhashraw}{e5a0d014de4b28e9fcbfa4e67e085064}
+      \strng{bibnamehash}{e5a0d014de4b28e9fcbfa4e67e085064}
+      \strng{authorbibnamehash}{e5a0d014de4b28e9fcbfa4e67e085064}
+      \strng{authornamehash}{2f6e69091fca3ca6f26f835de0d5f90d}
+      \strng{authorfullhash}{e5a0d014de4b28e9fcbfa4e67e085064}
+      \strng{authorfullhashraw}{e5a0d014de4b28e9fcbfa4e67e085064}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Boletín de Malariología y Salud Ambiental}
+      \field{number}{2}
+      \field{title}{La inteligencia artificial, una herramienta para la Salud Digital}
+      \field{volume}{61}
+      \field{year}{2021}
+      \field{pages}{307\bibrangedash 317}
+      \range{pages}{11}
+    \endentry
+    \entry{tecnica3}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=17bcfbcc3dbdfe087c97a1c89683810b}{%
+           family={Cervantes},
+           familyi={C\bibinitperiod},
+           given={Jair},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49cce37383495621d354b61492538c4d}{%
+           family={Garcia-Lamont},
+           familyi={G\bibinithyphendelim L\bibinitperiod},
+           given={Farid},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6dea309c142aca752e56669cb0dbfce9}{%
+           family={Rodríguez-Mazahua},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={Lisbeth},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=549a48ac912b9258a95dce4f75a7a8f0}{%
+           family={Lopez},
+           familyi={L\bibinitperiod},
+           given={Asdrubal},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{22e62a090d995241200e529ab6f9e8f5}
+      \strng{fullhash}{07788bcb1f5ae681a28ddf231be23e63}
+      \strng{fullhashraw}{07788bcb1f5ae681a28ddf231be23e63}
+      \strng{bibnamehash}{07788bcb1f5ae681a28ddf231be23e63}
+      \strng{authorbibnamehash}{07788bcb1f5ae681a28ddf231be23e63}
+      \strng{authornamehash}{22e62a090d995241200e529ab6f9e8f5}
+      \strng{authorfullhash}{07788bcb1f5ae681a28ddf231be23e63}
+      \strng{authorfullhashraw}{07788bcb1f5ae681a28ddf231be23e63}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neurocomputing}
+      \field{title}{A comprehensive survey on support vector machine classification: Applications, challenges and trends}
+      \field{volume}{408}
+      \field{year}{2020}
+      \field{pages}{189\bibrangedash 215}
+      \range{pages}{27}
+    \endentry
+    \entry{CHAKRABORTY2022101781}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8a6c025672276c5dcfbfe290c0fe1c4a}{%
+           family={Chakraborty},
+           familyi={C\bibinitperiod},
+           given={Kulendu\bibnamedelima Kashyap},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd7b5cb65543889c5e292c6823a3d469}{%
+           family={Mukherjee},
+           familyi={M\bibinitperiod},
+           given={Rashmi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4b458d48e0c49052f2fbc087238e795}{%
+           family={Chakroborty},
+           familyi={C\bibinitperiod},
+           given={Chandan},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e96afaa7b501dc78537be22ca05e74bb}{%
+           family={Bora},
+           familyi={B\bibinitperiod},
+           given={Kangkana},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b4d358df28e8df9d58a15f8a926ea777}
+      \strng{fullhash}{16608e89e7e4c7fdbc65b542ff954807}
+      \strng{fullhashraw}{16608e89e7e4c7fdbc65b542ff954807}
+      \strng{bibnamehash}{16608e89e7e4c7fdbc65b542ff954807}
+      \strng{authorbibnamehash}{16608e89e7e4c7fdbc65b542ff954807}
+      \strng{authornamehash}{b4d358df28e8df9d58a15f8a926ea777}
+      \strng{authorfullhash}{16608e89e7e4c7fdbc65b542ff954807}
+      \strng{authorfullhashraw}{16608e89e7e4c7fdbc65b542ff954807}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0885-5765}
+      \field{journaltitle}{Physiological and Molecular Plant Pathology}
+      \field{title}{Automated recognition of optical image based potato leaf blight diseases using deep learning}
+      \field{volume}{117}
+      \field{year}{2022}
+      \field{pages}{101781}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.pmpp.2021.101781
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S088557652100182X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S088557652100182X
+      \endverb
+      \keyw{Potato leaf,Late blight,Early blight,Deep learning,Parameter tweaking}
+    \endentry
+    \entry{antecedente6}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1cd23453226fe3d834cbb4b09ae4a946}{%
+           family={Chapa},
+           familyi={C\bibinitperiod},
+           given={Mehta},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53c6d4c31ba41307a4a14994f1130465}{%
+           family={Neelesh\bibnamedelima Kumar},
+           familyi={N\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={Manikanta},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93959f1e64fb064f7a01a8461ac05f77}{%
+           family={Chaitanya},
+           familyi={C\bibinitperiod},
+           given={Sakunthala},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{281a8932105b0dc78b426dfb3c9de3b1}
+      \strng{fullhash}{ca2613977b2277f9750f868b8833954e}
+      \strng{fullhashraw}{ca2613977b2277f9750f868b8833954e}
+      \strng{bibnamehash}{ca2613977b2277f9750f868b8833954e}
+      \strng{authorbibnamehash}{ca2613977b2277f9750f868b8833954e}
+      \strng{authornamehash}{281a8932105b0dc78b426dfb3c9de3b1}
+      \strng{authorfullhash}{ca2613977b2277f9750f868b8833954e}
+      \strng{authorfullhashraw}{ca2613977b2277f9750f868b8833954e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Advanced Research in Science, Communication and Technology}
+      \field{number}{8}
+      \field{title}{Potato Blight Classification Android Application using Deep Learning}
+      \field{volume}{3}
+      \field{year}{2023}
+      \field{pages}{9598}
+      \range{pages}{1}
+    \endentry
+    \entry{tecnica2}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=0b247ba5608bdea86819f02b2cf414d3}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Leiyu},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=016a69f0bf8ac2ae398d950ad3be5b0a}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Shaobo},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f40a0464e60a363160b3e21edc6f0a74}{%
+           family={Bai},
+           familyi={B\bibinitperiod},
+           given={Qiang},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=590e4e39e560d4f5c33781113cd98b41}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1b83b14145e7aa76ea6855ef142b3ea}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Sanlong},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69f52a0abc7de1e309e481ac75730c49}{%
+           family={Miao},
+           familyi={M\bibinitperiod},
+           given={Yanming},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{5a9b5f2d0ed42ccb6aa699e466b5c607}
+      \strng{fullhash}{9c0082079619e127774696e52bf61e45}
+      \strng{fullhashraw}{9c0082079619e127774696e52bf61e45}
+      \strng{bibnamehash}{9c0082079619e127774696e52bf61e45}
+      \strng{authorbibnamehash}{9c0082079619e127774696e52bf61e45}
+      \strng{authornamehash}{5a9b5f2d0ed42ccb6aa699e466b5c607}
+      \strng{authorfullhash}{9c0082079619e127774696e52bf61e45}
+      \strng{authorfullhashraw}{9c0082079619e127774696e52bf61e45}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Remote Sensing}
+      \field{number}{22}
+      \field{title}{Review of image classification algorithms based on convolutional neural networks}
+      \field{volume}{13}
+      \field{year}{2021}
+      \field{pages}{4712}
+      \range{pages}{1}
+    \endentry
+    \entry{cr_gestion2018emprend}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9729368aea84426e82f360b58338627d}{%
+           family={Díaz},
+           familyi={D\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a3c475306fd9ee6f1423e01d97e60b7}{%
+           family={Lozoya-Saldaña},
+           familyi={L\bibinithyphendelim S\bibinitperiod},
+           given={Héctor},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{901d8db966bac8bbcb3d4efddb5f8dc3}
+      \strng{fullhash}{901d8db966bac8bbcb3d4efddb5f8dc3}
+      \strng{fullhashraw}{901d8db966bac8bbcb3d4efddb5f8dc3}
+      \strng{bibnamehash}{901d8db966bac8bbcb3d4efddb5f8dc3}
+      \strng{authorbibnamehash}{901d8db966bac8bbcb3d4efddb5f8dc3}
+      \strng{authornamehash}{901d8db966bac8bbcb3d4efddb5f8dc3}
+      \strng{authorfullhash}{901d8db966bac8bbcb3d4efddb5f8dc3}
+      \strng{authorfullhashraw}{901d8db966bac8bbcb3d4efddb5f8dc3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Chapingo, Serie Ciencias Forestales y del Ambiente}
+      \field{month}{06}
+      \field{title}{INCIDENCE OF PHYSIOLOGICAL RACES AND GENOTYPES OF Phytophthora infestans (MONT.) DE BARY IN THE TOLUCA VALLEY, MÉXICO}
+      \field{volume}{19}
+      \field{year}{2013}
+      \field{pages}{173\bibrangedash 181}
+      \range{pages}{9}
+    \endentry
+    \entry{antecedente2}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=2947f0357a4f535dcb77a526089586f9}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Junzhe},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91ac47d51155923b0ec417a3d2d34c1f}{%
+           family={Hou},
+           familyi={H\bibinitperiod},
+           given={Bingru},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=90a49a56e644fba7b30704536d17f10f}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Chenhao},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6592fedc32b64488b867fbec54c949a}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Huanbo},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ad93e4c675a68a22a9c2c52b38e2751}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Chao},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1715109dbfe1ded6e3f235758b07c578}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Xiaoyi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=395053b18f759b83f987f3a2374f053e}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Yaohua},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{59bac5577e98e03f3f22152e9458c29d}
+      \strng{fullhash}{c47a5839d934125e913ca357a6c38e16}
+      \strng{fullhashraw}{c47a5839d934125e913ca357a6c38e16}
+      \strng{bibnamehash}{c47a5839d934125e913ca357a6c38e16}
+      \strng{authorbibnamehash}{c47a5839d934125e913ca357a6c38e16}
+      \strng{authornamehash}{59bac5577e98e03f3f22152e9458c29d}
+      \strng{authorfullhash}{c47a5839d934125e913ca357a6c38e16}
+      \strng{authorfullhashraw}{c47a5839d934125e913ca357a6c38e16}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Agronomy}
+      \field{month}{06}
+      \field{title}{Research and Validation of Potato Late Blight Detection Method Based on Deep Learning}
+      \field{volume}{13}
+      \field{year}{2023}
+      \field{pages}{1659}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/agronomy13061659
+      \endverb
+    \endentry
+    \entry{inei_cenagro_2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=542fc669655bfc3a5a8ff1a57a5b8413}{%
+           family={{Instituto Nacional de Estadística e Informática}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{fullhash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{fullhashraw}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{bibnamehash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{authorbibnamehash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{authornamehash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{authorfullhash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{authorfullhashraw}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Encuesta Nacional Agropecuaria 2022}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1912/libro.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1912/libro.pdf
+      \endverb
+    \endentry
+    \entry{minagri_estadisticas_2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=542fc669655bfc3a5a8ff1a57a5b8413}{%
+           family={{Instituto Nacional de Estadística e Informática}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{fullhash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{fullhashraw}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{bibnamehash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{authorbibnamehash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{authornamehash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{authorfullhash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{authorfullhashraw}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \field{extraname}{2}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{month}{3}
+      \field{title}{Informe ténico Producción NACIONAL}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.inei.gob.pe/media/principales_indicadores/03-informe-tecnico-produccion-nacional-ene-2022.pdf/
+      \endverb
+      \verb{url}
+      \verb https://www.inei.gob.pe/media/principales_indicadores/03-informe-tecnico-produccion-nacional-ene-2022.pdf/
+      \endverb
+    \endentry
+    \entry{tecnica4}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=cfee295769917f190b5452668046130c}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Peiyuan},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89ac469fa346462120acfd4f24d8896a}{%
+           family={Ergu},
+           familyi={E\bibinitperiod},
+           given={Daji},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb1fdce5d3a3877d7a15859e937b7318}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Fangyao},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1590429c915a01a51d67986862f94c45}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d175f09ef61faffce7a1860094ac4c8}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0f385aea30902cda19490817ed770e69}
+      \strng{fullhash}{adf8b831f6f3ced1a6b683e78a3e0828}
+      \strng{fullhashraw}{adf8b831f6f3ced1a6b683e78a3e0828}
+      \strng{bibnamehash}{adf8b831f6f3ced1a6b683e78a3e0828}
+      \strng{authorbibnamehash}{adf8b831f6f3ced1a6b683e78a3e0828}
+      \strng{authornamehash}{0f385aea30902cda19490817ed770e69}
+      \strng{authorfullhash}{adf8b831f6f3ced1a6b683e78a3e0828}
+      \strng{authorfullhashraw}{adf8b831f6f3ced1a6b683e78a3e0828}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia computer science}
+      \field{title}{A Review of Yolo algorithm developments}
+      \field{volume}{199}
+      \field{year}{2022}
+      \field{pages}{1066\bibrangedash 1073}
+      \range{pages}{8}
+    \endentry
+    \entry{tecnica1}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=98644e0d901253645fb6409f9134e098}{%
+           family={Kashefi},
+           familyi={K\bibinitperiod},
+           given={Rojina},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8a0519ce7001e9f70320e1af7ebced9}{%
+           family={Barekatain},
+           familyi={B\bibinitperiod},
+           given={Leili},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21a30de05b280ed6584bc01174ac317c}{%
+           family={Sabokrou},
+           familyi={S\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6d348ecb4965aa88b92edd8d622ff09}{%
+           family={Aghaeipoor},
+           familyi={A\bibinitperiod},
+           given={Fatemeh},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{62cbf77b2e6c8d9a9e633bfb3bcbac81}
+      \strng{fullhash}{6564a9aa4a624de8d1de4fb791e19445}
+      \strng{fullhashraw}{6564a9aa4a624de8d1de4fb791e19445}
+      \strng{bibnamehash}{6564a9aa4a624de8d1de4fb791e19445}
+      \strng{authorbibnamehash}{6564a9aa4a624de8d1de4fb791e19445}
+      \strng{authornamehash}{62cbf77b2e6c8d9a9e633bfb3bcbac81}
+      \strng{authorfullhash}{6564a9aa4a624de8d1de4fb791e19445}
+      \strng{authorfullhashraw}{6564a9aa4a624de8d1de4fb791e19445}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2311.06786}
+      \field{title}{Explainability of Vision Transformers: A Comprehensive Review and New Perspectives}
+      \field{year}{2023}
+    \endentry
+    \entry{kelleher2019deep}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ed74b6bb0a6d016e9a5dd8f3331b3428}{%
+           family={Kelleher},
+           familyi={K\bibinitperiod},
+           given={John\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT press}%
+      }
+      \strng{namehash}{ed74b6bb0a6d016e9a5dd8f3331b3428}
+      \strng{fullhash}{ed74b6bb0a6d016e9a5dd8f3331b3428}
+      \strng{fullhashraw}{ed74b6bb0a6d016e9a5dd8f3331b3428}
+      \strng{bibnamehash}{ed74b6bb0a6d016e9a5dd8f3331b3428}
+      \strng{authorbibnamehash}{ed74b6bb0a6d016e9a5dd8f3331b3428}
+      \strng{authornamehash}{ed74b6bb0a6d016e9a5dd8f3331b3428}
+      \strng{authorfullhash}{ed74b6bb0a6d016e9a5dd8f3331b3428}
+      \strng{authorfullhashraw}{ed74b6bb0a6d016e9a5dd8f3331b3428}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Deep learning}
+      \field{year}{2019}
+    \endentry
+    \entry{svmm5}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1fffcefedf3ee0de8d6eaf54ce15af5e}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xiaoming},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=406eebf5e7975b1c53eb6dce8c9e073b}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Jinshan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{2b25f684e68589fbfc548909a74cf362}
+      \strng{fullhash}{2b25f684e68589fbfc548909a74cf362}
+      \strng{fullhashraw}{2b25f684e68589fbfc548909a74cf362}
+      \strng{bibnamehash}{2b25f684e68589fbfc548909a74cf362}
+      \strng{authorbibnamehash}{2b25f684e68589fbfc548909a74cf362}
+      \strng{authornamehash}{2b25f684e68589fbfc548909a74cf362}
+      \strng{authorfullhash}{2b25f684e68589fbfc548909a74cf362}
+      \strng{authorfullhashraw}{2b25f684e68589fbfc548909a74cf362}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Systems Journal}
+      \field{number}{3}
+      \field{title}{Mass classification in mammograms using selected geometry and texture features, and a new SVM-based feature selection method}
+      \field{volume}{8}
+      \field{year}{2013}
+      \field{pages}{910\bibrangedash 920}
+      \range{pages}{11}
+    \endentry
+    \entry{teamredac2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=920d2cd19130ca3e720584ff21adc293}{%
+           family={rédac},
+           familyi={r\bibinitperiod},
+           given={Team},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{920d2cd19130ca3e720584ff21adc293}
+      \strng{fullhash}{920d2cd19130ca3e720584ff21adc293}
+      \strng{fullhashraw}{920d2cd19130ca3e720584ff21adc293}
+      \strng{bibnamehash}{920d2cd19130ca3e720584ff21adc293}
+      \strng{authorbibnamehash}{920d2cd19130ca3e720584ff21adc293}
+      \strng{authornamehash}{920d2cd19130ca3e720584ff21adc293}
+      \strng{authorfullhash}{920d2cd19130ca3e720584ff21adc293}
+      \strng{authorfullhashraw}{920d2cd19130ca3e720584ff21adc293}
+      \field{sortinit}{r}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{DataScientist}
+      \field{month}{8}
+      \field{note}{Accessed: 2022-08}
+      \field{title}{Inteligencia artificial: definición, historia, usos, peligros}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://datascientest.com/es/inteligencia-artificial-definicion#:~:text=La%20historia%20de%20la%20inteligencia%20artificial%20comenz%C3%B3%20en%201943%20con,creaci%C3%B3n%20de%20una%20red%20neuronal
+      \endverb
+      \verb{url}
+      \verb https://datascientest.com/es/inteligencia-artificial-definicion#:~:text=La%20historia%20de%20la%20inteligencia%20artificial%20comenz%C3%B3%20en%201943%20con,creaci%C3%B3n%20de%20una%20red%20neuronal
+      \endverb
+    \endentry
+    \entry{cr_rancha3}{periodical}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0984041ee89df560894f11c09c037564}{%
+           family={{Redacción AGROPERÚ}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{0984041ee89df560894f11c09c037564}
+      \strng{fullhash}{0984041ee89df560894f11c09c037564}
+      \strng{fullhashraw}{0984041ee89df560894f11c09c037564}
+      \strng{bibnamehash}{0984041ee89df560894f11c09c037564}
+      \strng{authorbibnamehash}{0984041ee89df560894f11c09c037564}
+      \strng{authornamehash}{0984041ee89df560894f11c09c037564}
+      \strng{authorfullhash}{0984041ee89df560894f11c09c037564}
+      \strng{authorfullhashraw}{0984041ee89df560894f11c09c037564}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{14}
+      \field{journaltitle}{Diario AGROPERÚ}
+      \field{month}{4}
+      \field{title}{Rancha afecta sembríos de papas nativas en la sierra de Lima}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.agroperu.pe/rancha-afecta-sembrios-de-papas-nativas-en-la-sierra-de-lima/
+      \endverb
+      \verb{url}
+      \verb https://www.agroperu.pe/rancha-afecta-sembrios-de-papas-nativas-en-la-sierra-de-lima/
+      \endverb
+    \endentry
+    \entry{cr_agroinforma2}{periodical}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=340b7485bfb0e436b192786029563fc5}{%
+           family={{Redacción AGROPERU}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{340b7485bfb0e436b192786029563fc5}
+      \strng{fullhash}{340b7485bfb0e436b192786029563fc5}
+      \strng{fullhashraw}{340b7485bfb0e436b192786029563fc5}
+      \strng{bibnamehash}{340b7485bfb0e436b192786029563fc5}
+      \strng{authorbibnamehash}{340b7485bfb0e436b192786029563fc5}
+      \strng{authornamehash}{340b7485bfb0e436b192786029563fc5}
+      \strng{authorfullhash}{340b7485bfb0e436b192786029563fc5}
+      \strng{authorfullhashraw}{340b7485bfb0e436b192786029563fc5}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{9}
+      \field{journaltitle}{Diario AGROPERU}
+      \field{month}{3}
+      \field{title}{Ancash: Productores de papa en Pamparomás reciben capacitación en control de la rancha}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.agroperu.pe/ancash-productores-de-papa-en-pamparomas-reciben-capacitacion-en-control-de-la-rancha/
+      \endverb
+      \verb{url}
+      \verb https://www.agroperu.pe/ancash-productores-de-papa-en-pamparomas-reciben-capacitacion-en-control-de-la-rancha/
+      \endverb
+    \endentry
+    \entry{cr_agroinforma1}{periodical}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=98e6524aaae4ab351bfbeff591815c01}{%
+           family={{Redacción AgroPeru}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{98e6524aaae4ab351bfbeff591815c01}
+      \strng{fullhash}{98e6524aaae4ab351bfbeff591815c01}
+      \strng{fullhashraw}{98e6524aaae4ab351bfbeff591815c01}
+      \strng{bibnamehash}{98e6524aaae4ab351bfbeff591815c01}
+      \strng{authorbibnamehash}{98e6524aaae4ab351bfbeff591815c01}
+      \strng{authornamehash}{98e6524aaae4ab351bfbeff591815c01}
+      \strng{authorfullhash}{98e6524aaae4ab351bfbeff591815c01}
+      \strng{authorfullhashraw}{98e6524aaae4ab351bfbeff591815c01}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Diario AgroPeru}
+      \field{month}{7}
+      \field{title}{La fortaleza del Perú son las papas nativas [ENTREVISTA]}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.agroperu.pe/la-fortaleza-del-peru-son-las-papas-nativas-entrevista/#:~:text=%EA%9F%B7%20El%20consumo%20de%20papa,de%20la%20papa%20es%20mayor.
+      \endverb
+      \verb{url}
+      \verb https://www.agroperu.pe/la-fortaleza-del-peru-son-las-papas-nativas-entrevista/#:~:text=%EA%9F%B7%20El%20consumo%20de%20papa,de%20la%20papa%20es%20mayor.
+      \endverb
+    \endentry
+    \entry{cr_rancha6}{periodical}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b32af1562474818f932831f8074a0ef3}{%
+           family={{Redacción ANDINA}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b32af1562474818f932831f8074a0ef3}
+      \strng{fullhash}{b32af1562474818f932831f8074a0ef3}
+      \strng{fullhashraw}{b32af1562474818f932831f8074a0ef3}
+      \strng{bibnamehash}{b32af1562474818f932831f8074a0ef3}
+      \strng{authorbibnamehash}{b32af1562474818f932831f8074a0ef3}
+      \strng{authornamehash}{b32af1562474818f932831f8074a0ef3}
+      \strng{authorfullhash}{b32af1562474818f932831f8074a0ef3}
+      \strng{authorfullhashraw}{b32af1562474818f932831f8074a0ef3}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{9}
+      \field{journaltitle}{Diario ANDINA}
+      \field{month}{3}
+      \field{title}{Reportan 26 mil toneladas de papa afectadas en distrito de Ulcumayo}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://andina.pe/agencia/noticia-reportan-26-mil-toneladas-papa-afectadas-distrito-ulcumayo-284195.aspx
+      \endverb
+      \verb{url}
+      \verb https://andina.pe/agencia/noticia-reportan-26-mil-toneladas-papa-afectadas-distrito-ulcumayo-284195.aspx
+      \endverb
+    \endentry
+    \entry{cr_rancha5}{periodical}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6272a155d9b9f563b777207e23f35f3c}{%
+           family={{Redacción Chaski}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{6272a155d9b9f563b777207e23f35f3c}
+      \strng{fullhash}{6272a155d9b9f563b777207e23f35f3c}
+      \strng{fullhashraw}{6272a155d9b9f563b777207e23f35f3c}
+      \strng{bibnamehash}{6272a155d9b9f563b777207e23f35f3c}
+      \strng{authorbibnamehash}{6272a155d9b9f563b777207e23f35f3c}
+      \strng{authornamehash}{6272a155d9b9f563b777207e23f35f3c}
+      \strng{authorfullhash}{6272a155d9b9f563b777207e23f35f3c}
+      \strng{authorfullhashraw}{6272a155d9b9f563b777207e23f35f3c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chaski: Apurimac para el mundo}
+      \field{month}{6}
+      \field{title}{Presencia de rancha causa daños en cultivos de papa en Progreso}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://chaski.pe/detalle/presencia-de-rancha-causa-danos-en-cultivos-de-papa-en-progreso-8314
+      \endverb
+      \verb{url}
+      \verb https://chaski.pe/detalle/presencia-de-rancha-causa-danos-en-cultivos-de-papa-en-progreso-8314
+      \endverb
+    \endentry
+    \entry{cr_elcomercioproduccionpapa}{periodical}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ce772217262e58e6391d43514d50dd75}{%
+           family={{Redacción Gambos}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce772217262e58e6391d43514d50dd75}
+      \strng{fullhash}{ce772217262e58e6391d43514d50dd75}
+      \strng{fullhashraw}{ce772217262e58e6391d43514d50dd75}
+      \strng{bibnamehash}{ce772217262e58e6391d43514d50dd75}
+      \strng{authorbibnamehash}{ce772217262e58e6391d43514d50dd75}
+      \strng{authornamehash}{ce772217262e58e6391d43514d50dd75}
+      \strng{authorfullhash}{ce772217262e58e6391d43514d50dd75}
+      \strng{authorfullhashraw}{ce772217262e58e6391d43514d50dd75}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{2}
+      \field{journaltitle}{RPP}
+      \field{month}{6}
+      \field{title}{¿Por qué el Perú no es el principal productor de papa en el mundo?}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://rpp.pe/economia/economia/por-que-el-peru-no-es-el-principal-productor-de-papa-en-el-mundo-noticia-1488113#:~:text=En%20el%20mundo%20el%20Per%C3%BA,a%206%20millones%20de%20toneladas.
+      \endverb
+      \verb{url}
+      \verb https://rpp.pe/economia/economia/por-que-el-peru-no-es-el-principal-productor-de-papa-en-el-mundo-noticia-1488113#:~:text=En%20el%20mundo%20el%20Per%C3%BA,a%206%20millones%20de%20toneladas.
+      \endverb
+    \endentry
+    \entry{cr_rancha4}{periodical}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ddabacf174036f53c82285a0f78e5c7d}{%
+           family={{Redacción Salome}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ddabacf174036f53c82285a0f78e5c7d}
+      \strng{fullhash}{ddabacf174036f53c82285a0f78e5c7d}
+      \strng{fullhashraw}{ddabacf174036f53c82285a0f78e5c7d}
+      \strng{bibnamehash}{ddabacf174036f53c82285a0f78e5c7d}
+      \strng{authorbibnamehash}{ddabacf174036f53c82285a0f78e5c7d}
+      \strng{authornamehash}{ddabacf174036f53c82285a0f78e5c7d}
+      \strng{authorfullhash}{ddabacf174036f53c82285a0f78e5c7d}
+      \strng{authorfullhashraw}{ddabacf174036f53c82285a0f78e5c7d}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Diario HUANCA YORK TIMES}
+      \field{month}{3}
+      \field{title}{La ‘rancha’, causada por la excesiva humedad de las lluvias, arrasa 500 hectáreas de papa en Ulcumayo, provincia de Junín}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://hytimes.pe/2024/03/01/la-rancha-causada-por-la-excesiva-humedad-de-las-lluvias-arrasa-500-hectareas-de-papa-en-ulcumayo-provincia-de-junin/
+      \endverb
+      \verb{url}
+      \verb https://hytimes.pe/2024/03/01/la-rancha-causada-por-la-excesiva-humedad-de-las-lluvias-arrasa-500-hectareas-de-papa-en-ulcumayo-provincia-de-junin/
+      \endverb
+    \endentry
+    \entry{rouhiainen2018inteligencia}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=34c0c0ed4b6e30e421d55908eacc6276}{%
+           family={Rouhiainen},
+           familyi={R\bibinitperiod},
+           given={Lasse},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{34c0c0ed4b6e30e421d55908eacc6276}
+      \strng{fullhash}{34c0c0ed4b6e30e421d55908eacc6276}
+      \strng{fullhashraw}{34c0c0ed4b6e30e421d55908eacc6276}
+      \strng{bibnamehash}{34c0c0ed4b6e30e421d55908eacc6276}
+      \strng{authorbibnamehash}{34c0c0ed4b6e30e421d55908eacc6276}
+      \strng{authornamehash}{34c0c0ed4b6e30e421d55908eacc6276}
+      \strng{authorfullhash}{34c0c0ed4b6e30e421d55908eacc6276}
+      \strng{authorfullhashraw}{34c0c0ed4b6e30e421d55908eacc6276}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Madrid: Alienta Editorial}
+      \field{title}{Inteligencia artificial}
+      \field{year}{2018}
+      \field{pages}{20\bibrangedash 21}
+      \range{pages}{2}
+    \endentry
+    \entry{rusk2016deep}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=39cda9bea2e3415b8c01266dbd63815a}{%
+           family={Rusk},
+           familyi={R\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{39cda9bea2e3415b8c01266dbd63815a}
+      \strng{fullhash}{39cda9bea2e3415b8c01266dbd63815a}
+      \strng{fullhashraw}{39cda9bea2e3415b8c01266dbd63815a}
+      \strng{bibnamehash}{39cda9bea2e3415b8c01266dbd63815a}
+      \strng{authorbibnamehash}{39cda9bea2e3415b8c01266dbd63815a}
+      \strng{authornamehash}{39cda9bea2e3415b8c01266dbd63815a}
+      \strng{authorfullhash}{39cda9bea2e3415b8c01266dbd63815a}
+      \strng{authorfullhashraw}{39cda9bea2e3415b8c01266dbd63815a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Methods}
+      \field{number}{1}
+      \field{title}{Deep learning}
+      \field{volume}{13}
+      \field{year}{2016}
+      \field{pages}{35\bibrangedash 35}
+      \range{pages}{1}
+    \endentry
+    \entry{cr_rancha2}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e1420957e61277c5b4ef7fa220c884b1}{%
+           family={{SERFI}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1420957e61277c5b4ef7fa220c884b1}
+      \strng{fullhash}{e1420957e61277c5b4ef7fa220c884b1}
+      \strng{fullhashraw}{e1420957e61277c5b4ef7fa220c884b1}
+      \strng{bibnamehash}{e1420957e61277c5b4ef7fa220c884b1}
+      \strng{authorbibnamehash}{e1420957e61277c5b4ef7fa220c884b1}
+      \strng{authornamehash}{e1420957e61277c5b4ef7fa220c884b1}
+      \strng{authorfullhash}{e1420957e61277c5b4ef7fa220c884b1}
+      \strng{authorfullhashraw}{e1420957e61277c5b4ef7fa220c884b1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{25}
+      \field{journaltitle}{Diario SERFI}
+      \field{month}{1}
+      \field{title}{Attack: Control Y Manejo De Rancha En El Cultivo De Papa}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://serfi.pe/attack-control-y-manejo-de-rancha-en-el-cultivo-de-papa/
+      \endverb
+      \verb{url}
+      \verb https://serfi.pe/attack-control-y-manejo-de-rancha-en-el-cultivo-de-papa/
+      \endverb
+    \endentry
+    \entry{prom2}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c5200e150fbc3d88312c53076ef24069}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Harjot},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c5200e150fbc3d88312c53076ef24069}
+      \strng{fullhash}{c5200e150fbc3d88312c53076ef24069}
+      \strng{fullhashraw}{c5200e150fbc3d88312c53076ef24069}
+      \strng{bibnamehash}{c5200e150fbc3d88312c53076ef24069}
+      \strng{authorbibnamehash}{c5200e150fbc3d88312c53076ef24069}
+      \strng{authornamehash}{c5200e150fbc3d88312c53076ef24069}
+      \strng{authorfullhash}{c5200e150fbc3d88312c53076ef24069}
+      \strng{authorfullhashraw}{c5200e150fbc3d88312c53076ef24069}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Current Microbiology and Applied Sciences}
+      \field{number}{1}
+      \field{title}{Management of Late Blight of Potato caused by Phytophthora infestans}
+      \field{volume}{12}
+      \field{year}{2023}
+      \field{pages}{232\bibrangedash 247}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.20546/ijcmas.2023.1201.027
+      \endverb
+    \endentry
+    \entry{antecedente3}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=522ffb7773fab04872123950d63a5443}{%
+           family={Suarez\bibnamedelima Baron},
+           familyi={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Marco\bibnamedelima Javier},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5d3b7527b528e7bbeb9db9770838a14}{%
+           family={Gomez},
+           familyi={G\bibinitperiod},
+           given={Angie\bibnamedelima Lizeth},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83d2f3af905eaf4e9ca201af650d2732}{%
+           family={Diaz},
+           familyi={D\bibinitperiod},
+           given={Jorge\bibnamedelimb Enrique\bibnamedelima Espindola},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{2237d8ced7d01557dfa0906f3c3f379c}
+      \strng{fullhash}{1940176b16fbdda6d6a871ae7859dd70}
+      \strng{fullhashraw}{1940176b16fbdda6d6a871ae7859dd70}
+      \strng{bibnamehash}{1940176b16fbdda6d6a871ae7859dd70}
+      \strng{authorbibnamehash}{1940176b16fbdda6d6a871ae7859dd70}
+      \strng{authornamehash}{2237d8ced7d01557dfa0906f3c3f379c}
+      \strng{authorfullhash}{1940176b16fbdda6d6a871ae7859dd70}
+      \strng{authorfullhashraw}{1940176b16fbdda6d6a871ae7859dd70}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{18}
+      \field{title}{Supervised learning-based image classification for the detection of late blight in potato crops}
+      \field{volume}{12}
+      \field{year}{2022}
+      \field{pages}{9371}
+      \range{pages}{1}
+    \endentry
+    \entry{vc1}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=446510f076146d4b4a9c01a55963e9b2}{%
+           family={Sucar},
+           familyi={S\bibinitperiod},
+           given={L\bibnamedelima Enrique},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=579a7dd1e07adfc374e6312300fa035c}{%
+           family={Gómez},
+           familyi={G\bibinitperiod},
+           given={Giovani},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ebc36f110c6e7f13f3f2b79d93f08e12}
+      \strng{fullhash}{ebc36f110c6e7f13f3f2b79d93f08e12}
+      \strng{fullhashraw}{ebc36f110c6e7f13f3f2b79d93f08e12}
+      \strng{bibnamehash}{ebc36f110c6e7f13f3f2b79d93f08e12}
+      \strng{authorbibnamehash}{ebc36f110c6e7f13f3f2b79d93f08e12}
+      \strng{authornamehash}{ebc36f110c6e7f13f3f2b79d93f08e12}
+      \strng{authorfullhash}{ebc36f110c6e7f13f3f2b79d93f08e12}
+      \strng{authorfullhashraw}{ebc36f110c6e7f13f3f2b79d93f08e12}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Instituto Nacional de Astrofísica, Óptica y Electrónica. México}
+      \field{title}{Visión computacional}
+      \field{year}{2011}
+    \endentry
+    \entry{svmm4}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7d2bf96fe8f39551cf63c8b057e28093}{%
+           family={Tarabalka},
+           familyi={T\bibinitperiod},
+           given={Yuliya},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a6d81f8b03607e0670b00e021ef1456}{%
+           family={Fauvel},
+           familyi={F\bibinitperiod},
+           given={Mathieu},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19a50089cae8f67ab374e30b054493ad}{%
+           family={Chanussot},
+           familyi={C\bibinitperiod},
+           given={Jocelyn},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ec65ceec20cb6d75401ebc409c3d3fe}{%
+           family={Benediktsson},
+           familyi={B\bibinitperiod},
+           given={Jón\bibnamedelima Atli},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3d3db366b9427c7455a87ff1acd04301}
+      \strng{fullhash}{80181af10467a3af0164fb10469570e8}
+      \strng{fullhashraw}{80181af10467a3af0164fb10469570e8}
+      \strng{bibnamehash}{80181af10467a3af0164fb10469570e8}
+      \strng{authorbibnamehash}{80181af10467a3af0164fb10469570e8}
+      \strng{authornamehash}{3d3db366b9427c7455a87ff1acd04301}
+      \strng{authorfullhash}{80181af10467a3af0164fb10469570e8}
+      \strng{authorfullhashraw}{80181af10467a3af0164fb10469570e8}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Geoscience and Remote Sensing Letters}
+      \field{number}{4}
+      \field{title}{SVM-and MRF-based method for accurate classification of hyperspectral images}
+      \field{volume}{7}
+      \field{year}{2010}
+      \field{pages}{736\bibrangedash 740}
+      \range{pages}{5}
+    \endentry
+    \entry{antecedente7}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=f42dc907c70d1ebc35cb06d6d82a4ca6}{%
+           family={Tiwari},
+           familyi={T\bibinitperiod},
+           given={Divyansh},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bfb78be11b4b195a030fb99658db4116}{%
+           family={Ashish},
+           familyi={A\bibinitperiod},
+           given={Mritunjay},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5b35e630a406358c2194e196b38b93e}{%
+           family={Gangwar},
+           familyi={G\bibinitperiod},
+           given={Nitish},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=916f468d9f7fc43ed816242e2b1878c7}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Abhishek},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b46a59ae2b30ed2ba5c5fbc058a2112}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Suhanshu},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=624f0f61ddb5049b8b84cc02f6bfc7da}{%
+           family={Bhardwaj},
+           familyi={B\bibinitperiod},
+           given={Suyash},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4cae05ca71a7bec27ef7bc83dbcc0dc1}
+      \strng{fullhash}{68bf006a47bb9ea5138fa31b82473cd5}
+      \strng{fullhashraw}{68bf006a47bb9ea5138fa31b82473cd5}
+      \strng{bibnamehash}{68bf006a47bb9ea5138fa31b82473cd5}
+      \strng{authorbibnamehash}{68bf006a47bb9ea5138fa31b82473cd5}
+      \strng{authornamehash}{4cae05ca71a7bec27ef7bc83dbcc0dc1}
+      \strng{authorfullhash}{68bf006a47bb9ea5138fa31b82473cd5}
+      \strng{authorfullhashraw}{68bf006a47bb9ea5138fa31b82473cd5}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2020 4th International Conference on Intelligent Computing and Control Systems (ICICCS)}
+      \field{title}{Potato Leaf Diseases Detection Using Deep Learning}
+      \field{year}{2020}
+      \field{pages}{461\bibrangedash 466}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICICCS48265.2020.9121067
+      \endverb
+      \keyw{Deep learning;Plants (biology);Transfer learning;Crops;Production;Manuals;Feature extraction;feature extraction;logistic regression;inception V3;VGG16;VGG19;fine-tuning}
+    \endentry
+    \entry{svmm1}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=721889f2d5518696bd2b5a045814f2f6}{%
+           family={Verma},
+           familyi={V\bibinitperiod},
+           given={Jyoti},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8505927612473a46abb3f329b7857f4a}{%
+           family={Nath},
+           familyi={N\bibinitperiod},
+           given={Madhwendra},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6fbb4d5514874489f7923013a32251a}{%
+           family={Tripathi},
+           familyi={T\bibinitperiod},
+           given={Priyanshu},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7789a08112d56ab21be8ed2402b7c4c8}{%
+           family={Saini},
+           familyi={S\bibinitperiod},
+           given={KK},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d6d8b28e00d39955c14df9f74f9d4672}
+      \strng{fullhash}{3112e0fc5a02f6e1e1c39fdeeefe441d}
+      \strng{fullhashraw}{3112e0fc5a02f6e1e1c39fdeeefe441d}
+      \strng{bibnamehash}{3112e0fc5a02f6e1e1c39fdeeefe441d}
+      \strng{authorbibnamehash}{3112e0fc5a02f6e1e1c39fdeeefe441d}
+      \strng{authornamehash}{d6d8b28e00d39955c14df9f74f9d4672}
+      \strng{authorfullhash}{3112e0fc5a02f6e1e1c39fdeeefe441d}
+      \strng{authorfullhashraw}{3112e0fc5a02f6e1e1c39fdeeefe441d}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pattern Recognition and Image Analysis}
+      \field{title}{Analysis and identification of kidney stone using K th nearest neighbour (KNN) and support vector machine (SVM) classification techniques}
+      \field{volume}{27}
+      \field{year}{2017}
+      \field{pages}{574\bibrangedash 580}
+      \range{pages}{7}
+    \endentry
+    \entry{svmm6}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5859faec0505aedcd37cd60aab5ac500}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jianxin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{5859faec0505aedcd37cd60aab5ac500}
+      \strng{fullhash}{5859faec0505aedcd37cd60aab5ac500}
+      \strng{fullhashraw}{5859faec0505aedcd37cd60aab5ac500}
+      \strng{bibnamehash}{5859faec0505aedcd37cd60aab5ac500}
+      \strng{authorbibnamehash}{5859faec0505aedcd37cd60aab5ac500}
+      \strng{authornamehash}{5859faec0505aedcd37cd60aab5ac500}
+      \strng{authorfullhash}{5859faec0505aedcd37cd60aab5ac500}
+      \strng{authorfullhashraw}{5859faec0505aedcd37cd60aab5ac500}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Image Processing}
+      \field{number}{10}
+      \field{title}{Efficient HIK SVM learning for image classification}
+      \field{volume}{21}
+      \field{year}{2012}
+      \field{pages}{4442\bibrangedash 4453}
+      \range{pages}{12}
+    \endentry
+    \entry{svmm7}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=1b198e2209bcc0774264675c8138dfcd}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Zhibo},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f501ebad9362f8e3d7f7e9a064434d65}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Huanle},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94ef4c7c82eb2c701e4f187b1d9cc1ee}{%
+           family={Deng},
+           familyi={D\bibinitperiod},
+           given={Jianyuan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8cdede553c7d496dea2f52be5697d19e}{%
+           family={Loy},
+           familyi={L\bibinitperiod},
+           given={Chen\bibnamedelima Change},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eac6bd51c36ab01b51fd923b1a164141}{%
+           family={Lau},
+           familyi={L\bibinitperiod},
+           given={Wing\bibnamedelima Cheong},
+           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{18310807e29e7a6ce62f49397fc74a4f}
+      \strng{fullhash}{ff66cd889523ddff451d29d53df6ed82}
+      \strng{fullhashraw}{ff66cd889523ddff451d29d53df6ed82}
+      \strng{bibnamehash}{ff66cd889523ddff451d29d53df6ed82}
+      \strng{authorbibnamehash}{ff66cd889523ddff451d29d53df6ed82}
+      \strng{authornamehash}{18310807e29e7a6ce62f49397fc74a4f}
+      \strng{authorfullhash}{ff66cd889523ddff451d29d53df6ed82}
+      \strng{authorfullhashraw}{ff66cd889523ddff451d29d53df6ed82}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Image Processing}
+      \field{number}{12}
+      \field{title}{Robust and fast decoding of high-capacity color QR codes for mobile applications}
+      \field{volume}{27}
+      \field{year}{2018}
+      \field{pages}{6093\bibrangedash 6108}
+      \range{pages}{16}
+    \endentry
+    \entry{svmm3}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=227e34554b27c77e2d042504ef1edb97}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiao},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2f0a2cd28236992878a99779e4ef119}{%
+           family={Mahoor},
+           familyi={M\bibinitperiod},
+           given={Mohammad\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01c4c79b04e34d75d550837226d36332}{%
+           family={Mavadati},
+           familyi={M\bibinitperiod},
+           given={S.\bibnamedelimi Mohammad},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eebb4a1ca4788ca9e5946611a9e12c02}
+      \strng{fullhash}{e37bc8d2c30006e50accb742b3cc22d2}
+      \strng{fullhashraw}{e37bc8d2c30006e50accb742b3cc22d2}
+      \strng{bibnamehash}{e37bc8d2c30006e50accb742b3cc22d2}
+      \strng{authorbibnamehash}{e37bc8d2c30006e50accb742b3cc22d2}
+      \strng{authornamehash}{eebb4a1ca4788ca9e5946611a9e12c02}
+      \strng{authorfullhash}{e37bc8d2c30006e50accb742b3cc22d2}
+      \strng{authorfullhashraw}{e37bc8d2c30006e50accb742b3cc22d2}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1432-1769}
+      \field{journaltitle}{Machine Vision and Applications}
+      \field{number}{4}
+      \field{title}{Facial expression recognition using ${l}_{p}$-norm MKL multiclass-SVM}
+      \field{volume}{26}
+      \field{year}{2015}
+      \field{pages}{467\bibrangedash 483}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/s00138-015-0677-y
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s00138-015-0677-y
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s00138-015-0677-y
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{svmm2}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8813f9fadc5df82a408538da220563e8}{%
+           family={Afifi},
+           familyi={A\bibinitperiod},
+           given={Shereen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94f5d2154d08e66bcb3d7c21ecd1bd5d}{%
+           family={GholamHosseini},
+           familyi={G\bibinitperiod},
+           given={Hamid},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d07c8a5eb78eebe3b33bcf7e0fef7e1a}{%
+           family={Sinha},
+           familyi={S\bibinitperiod},
+           given={Roopak},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{1903b29a8823d63b7aac11459f22003f}
+      \strng{fullhash}{a8ebcb8d27f59f90c6734a28053c1c10}
+      \strng{fullhashraw}{a8ebcb8d27f59f90c6734a28053c1c10}
+      \strng{bibnamehash}{a8ebcb8d27f59f90c6734a28053c1c10}
+      \strng{authorbibnamehash}{a8ebcb8d27f59f90c6734a28053c1c10}
+      \strng{authornamehash}{1903b29a8823d63b7aac11459f22003f}
+      \strng{authorfullhash}{a8ebcb8d27f59f90c6734a28053c1c10}
+      \strng{authorfullhashraw}{a8ebcb8d27f59f90c6734a28053c1c10}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neural Computing and Applications}
+      \field{number}{6}
+      \field{title}{Dynamic hardware system for cascade SVM classification of melanoma}
+      \field{volume}{32}
+      \field{year}{2020}
+      \field{pages}{1777\bibrangedash 1788}
+      \range{pages}{12}
+    \endentry
+    \entry{cr_iaplanta2}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=65497fd76f2c3eaeb20204cdda0fe7df}{%
+           family={Alba},
+           familyi={A\bibinitperiod},
+           given={José\bibnamedelimb Rolando\bibnamedelima García},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb4732ee2953efe0be9949f4e4e97ea1}{%
+           family={Franco},
+           familyi={F\bibinitperiod},
+           given={Rodrigo\bibnamedelima Rodríguez},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=71241f4416394e2fb72956a36c74072a}{%
+           family={Cerdán},
+           familyi={C\bibinitperiod},
+           given={María\bibnamedelimb María\bibnamedelima Angélica},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0c179e667ea5de3e58b3edb3c7ecbd62}
+      \strng{fullhash}{9336ddfa0bb77e14cc699cd7235f7be7}
+      \strng{fullhashraw}{9336ddfa0bb77e14cc699cd7235f7be7}
+      \strng{bibnamehash}{9336ddfa0bb77e14cc699cd7235f7be7}
+      \strng{authorbibnamehash}{9336ddfa0bb77e14cc699cd7235f7be7}
+      \strng{authornamehash}{0c179e667ea5de3e58b3edb3c7ecbd62}
+      \strng{authorfullhash}{9336ddfa0bb77e14cc699cd7235f7be7}
+      \strng{authorfullhashraw}{9336ddfa0bb77e14cc699cd7235f7be7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{RINDERESU}
+      \field{number}{1-2}
+      \field{title}{Sistemas expertos en agricultura de precisión: revisión sistemática de la literatura}
+      \field{volume}{7}
+      \field{year}{2023}
+    \endentry
+    \entry{antecedente4}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ceb17826d22c688d46fcde3ec6ac7db1}{%
+           family={Alrudainy},
+           familyi={A\bibinitperiod},
+           given={Alaa\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7d5fd1246d80809a2770eb2a7b31b4e}{%
+           family={Mshari},
+           familyi={M\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3159954fb9ff15bd24ef0935bf20a0da}
+      \strng{fullhash}{3159954fb9ff15bd24ef0935bf20a0da}
+      \strng{fullhashraw}{3159954fb9ff15bd24ef0935bf20a0da}
+      \strng{bibnamehash}{3159954fb9ff15bd24ef0935bf20a0da}
+      \strng{authorbibnamehash}{3159954fb9ff15bd24ef0935bf20a0da}
+      \strng{authornamehash}{3159954fb9ff15bd24ef0935bf20a0da}
+      \strng{authorfullhash}{3159954fb9ff15bd24ef0935bf20a0da}
+      \strng{authorfullhashraw}{3159954fb9ff15bd24ef0935bf20a0da}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biomedicine and Chemical Sciences}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{Investigation of Phytophthora Infestans Causing Potato Late Blight Disease}
+      \field{volume}{1}
+      \field{year}{2022}
+      \field{pages}{289\bibrangedash 294}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.48112/bcs.v1i4.291
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.irapa.org/index.php/BCS/article/view/291
+      \endverb
+      \verb{url}
+      \verb https://journals.irapa.org/index.php/BCS/article/view/291
+      \endverb
+    \endentry
+    \entry{antecedente5}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=51bfd2bdfc225dcac766510a7e00c938}{%
+           family={Anandhakrishnan},
+           familyi={A\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a18e9ebdf121074355b4a834f99182b}{%
+           family={Jaisakthi},
+           familyi={J\bibinitperiod},
+           given={S.M.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bec62b9ecc99071dbaef3eb7e7662fb5}
+      \strng{fullhash}{bec62b9ecc99071dbaef3eb7e7662fb5}
+      \strng{fullhashraw}{bec62b9ecc99071dbaef3eb7e7662fb5}
+      \strng{bibnamehash}{bec62b9ecc99071dbaef3eb7e7662fb5}
+      \strng{authorbibnamehash}{bec62b9ecc99071dbaef3eb7e7662fb5}
+      \strng{authornamehash}{bec62b9ecc99071dbaef3eb7e7662fb5}
+      \strng{authorfullhash}{bec62b9ecc99071dbaef3eb7e7662fb5}
+      \strng{authorfullhashraw}{bec62b9ecc99071dbaef3eb7e7662fb5}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2352-5541}
+      \field{journaltitle}{Sustainable Chemistry and Pharmacy}
+      \field{title}{Deep Convolutional Neural Networks for image based tomato leaf disease detection}
+      \field{volume}{30}
+      \field{year}{2022}
+      \field{pages}{100793}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.scp.2022.100793
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352554122001978
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352554122001978
+      \endverb
+      \keyw{Energy optimization,Hybrid energy storage system,Convolution neural networks,MLP and SVM,Electrochemical pretreatment procedure,Classification,Recognition,Deep neural Network,Dynamic integrated system}
+    \endentry
+    \entry{cr_iaplanta}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=a02f47f99fefd5c62b23389bf3d4b3d7}{%
+           family={Bhugra},
+           familyi={B\bibinitperiod},
+           given={Swati},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=71bf98cda35f642d608e80cc85440d32}{%
+           family={Kaushik},
+           familyi={K\bibinitperiod},
+           given={Vinay},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c95ad17e5e03ebee68db4a731203df7}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Amit},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4577b92589d9e3f6be0053e42942035c}{%
+           family={Lall},
+           familyi={L\bibinitperiod},
+           given={Brejesh},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=abb33278221f7cd9001859bcc4daff1a}{%
+           family={Chaudhury},
+           familyi={C\bibinitperiod},
+           given={Santanu},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b9f09834ebe59f87e6d9540fe400d0b9}
+      \strng{fullhash}{be5256cc6c4d853512549e57a79560cb}
+      \strng{fullhashraw}{be5256cc6c4d853512549e57a79560cb}
+      \strng{bibnamehash}{be5256cc6c4d853512549e57a79560cb}
+      \strng{authorbibnamehash}{be5256cc6c4d853512549e57a79560cb}
+      \strng{authornamehash}{b9f09834ebe59f87e6d9540fe400d0b9}
+      \strng{authorfullhash}{be5256cc6c4d853512549e57a79560cb}
+      \strng{authorfullhashraw}{be5256cc6c4d853512549e57a79560cb}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision}
+      \field{title}{AnoLeaf: Unsupervised Leaf Disease Segmentation via Structurally Robust Generative Inpainting}
+      \field{year}{2023}
+      \field{pages}{6415\bibrangedash 6424}
+      \range{pages}{10}
+    \endentry
+    \entry{cajahuanca2021inteligencia}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=b9d7892e1e0aef16359ec3da73610afa}{%
+           family={Cajahuanca},
+           familyi={C\bibinitperiod},
+           given={Julio\bibnamedelimb Elvis\bibnamedelima Valero},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f4a26e077bde3670ac5a7bdd28a6cda}{%
+           family={Crispin},
+           familyi={C\bibinitperiod},
+           given={Fernando\bibnamedelimb Viterbo\bibnamedelima Sinche},
+           giveni={F\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86f8504b0e45bcc81ebb130e389c4279}{%
+           family={Flores},
+           familyi={F\bibinitperiod},
+           given={Rafael\bibnamedelimb Edwin\bibnamedelima Gordillo},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58feef32752c16ab6c52648ca7a2fea9}{%
+           family={Franco},
+           familyi={F\bibinitperiod},
+           given={Alfredo\bibnamedelimb César\bibnamedelima Larios},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2f6e69091fca3ca6f26f835de0d5f90d}
+      \strng{fullhash}{e5a0d014de4b28e9fcbfa4e67e085064}
+      \strng{fullhashraw}{e5a0d014de4b28e9fcbfa4e67e085064}
+      \strng{bibnamehash}{e5a0d014de4b28e9fcbfa4e67e085064}
+      \strng{authorbibnamehash}{e5a0d014de4b28e9fcbfa4e67e085064}
+      \strng{authornamehash}{2f6e69091fca3ca6f26f835de0d5f90d}
+      \strng{authorfullhash}{e5a0d014de4b28e9fcbfa4e67e085064}
+      \strng{authorfullhashraw}{e5a0d014de4b28e9fcbfa4e67e085064}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Boletín de Malariología y Salud Ambiental}
+      \field{number}{2}
+      \field{title}{La inteligencia artificial, una herramienta para la Salud Digital}
+      \field{volume}{61}
+      \field{year}{2021}
+      \field{pages}{307\bibrangedash 317}
+      \range{pages}{11}
+    \endentry
+    \entry{tecnica3}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=17bcfbcc3dbdfe087c97a1c89683810b}{%
+           family={Cervantes},
+           familyi={C\bibinitperiod},
+           given={Jair},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49cce37383495621d354b61492538c4d}{%
+           family={Garcia-Lamont},
+           familyi={G\bibinithyphendelim L\bibinitperiod},
+           given={Farid},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6dea309c142aca752e56669cb0dbfce9}{%
+           family={Rodríguez-Mazahua},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={Lisbeth},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=549a48ac912b9258a95dce4f75a7a8f0}{%
+           family={Lopez},
+           familyi={L\bibinitperiod},
+           given={Asdrubal},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{22e62a090d995241200e529ab6f9e8f5}
+      \strng{fullhash}{07788bcb1f5ae681a28ddf231be23e63}
+      \strng{fullhashraw}{07788bcb1f5ae681a28ddf231be23e63}
+      \strng{bibnamehash}{07788bcb1f5ae681a28ddf231be23e63}
+      \strng{authorbibnamehash}{07788bcb1f5ae681a28ddf231be23e63}
+      \strng{authornamehash}{22e62a090d995241200e529ab6f9e8f5}
+      \strng{authorfullhash}{07788bcb1f5ae681a28ddf231be23e63}
+      \strng{authorfullhashraw}{07788bcb1f5ae681a28ddf231be23e63}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neurocomputing}
+      \field{title}{A comprehensive survey on support vector machine classification: Applications, challenges and trends}
+      \field{volume}{408}
+      \field{year}{2020}
+      \field{pages}{189\bibrangedash 215}
+      \range{pages}{27}
+    \endentry
+    \entry{CHAKRABORTY2022101781}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8a6c025672276c5dcfbfe290c0fe1c4a}{%
+           family={Chakraborty},
+           familyi={C\bibinitperiod},
+           given={Kulendu\bibnamedelima Kashyap},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd7b5cb65543889c5e292c6823a3d469}{%
+           family={Mukherjee},
+           familyi={M\bibinitperiod},
+           given={Rashmi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4b458d48e0c49052f2fbc087238e795}{%
+           family={Chakroborty},
+           familyi={C\bibinitperiod},
+           given={Chandan},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e96afaa7b501dc78537be22ca05e74bb}{%
+           family={Bora},
+           familyi={B\bibinitperiod},
+           given={Kangkana},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b4d358df28e8df9d58a15f8a926ea777}
+      \strng{fullhash}{16608e89e7e4c7fdbc65b542ff954807}
+      \strng{fullhashraw}{16608e89e7e4c7fdbc65b542ff954807}
+      \strng{bibnamehash}{16608e89e7e4c7fdbc65b542ff954807}
+      \strng{authorbibnamehash}{16608e89e7e4c7fdbc65b542ff954807}
+      \strng{authornamehash}{b4d358df28e8df9d58a15f8a926ea777}
+      \strng{authorfullhash}{16608e89e7e4c7fdbc65b542ff954807}
+      \strng{authorfullhashraw}{16608e89e7e4c7fdbc65b542ff954807}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0885-5765}
+      \field{journaltitle}{Physiological and Molecular Plant Pathology}
+      \field{title}{Automated recognition of optical image based potato leaf blight diseases using deep learning}
+      \field{volume}{117}
+      \field{year}{2022}
+      \field{pages}{101781}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.pmpp.2021.101781
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S088557652100182X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S088557652100182X
+      \endverb
+      \keyw{Potato leaf,Late blight,Early blight,Deep learning,Parameter tweaking}
+    \endentry
+    \entry{antecedente6}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1cd23453226fe3d834cbb4b09ae4a946}{%
+           family={Chapa},
+           familyi={C\bibinitperiod},
+           given={Mehta},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53c6d4c31ba41307a4a14994f1130465}{%
+           family={Neelesh\bibnamedelima Kumar},
+           familyi={N\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={Manikanta},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93959f1e64fb064f7a01a8461ac05f77}{%
+           family={Chaitanya},
+           familyi={C\bibinitperiod},
+           given={Sakunthala},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{281a8932105b0dc78b426dfb3c9de3b1}
+      \strng{fullhash}{ca2613977b2277f9750f868b8833954e}
+      \strng{fullhashraw}{ca2613977b2277f9750f868b8833954e}
+      \strng{bibnamehash}{ca2613977b2277f9750f868b8833954e}
+      \strng{authorbibnamehash}{ca2613977b2277f9750f868b8833954e}
+      \strng{authornamehash}{281a8932105b0dc78b426dfb3c9de3b1}
+      \strng{authorfullhash}{ca2613977b2277f9750f868b8833954e}
+      \strng{authorfullhashraw}{ca2613977b2277f9750f868b8833954e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Advanced Research in Science, Communication and Technology}
+      \field{number}{8}
+      \field{title}{Potato Blight Classification Android Application using Deep Learning}
+      \field{volume}{3}
+      \field{year}{2023}
+      \field{pages}{9598}
+      \range{pages}{1}
+    \endentry
+    \entry{tecnica2}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=0b247ba5608bdea86819f02b2cf414d3}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Leiyu},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=016a69f0bf8ac2ae398d950ad3be5b0a}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Shaobo},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f40a0464e60a363160b3e21edc6f0a74}{%
+           family={Bai},
+           familyi={B\bibinitperiod},
+           given={Qiang},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=590e4e39e560d4f5c33781113cd98b41}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1b83b14145e7aa76ea6855ef142b3ea}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Sanlong},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69f52a0abc7de1e309e481ac75730c49}{%
+           family={Miao},
+           familyi={M\bibinitperiod},
+           given={Yanming},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{5a9b5f2d0ed42ccb6aa699e466b5c607}
+      \strng{fullhash}{9c0082079619e127774696e52bf61e45}
+      \strng{fullhashraw}{9c0082079619e127774696e52bf61e45}
+      \strng{bibnamehash}{9c0082079619e127774696e52bf61e45}
+      \strng{authorbibnamehash}{9c0082079619e127774696e52bf61e45}
+      \strng{authornamehash}{5a9b5f2d0ed42ccb6aa699e466b5c607}
+      \strng{authorfullhash}{9c0082079619e127774696e52bf61e45}
+      \strng{authorfullhashraw}{9c0082079619e127774696e52bf61e45}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Remote Sensing}
+      \field{number}{22}
+      \field{title}{Review of image classification algorithms based on convolutional neural networks}
+      \field{volume}{13}
+      \field{year}{2021}
+      \field{pages}{4712}
+      \range{pages}{1}
+    \endentry
+    \entry{cr_gestion2018emprend}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9729368aea84426e82f360b58338627d}{%
+           family={Díaz},
+           familyi={D\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a3c475306fd9ee6f1423e01d97e60b7}{%
+           family={Lozoya-Saldaña},
+           familyi={L\bibinithyphendelim S\bibinitperiod},
+           given={Héctor},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{901d8db966bac8bbcb3d4efddb5f8dc3}
+      \strng{fullhash}{901d8db966bac8bbcb3d4efddb5f8dc3}
+      \strng{fullhashraw}{901d8db966bac8bbcb3d4efddb5f8dc3}
+      \strng{bibnamehash}{901d8db966bac8bbcb3d4efddb5f8dc3}
+      \strng{authorbibnamehash}{901d8db966bac8bbcb3d4efddb5f8dc3}
+      \strng{authornamehash}{901d8db966bac8bbcb3d4efddb5f8dc3}
+      \strng{authorfullhash}{901d8db966bac8bbcb3d4efddb5f8dc3}
+      \strng{authorfullhashraw}{901d8db966bac8bbcb3d4efddb5f8dc3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Chapingo, Serie Ciencias Forestales y del Ambiente}
+      \field{month}{06}
+      \field{title}{INCIDENCE OF PHYSIOLOGICAL RACES AND GENOTYPES OF Phytophthora infestans (MONT.) DE BARY IN THE TOLUCA VALLEY, MÉXICO}
+      \field{volume}{19}
+      \field{year}{2013}
+      \field{pages}{173\bibrangedash 181}
+      \range{pages}{9}
+    \endentry
+    \entry{antecedente2}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=2947f0357a4f535dcb77a526089586f9}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Junzhe},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91ac47d51155923b0ec417a3d2d34c1f}{%
+           family={Hou},
+           familyi={H\bibinitperiod},
+           given={Bingru},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=90a49a56e644fba7b30704536d17f10f}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Chenhao},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6592fedc32b64488b867fbec54c949a}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Huanbo},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ad93e4c675a68a22a9c2c52b38e2751}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Chao},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1715109dbfe1ded6e3f235758b07c578}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Xiaoyi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=395053b18f759b83f987f3a2374f053e}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Yaohua},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{59bac5577e98e03f3f22152e9458c29d}
+      \strng{fullhash}{c47a5839d934125e913ca357a6c38e16}
+      \strng{fullhashraw}{c47a5839d934125e913ca357a6c38e16}
+      \strng{bibnamehash}{c47a5839d934125e913ca357a6c38e16}
+      \strng{authorbibnamehash}{c47a5839d934125e913ca357a6c38e16}
+      \strng{authornamehash}{59bac5577e98e03f3f22152e9458c29d}
+      \strng{authorfullhash}{c47a5839d934125e913ca357a6c38e16}
+      \strng{authorfullhashraw}{c47a5839d934125e913ca357a6c38e16}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Agronomy}
+      \field{month}{06}
+      \field{title}{Research and Validation of Potato Late Blight Detection Method Based on Deep Learning}
+      \field{volume}{13}
+      \field{year}{2023}
+      \field{pages}{1659}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/agronomy13061659
+      \endverb
+    \endentry
+    \entry{inei_cenagro_2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=542fc669655bfc3a5a8ff1a57a5b8413}{%
+           family={{Instituto Nacional de Estadística e Informática}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{fullhash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{fullhashraw}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{bibnamehash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{authorbibnamehash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{authornamehash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{authorfullhash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{authorfullhashraw}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Encuesta Nacional Agropecuaria 2022}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1912/libro.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1912/libro.pdf
+      \endverb
+    \endentry
+    \entry{minagri_estadisticas_2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=542fc669655bfc3a5a8ff1a57a5b8413}{%
+           family={{Instituto Nacional de Estadística e Informática}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{fullhash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{fullhashraw}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{bibnamehash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{authorbibnamehash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{authornamehash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{authorfullhash}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \strng{authorfullhashraw}{542fc669655bfc3a5a8ff1a57a5b8413}
+      \field{extraname}{2}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{month}{3}
+      \field{title}{Informe ténico Producción NACIONAL}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.inei.gob.pe/media/principales_indicadores/03-informe-tecnico-produccion-nacional-ene-2022.pdf/
+      \endverb
+      \verb{url}
+      \verb https://www.inei.gob.pe/media/principales_indicadores/03-informe-tecnico-produccion-nacional-ene-2022.pdf/
+      \endverb
+    \endentry
+    \entry{tecnica4}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=cfee295769917f190b5452668046130c}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Peiyuan},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89ac469fa346462120acfd4f24d8896a}{%
+           family={Ergu},
+           familyi={E\bibinitperiod},
+           given={Daji},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb1fdce5d3a3877d7a15859e937b7318}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Fangyao},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1590429c915a01a51d67986862f94c45}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d175f09ef61faffce7a1860094ac4c8}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0f385aea30902cda19490817ed770e69}
+      \strng{fullhash}{adf8b831f6f3ced1a6b683e78a3e0828}
+      \strng{fullhashraw}{adf8b831f6f3ced1a6b683e78a3e0828}
+      \strng{bibnamehash}{adf8b831f6f3ced1a6b683e78a3e0828}
+      \strng{authorbibnamehash}{adf8b831f6f3ced1a6b683e78a3e0828}
+      \strng{authornamehash}{0f385aea30902cda19490817ed770e69}
+      \strng{authorfullhash}{adf8b831f6f3ced1a6b683e78a3e0828}
+      \strng{authorfullhashraw}{adf8b831f6f3ced1a6b683e78a3e0828}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia computer science}
+      \field{title}{A Review of Yolo algorithm developments}
+      \field{volume}{199}
+      \field{year}{2022}
+      \field{pages}{1066\bibrangedash 1073}
+      \range{pages}{8}
+    \endentry
+    \entry{tecnica1}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=98644e0d901253645fb6409f9134e098}{%
+           family={Kashefi},
+           familyi={K\bibinitperiod},
+           given={Rojina},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8a0519ce7001e9f70320e1af7ebced9}{%
+           family={Barekatain},
+           familyi={B\bibinitperiod},
+           given={Leili},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21a30de05b280ed6584bc01174ac317c}{%
+           family={Sabokrou},
+           familyi={S\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6d348ecb4965aa88b92edd8d622ff09}{%
+           family={Aghaeipoor},
+           familyi={A\bibinitperiod},
+           given={Fatemeh},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{62cbf77b2e6c8d9a9e633bfb3bcbac81}
+      \strng{fullhash}{6564a9aa4a624de8d1de4fb791e19445}
+      \strng{fullhashraw}{6564a9aa4a624de8d1de4fb791e19445}
+      \strng{bibnamehash}{6564a9aa4a624de8d1de4fb791e19445}
+      \strng{authorbibnamehash}{6564a9aa4a624de8d1de4fb791e19445}
+      \strng{authornamehash}{62cbf77b2e6c8d9a9e633bfb3bcbac81}
+      \strng{authorfullhash}{6564a9aa4a624de8d1de4fb791e19445}
+      \strng{authorfullhashraw}{6564a9aa4a624de8d1de4fb791e19445}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2311.06786}
+      \field{title}{Explainability of Vision Transformers: A Comprehensive Review and New Perspectives}
+      \field{year}{2023}
+    \endentry
+    \entry{kelleher2019deep}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ed74b6bb0a6d016e9a5dd8f3331b3428}{%
+           family={Kelleher},
+           familyi={K\bibinitperiod},
+           given={John\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT press}%
+      }
+      \strng{namehash}{ed74b6bb0a6d016e9a5dd8f3331b3428}
+      \strng{fullhash}{ed74b6bb0a6d016e9a5dd8f3331b3428}
+      \strng{fullhashraw}{ed74b6bb0a6d016e9a5dd8f3331b3428}
+      \strng{bibnamehash}{ed74b6bb0a6d016e9a5dd8f3331b3428}
+      \strng{authorbibnamehash}{ed74b6bb0a6d016e9a5dd8f3331b3428}
+      \strng{authornamehash}{ed74b6bb0a6d016e9a5dd8f3331b3428}
+      \strng{authorfullhash}{ed74b6bb0a6d016e9a5dd8f3331b3428}
+      \strng{authorfullhashraw}{ed74b6bb0a6d016e9a5dd8f3331b3428}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Deep learning}
+      \field{year}{2019}
+    \endentry
+    \entry{svmm5}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1fffcefedf3ee0de8d6eaf54ce15af5e}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xiaoming},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=406eebf5e7975b1c53eb6dce8c9e073b}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Jinshan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{2b25f684e68589fbfc548909a74cf362}
+      \strng{fullhash}{2b25f684e68589fbfc548909a74cf362}
+      \strng{fullhashraw}{2b25f684e68589fbfc548909a74cf362}
+      \strng{bibnamehash}{2b25f684e68589fbfc548909a74cf362}
+      \strng{authorbibnamehash}{2b25f684e68589fbfc548909a74cf362}
+      \strng{authornamehash}{2b25f684e68589fbfc548909a74cf362}
+      \strng{authorfullhash}{2b25f684e68589fbfc548909a74cf362}
+      \strng{authorfullhashraw}{2b25f684e68589fbfc548909a74cf362}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Systems Journal}
+      \field{number}{3}
+      \field{title}{Mass classification in mammograms using selected geometry and texture features, and a new SVM-based feature selection method}
+      \field{volume}{8}
+      \field{year}{2013}
+      \field{pages}{910\bibrangedash 920}
+      \range{pages}{11}
+    \endentry
+    \entry{teamredac2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=920d2cd19130ca3e720584ff21adc293}{%
+           family={rédac},
+           familyi={r\bibinitperiod},
+           given={Team},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{920d2cd19130ca3e720584ff21adc293}
+      \strng{fullhash}{920d2cd19130ca3e720584ff21adc293}
+      \strng{fullhashraw}{920d2cd19130ca3e720584ff21adc293}
+      \strng{bibnamehash}{920d2cd19130ca3e720584ff21adc293}
+      \strng{authorbibnamehash}{920d2cd19130ca3e720584ff21adc293}
+      \strng{authornamehash}{920d2cd19130ca3e720584ff21adc293}
+      \strng{authorfullhash}{920d2cd19130ca3e720584ff21adc293}
+      \strng{authorfullhashraw}{920d2cd19130ca3e720584ff21adc293}
+      \field{sortinit}{r}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{DataScientist}
+      \field{month}{8}
+      \field{note}{Accessed: 2022-08}
+      \field{title}{Inteligencia artificial: definición, historia, usos, peligros}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://datascientest.com/es/inteligencia-artificial-definicion#:~:text=La%20historia%20de%20la%20inteligencia%20artificial%20comenz%C3%B3%20en%201943%20con,creaci%C3%B3n%20de%20una%20red%20neuronal
+      \endverb
+      \verb{url}
+      \verb https://datascientest.com/es/inteligencia-artificial-definicion#:~:text=La%20historia%20de%20la%20inteligencia%20artificial%20comenz%C3%B3%20en%201943%20con,creaci%C3%B3n%20de%20una%20red%20neuronal
+      \endverb
+    \endentry
+    \entry{cr_rancha3}{periodical}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0984041ee89df560894f11c09c037564}{%
+           family={{Redacción AGROPERÚ}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{0984041ee89df560894f11c09c037564}
+      \strng{fullhash}{0984041ee89df560894f11c09c037564}
+      \strng{fullhashraw}{0984041ee89df560894f11c09c037564}
+      \strng{bibnamehash}{0984041ee89df560894f11c09c037564}
+      \strng{authorbibnamehash}{0984041ee89df560894f11c09c037564}
+      \strng{authornamehash}{0984041ee89df560894f11c09c037564}
+      \strng{authorfullhash}{0984041ee89df560894f11c09c037564}
+      \strng{authorfullhashraw}{0984041ee89df560894f11c09c037564}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{14}
+      \field{journaltitle}{Diario AGROPERÚ}
+      \field{month}{4}
+      \field{title}{Rancha afecta sembríos de papas nativas en la sierra de Lima}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.agroperu.pe/rancha-afecta-sembrios-de-papas-nativas-en-la-sierra-de-lima/
+      \endverb
+      \verb{url}
+      \verb https://www.agroperu.pe/rancha-afecta-sembrios-de-papas-nativas-en-la-sierra-de-lima/
+      \endverb
+    \endentry
+    \entry{cr_agroinforma2}{periodical}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=340b7485bfb0e436b192786029563fc5}{%
+           family={{Redacción AGROPERU}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{340b7485bfb0e436b192786029563fc5}
+      \strng{fullhash}{340b7485bfb0e436b192786029563fc5}
+      \strng{fullhashraw}{340b7485bfb0e436b192786029563fc5}
+      \strng{bibnamehash}{340b7485bfb0e436b192786029563fc5}
+      \strng{authorbibnamehash}{340b7485bfb0e436b192786029563fc5}
+      \strng{authornamehash}{340b7485bfb0e436b192786029563fc5}
+      \strng{authorfullhash}{340b7485bfb0e436b192786029563fc5}
+      \strng{authorfullhashraw}{340b7485bfb0e436b192786029563fc5}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{9}
+      \field{journaltitle}{Diario AGROPERU}
+      \field{month}{3}
+      \field{title}{Ancash: Productores de papa en Pamparomás reciben capacitación en control de la rancha}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.agroperu.pe/ancash-productores-de-papa-en-pamparomas-reciben-capacitacion-en-control-de-la-rancha/
+      \endverb
+      \verb{url}
+      \verb https://www.agroperu.pe/ancash-productores-de-papa-en-pamparomas-reciben-capacitacion-en-control-de-la-rancha/
+      \endverb
+    \endentry
+    \entry{cr_agroinforma1}{periodical}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=98e6524aaae4ab351bfbeff591815c01}{%
+           family={{Redacción AgroPeru}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{98e6524aaae4ab351bfbeff591815c01}
+      \strng{fullhash}{98e6524aaae4ab351bfbeff591815c01}
+      \strng{fullhashraw}{98e6524aaae4ab351bfbeff591815c01}
+      \strng{bibnamehash}{98e6524aaae4ab351bfbeff591815c01}
+      \strng{authorbibnamehash}{98e6524aaae4ab351bfbeff591815c01}
+      \strng{authornamehash}{98e6524aaae4ab351bfbeff591815c01}
+      \strng{authorfullhash}{98e6524aaae4ab351bfbeff591815c01}
+      \strng{authorfullhashraw}{98e6524aaae4ab351bfbeff591815c01}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Diario AgroPeru}
+      \field{month}{7}
+      \field{title}{La fortaleza del Perú son las papas nativas [ENTREVISTA]}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.agroperu.pe/la-fortaleza-del-peru-son-las-papas-nativas-entrevista/#:~:text=%EA%9F%B7%20El%20consumo%20de%20papa,de%20la%20papa%20es%20mayor.
+      \endverb
+      \verb{url}
+      \verb https://www.agroperu.pe/la-fortaleza-del-peru-son-las-papas-nativas-entrevista/#:~:text=%EA%9F%B7%20El%20consumo%20de%20papa,de%20la%20papa%20es%20mayor.
+      \endverb
+    \endentry
+    \entry{cr_rancha6}{periodical}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b32af1562474818f932831f8074a0ef3}{%
+           family={{Redacción ANDINA}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b32af1562474818f932831f8074a0ef3}
+      \strng{fullhash}{b32af1562474818f932831f8074a0ef3}
+      \strng{fullhashraw}{b32af1562474818f932831f8074a0ef3}
+      \strng{bibnamehash}{b32af1562474818f932831f8074a0ef3}
+      \strng{authorbibnamehash}{b32af1562474818f932831f8074a0ef3}
+      \strng{authornamehash}{b32af1562474818f932831f8074a0ef3}
+      \strng{authorfullhash}{b32af1562474818f932831f8074a0ef3}
+      \strng{authorfullhashraw}{b32af1562474818f932831f8074a0ef3}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{9}
+      \field{journaltitle}{Diario ANDINA}
+      \field{month}{3}
+      \field{title}{Reportan 26 mil toneladas de papa afectadas en distrito de Ulcumayo}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://andina.pe/agencia/noticia-reportan-26-mil-toneladas-papa-afectadas-distrito-ulcumayo-284195.aspx
+      \endverb
+      \verb{url}
+      \verb https://andina.pe/agencia/noticia-reportan-26-mil-toneladas-papa-afectadas-distrito-ulcumayo-284195.aspx
+      \endverb
+    \endentry
+    \entry{cr_rancha5}{periodical}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6272a155d9b9f563b777207e23f35f3c}{%
+           family={{Redacción Chaski}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{6272a155d9b9f563b777207e23f35f3c}
+      \strng{fullhash}{6272a155d9b9f563b777207e23f35f3c}
+      \strng{fullhashraw}{6272a155d9b9f563b777207e23f35f3c}
+      \strng{bibnamehash}{6272a155d9b9f563b777207e23f35f3c}
+      \strng{authorbibnamehash}{6272a155d9b9f563b777207e23f35f3c}
+      \strng{authornamehash}{6272a155d9b9f563b777207e23f35f3c}
+      \strng{authorfullhash}{6272a155d9b9f563b777207e23f35f3c}
+      \strng{authorfullhashraw}{6272a155d9b9f563b777207e23f35f3c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chaski: Apurimac para el mundo}
+      \field{month}{6}
+      \field{title}{Presencia de rancha causa daños en cultivos de papa en Progreso}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://chaski.pe/detalle/presencia-de-rancha-causa-danos-en-cultivos-de-papa-en-progreso-8314
+      \endverb
+      \verb{url}
+      \verb https://chaski.pe/detalle/presencia-de-rancha-causa-danos-en-cultivos-de-papa-en-progreso-8314
+      \endverb
+    \endentry
+    \entry{cr_elcomercioproduccionpapa}{periodical}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ce772217262e58e6391d43514d50dd75}{%
+           family={{Redacción Gambos}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce772217262e58e6391d43514d50dd75}
+      \strng{fullhash}{ce772217262e58e6391d43514d50dd75}
+      \strng{fullhashraw}{ce772217262e58e6391d43514d50dd75}
+      \strng{bibnamehash}{ce772217262e58e6391d43514d50dd75}
+      \strng{authorbibnamehash}{ce772217262e58e6391d43514d50dd75}
+      \strng{authornamehash}{ce772217262e58e6391d43514d50dd75}
+      \strng{authorfullhash}{ce772217262e58e6391d43514d50dd75}
+      \strng{authorfullhashraw}{ce772217262e58e6391d43514d50dd75}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{2}
+      \field{journaltitle}{RPP}
+      \field{month}{6}
+      \field{title}{¿Por qué el Perú no es el principal productor de papa en el mundo?}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://rpp.pe/economia/economia/por-que-el-peru-no-es-el-principal-productor-de-papa-en-el-mundo-noticia-1488113#:~:text=En%20el%20mundo%20el%20Per%C3%BA,a%206%20millones%20de%20toneladas.
+      \endverb
+      \verb{url}
+      \verb https://rpp.pe/economia/economia/por-que-el-peru-no-es-el-principal-productor-de-papa-en-el-mundo-noticia-1488113#:~:text=En%20el%20mundo%20el%20Per%C3%BA,a%206%20millones%20de%20toneladas.
+      \endverb
+    \endentry
+    \entry{cr_rancha4}{periodical}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ddabacf174036f53c82285a0f78e5c7d}{%
+           family={{Redacción Salome}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ddabacf174036f53c82285a0f78e5c7d}
+      \strng{fullhash}{ddabacf174036f53c82285a0f78e5c7d}
+      \strng{fullhashraw}{ddabacf174036f53c82285a0f78e5c7d}
+      \strng{bibnamehash}{ddabacf174036f53c82285a0f78e5c7d}
+      \strng{authorbibnamehash}{ddabacf174036f53c82285a0f78e5c7d}
+      \strng{authornamehash}{ddabacf174036f53c82285a0f78e5c7d}
+      \strng{authorfullhash}{ddabacf174036f53c82285a0f78e5c7d}
+      \strng{authorfullhashraw}{ddabacf174036f53c82285a0f78e5c7d}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Diario HUANCA YORK TIMES}
+      \field{month}{3}
+      \field{title}{La ‘rancha’, causada por la excesiva humedad de las lluvias, arrasa 500 hectáreas de papa en Ulcumayo, provincia de Junín}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://hytimes.pe/2024/03/01/la-rancha-causada-por-la-excesiva-humedad-de-las-lluvias-arrasa-500-hectareas-de-papa-en-ulcumayo-provincia-de-junin/
+      \endverb
+      \verb{url}
+      \verb https://hytimes.pe/2024/03/01/la-rancha-causada-por-la-excesiva-humedad-de-las-lluvias-arrasa-500-hectareas-de-papa-en-ulcumayo-provincia-de-junin/
+      \endverb
+    \endentry
+    \entry{rouhiainen2018inteligencia}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=34c0c0ed4b6e30e421d55908eacc6276}{%
+           family={Rouhiainen},
+           familyi={R\bibinitperiod},
+           given={Lasse},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{34c0c0ed4b6e30e421d55908eacc6276}
+      \strng{fullhash}{34c0c0ed4b6e30e421d55908eacc6276}
+      \strng{fullhashraw}{34c0c0ed4b6e30e421d55908eacc6276}
+      \strng{bibnamehash}{34c0c0ed4b6e30e421d55908eacc6276}
+      \strng{authorbibnamehash}{34c0c0ed4b6e30e421d55908eacc6276}
+      \strng{authornamehash}{34c0c0ed4b6e30e421d55908eacc6276}
+      \strng{authorfullhash}{34c0c0ed4b6e30e421d55908eacc6276}
+      \strng{authorfullhashraw}{34c0c0ed4b6e30e421d55908eacc6276}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Madrid: Alienta Editorial}
+      \field{title}{Inteligencia artificial}
+      \field{year}{2018}
+      \field{pages}{20\bibrangedash 21}
+      \range{pages}{2}
+    \endentry
+    \entry{rusk2016deep}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=39cda9bea2e3415b8c01266dbd63815a}{%
+           family={Rusk},
+           familyi={R\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{39cda9bea2e3415b8c01266dbd63815a}
+      \strng{fullhash}{39cda9bea2e3415b8c01266dbd63815a}
+      \strng{fullhashraw}{39cda9bea2e3415b8c01266dbd63815a}
+      \strng{bibnamehash}{39cda9bea2e3415b8c01266dbd63815a}
+      \strng{authorbibnamehash}{39cda9bea2e3415b8c01266dbd63815a}
+      \strng{authornamehash}{39cda9bea2e3415b8c01266dbd63815a}
+      \strng{authorfullhash}{39cda9bea2e3415b8c01266dbd63815a}
+      \strng{authorfullhashraw}{39cda9bea2e3415b8c01266dbd63815a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Methods}
+      \field{number}{1}
+      \field{title}{Deep learning}
+      \field{volume}{13}
+      \field{year}{2016}
+      \field{pages}{35\bibrangedash 35}
+      \range{pages}{1}
+    \endentry
+    \entry{cr_rancha2}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e1420957e61277c5b4ef7fa220c884b1}{%
+           family={{SERFI}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1420957e61277c5b4ef7fa220c884b1}
+      \strng{fullhash}{e1420957e61277c5b4ef7fa220c884b1}
+      \strng{fullhashraw}{e1420957e61277c5b4ef7fa220c884b1}
+      \strng{bibnamehash}{e1420957e61277c5b4ef7fa220c884b1}
+      \strng{authorbibnamehash}{e1420957e61277c5b4ef7fa220c884b1}
+      \strng{authornamehash}{e1420957e61277c5b4ef7fa220c884b1}
+      \strng{authorfullhash}{e1420957e61277c5b4ef7fa220c884b1}
+      \strng{authorfullhashraw}{e1420957e61277c5b4ef7fa220c884b1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{25}
+      \field{journaltitle}{Diario SERFI}
+      \field{month}{1}
+      \field{title}{Attack: Control Y Manejo De Rancha En El Cultivo De Papa}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://serfi.pe/attack-control-y-manejo-de-rancha-en-el-cultivo-de-papa/
+      \endverb
+      \verb{url}
+      \verb https://serfi.pe/attack-control-y-manejo-de-rancha-en-el-cultivo-de-papa/
+      \endverb
+    \endentry
+    \entry{prom2}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c5200e150fbc3d88312c53076ef24069}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Harjot},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c5200e150fbc3d88312c53076ef24069}
+      \strng{fullhash}{c5200e150fbc3d88312c53076ef24069}
+      \strng{fullhashraw}{c5200e150fbc3d88312c53076ef24069}
+      \strng{bibnamehash}{c5200e150fbc3d88312c53076ef24069}
+      \strng{authorbibnamehash}{c5200e150fbc3d88312c53076ef24069}
+      \strng{authornamehash}{c5200e150fbc3d88312c53076ef24069}
+      \strng{authorfullhash}{c5200e150fbc3d88312c53076ef24069}
+      \strng{authorfullhashraw}{c5200e150fbc3d88312c53076ef24069}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Current Microbiology and Applied Sciences}
+      \field{number}{1}
+      \field{title}{Management of Late Blight of Potato caused by Phytophthora infestans}
+      \field{volume}{12}
+      \field{year}{2023}
+      \field{pages}{232\bibrangedash 247}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.20546/ijcmas.2023.1201.027
+      \endverb
+    \endentry
+    \entry{antecedente3}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=522ffb7773fab04872123950d63a5443}{%
+           family={Suarez\bibnamedelima Baron},
+           familyi={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Marco\bibnamedelima Javier},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5d3b7527b528e7bbeb9db9770838a14}{%
+           family={Gomez},
+           familyi={G\bibinitperiod},
+           given={Angie\bibnamedelima Lizeth},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83d2f3af905eaf4e9ca201af650d2732}{%
+           family={Diaz},
+           familyi={D\bibinitperiod},
+           given={Jorge\bibnamedelimb Enrique\bibnamedelima Espindola},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{2237d8ced7d01557dfa0906f3c3f379c}
+      \strng{fullhash}{1940176b16fbdda6d6a871ae7859dd70}
+      \strng{fullhashraw}{1940176b16fbdda6d6a871ae7859dd70}
+      \strng{bibnamehash}{1940176b16fbdda6d6a871ae7859dd70}
+      \strng{authorbibnamehash}{1940176b16fbdda6d6a871ae7859dd70}
+      \strng{authornamehash}{2237d8ced7d01557dfa0906f3c3f379c}
+      \strng{authorfullhash}{1940176b16fbdda6d6a871ae7859dd70}
+      \strng{authorfullhashraw}{1940176b16fbdda6d6a871ae7859dd70}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{18}
+      \field{title}{Supervised learning-based image classification for the detection of late blight in potato crops}
+      \field{volume}{12}
+      \field{year}{2022}
+      \field{pages}{9371}
+      \range{pages}{1}
+    \endentry
+    \entry{vc1}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=446510f076146d4b4a9c01a55963e9b2}{%
+           family={Sucar},
+           familyi={S\bibinitperiod},
+           given={L\bibnamedelima Enrique},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=579a7dd1e07adfc374e6312300fa035c}{%
+           family={Gómez},
+           familyi={G\bibinitperiod},
+           given={Giovani},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ebc36f110c6e7f13f3f2b79d93f08e12}
+      \strng{fullhash}{ebc36f110c6e7f13f3f2b79d93f08e12}
+      \strng{fullhashraw}{ebc36f110c6e7f13f3f2b79d93f08e12}
+      \strng{bibnamehash}{ebc36f110c6e7f13f3f2b79d93f08e12}
+      \strng{authorbibnamehash}{ebc36f110c6e7f13f3f2b79d93f08e12}
+      \strng{authornamehash}{ebc36f110c6e7f13f3f2b79d93f08e12}
+      \strng{authorfullhash}{ebc36f110c6e7f13f3f2b79d93f08e12}
+      \strng{authorfullhashraw}{ebc36f110c6e7f13f3f2b79d93f08e12}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Instituto Nacional de Astrofísica, Óptica y Electrónica. México}
+      \field{title}{Visión computacional}
+      \field{year}{2011}
+    \endentry
+    \entry{svmm4}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7d2bf96fe8f39551cf63c8b057e28093}{%
+           family={Tarabalka},
+           familyi={T\bibinitperiod},
+           given={Yuliya},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a6d81f8b03607e0670b00e021ef1456}{%
+           family={Fauvel},
+           familyi={F\bibinitperiod},
+           given={Mathieu},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19a50089cae8f67ab374e30b054493ad}{%
+           family={Chanussot},
+           familyi={C\bibinitperiod},
+           given={Jocelyn},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ec65ceec20cb6d75401ebc409c3d3fe}{%
+           family={Benediktsson},
+           familyi={B\bibinitperiod},
+           given={Jón\bibnamedelima Atli},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3d3db366b9427c7455a87ff1acd04301}
+      \strng{fullhash}{80181af10467a3af0164fb10469570e8}
+      \strng{fullhashraw}{80181af10467a3af0164fb10469570e8}
+      \strng{bibnamehash}{80181af10467a3af0164fb10469570e8}
+      \strng{authorbibnamehash}{80181af10467a3af0164fb10469570e8}
+      \strng{authornamehash}{3d3db366b9427c7455a87ff1acd04301}
+      \strng{authorfullhash}{80181af10467a3af0164fb10469570e8}
+      \strng{authorfullhashraw}{80181af10467a3af0164fb10469570e8}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Geoscience and Remote Sensing Letters}
+      \field{number}{4}
+      \field{title}{SVM-and MRF-based method for accurate classification of hyperspectral images}
+      \field{volume}{7}
+      \field{year}{2010}
+      \field{pages}{736\bibrangedash 740}
+      \range{pages}{5}
+    \endentry
+    \entry{antecedente7}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=f42dc907c70d1ebc35cb06d6d82a4ca6}{%
+           family={Tiwari},
+           familyi={T\bibinitperiod},
+           given={Divyansh},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bfb78be11b4b195a030fb99658db4116}{%
+           family={Ashish},
+           familyi={A\bibinitperiod},
+           given={Mritunjay},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5b35e630a406358c2194e196b38b93e}{%
+           family={Gangwar},
+           familyi={G\bibinitperiod},
+           given={Nitish},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=916f468d9f7fc43ed816242e2b1878c7}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Abhishek},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b46a59ae2b30ed2ba5c5fbc058a2112}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Suhanshu},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=624f0f61ddb5049b8b84cc02f6bfc7da}{%
+           family={Bhardwaj},
+           familyi={B\bibinitperiod},
+           given={Suyash},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4cae05ca71a7bec27ef7bc83dbcc0dc1}
+      \strng{fullhash}{68bf006a47bb9ea5138fa31b82473cd5}
+      \strng{fullhashraw}{68bf006a47bb9ea5138fa31b82473cd5}
+      \strng{bibnamehash}{68bf006a47bb9ea5138fa31b82473cd5}
+      \strng{authorbibnamehash}{68bf006a47bb9ea5138fa31b82473cd5}
+      \strng{authornamehash}{4cae05ca71a7bec27ef7bc83dbcc0dc1}
+      \strng{authorfullhash}{68bf006a47bb9ea5138fa31b82473cd5}
+      \strng{authorfullhashraw}{68bf006a47bb9ea5138fa31b82473cd5}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2020 4th International Conference on Intelligent Computing and Control Systems (ICICCS)}
+      \field{title}{Potato Leaf Diseases Detection Using Deep Learning}
+      \field{year}{2020}
+      \field{pages}{461\bibrangedash 466}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICICCS48265.2020.9121067
+      \endverb
+      \keyw{Deep learning;Plants (biology);Transfer learning;Crops;Production;Manuals;Feature extraction;feature extraction;logistic regression;inception V3;VGG16;VGG19;fine-tuning}
+    \endentry
+    \entry{svmm1}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=721889f2d5518696bd2b5a045814f2f6}{%
+           family={Verma},
+           familyi={V\bibinitperiod},
+           given={Jyoti},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8505927612473a46abb3f329b7857f4a}{%
+           family={Nath},
+           familyi={N\bibinitperiod},
+           given={Madhwendra},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6fbb4d5514874489f7923013a32251a}{%
+           family={Tripathi},
+           familyi={T\bibinitperiod},
+           given={Priyanshu},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7789a08112d56ab21be8ed2402b7c4c8}{%
+           family={Saini},
+           familyi={S\bibinitperiod},
+           given={KK},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d6d8b28e00d39955c14df9f74f9d4672}
+      \strng{fullhash}{3112e0fc5a02f6e1e1c39fdeeefe441d}
+      \strng{fullhashraw}{3112e0fc5a02f6e1e1c39fdeeefe441d}
+      \strng{bibnamehash}{3112e0fc5a02f6e1e1c39fdeeefe441d}
+      \strng{authorbibnamehash}{3112e0fc5a02f6e1e1c39fdeeefe441d}
+      \strng{authornamehash}{d6d8b28e00d39955c14df9f74f9d4672}
+      \strng{authorfullhash}{3112e0fc5a02f6e1e1c39fdeeefe441d}
+      \strng{authorfullhashraw}{3112e0fc5a02f6e1e1c39fdeeefe441d}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pattern Recognition and Image Analysis}
+      \field{title}{Analysis and identification of kidney stone using K th nearest neighbour (KNN) and support vector machine (SVM) classification techniques}
+      \field{volume}{27}
+      \field{year}{2017}
+      \field{pages}{574\bibrangedash 580}
+      \range{pages}{7}
+    \endentry
+    \entry{svmm6}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5859faec0505aedcd37cd60aab5ac500}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jianxin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{5859faec0505aedcd37cd60aab5ac500}
+      \strng{fullhash}{5859faec0505aedcd37cd60aab5ac500}
+      \strng{fullhashraw}{5859faec0505aedcd37cd60aab5ac500}
+      \strng{bibnamehash}{5859faec0505aedcd37cd60aab5ac500}
+      \strng{authorbibnamehash}{5859faec0505aedcd37cd60aab5ac500}
+      \strng{authornamehash}{5859faec0505aedcd37cd60aab5ac500}
+      \strng{authorfullhash}{5859faec0505aedcd37cd60aab5ac500}
+      \strng{authorfullhashraw}{5859faec0505aedcd37cd60aab5ac500}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Image Processing}
+      \field{number}{10}
+      \field{title}{Efficient HIK SVM learning for image classification}
+      \field{volume}{21}
+      \field{year}{2012}
+      \field{pages}{4442\bibrangedash 4453}
+      \range{pages}{12}
+    \endentry
+    \entry{svmm7}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=1b198e2209bcc0774264675c8138dfcd}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Zhibo},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f501ebad9362f8e3d7f7e9a064434d65}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Huanle},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94ef4c7c82eb2c701e4f187b1d9cc1ee}{%
+           family={Deng},
+           familyi={D\bibinitperiod},
+           given={Jianyuan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8cdede553c7d496dea2f52be5697d19e}{%
+           family={Loy},
+           familyi={L\bibinitperiod},
+           given={Chen\bibnamedelima Change},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eac6bd51c36ab01b51fd923b1a164141}{%
+           family={Lau},
+           familyi={L\bibinitperiod},
+           given={Wing\bibnamedelima Cheong},
+           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{18310807e29e7a6ce62f49397fc74a4f}
+      \strng{fullhash}{ff66cd889523ddff451d29d53df6ed82}
+      \strng{fullhashraw}{ff66cd889523ddff451d29d53df6ed82}
+      \strng{bibnamehash}{ff66cd889523ddff451d29d53df6ed82}
+      \strng{authorbibnamehash}{ff66cd889523ddff451d29d53df6ed82}
+      \strng{authornamehash}{18310807e29e7a6ce62f49397fc74a4f}
+      \strng{authorfullhash}{ff66cd889523ddff451d29d53df6ed82}
+      \strng{authorfullhashraw}{ff66cd889523ddff451d29d53df6ed82}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Image Processing}
+      \field{number}{12}
+      \field{title}{Robust and fast decoding of high-capacity color QR codes for mobile applications}
+      \field{volume}{27}
+      \field{year}{2018}
+      \field{pages}{6093\bibrangedash 6108}
+      \range{pages}{16}
+    \endentry
+    \entry{svmm3}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=227e34554b27c77e2d042504ef1edb97}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiao},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2f0a2cd28236992878a99779e4ef119}{%
+           family={Mahoor},
+           familyi={M\bibinitperiod},
+           given={Mohammad\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01c4c79b04e34d75d550837226d36332}{%
+           family={Mavadati},
+           familyi={M\bibinitperiod},
+           given={S.\bibnamedelimi Mohammad},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eebb4a1ca4788ca9e5946611a9e12c02}
+      \strng{fullhash}{e37bc8d2c30006e50accb742b3cc22d2}
+      \strng{fullhashraw}{e37bc8d2c30006e50accb742b3cc22d2}
+      \strng{bibnamehash}{e37bc8d2c30006e50accb742b3cc22d2}
+      \strng{authorbibnamehash}{e37bc8d2c30006e50accb742b3cc22d2}
+      \strng{authornamehash}{eebb4a1ca4788ca9e5946611a9e12c02}
+      \strng{authorfullhash}{e37bc8d2c30006e50accb742b3cc22d2}
+      \strng{authorfullhashraw}{e37bc8d2c30006e50accb742b3cc22d2}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1432-1769}
+      \field{journaltitle}{Machine Vision and Applications}
+      \field{number}{4}
+      \field{title}{Facial expression recognition using ${l}_{p}$-norm MKL multiclass-SVM}
+      \field{volume}{26}
+      \field{year}{2015}
+      \field{pages}{467\bibrangedash 483}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/s00138-015-0677-y
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s00138-015-0677-y
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s00138-015-0677-y
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{cr_rancha1}
+\endrefsection
+\endinput
+

@@ -1,17 +1,21 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'tesis.blg'
-[198] biber-MSWIN64:340> INFO - === 
-[257] Biber.pm:420> INFO - Reading 'tesis.bcf'
-[551] Biber.pm:994> INFO - Found 45 citekeys in bib section 0
-[589] Biber.pm:4463> INFO - Processing section 0
-[611] Biber.pm:4654> INFO - Looking for bibtex file 'biblio/references.bib' for section 0
+[202] biber-MSWIN64:340> INFO - === 
+[262] Biber.pm:420> INFO - Reading 'tesis.bcf'
+[554] Biber.pm:994> INFO - Found 39 citekeys in bib section 0
+[592] Biber.pm:4463> INFO - Processing section 0
+[614] Biber.pm:4654> INFO - Looking for bibtex file 'biblio/references.bib' for section 0
 [699] bibtex.pm:1713> INFO - LaTeX decoding ...
-[810] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio/references.bib'
-[1167] Utils.pm:410> ERROR - BibTeX subsystem: C:\Users\sebas\AppData\Local\Temp\biber_tmp_NnrH\33e59b5ca9ec342068223d604c3f8d55_8248.utf8, line 283, syntax error: found "url", expected end of entry ("}" or ")") (skipping to next "@")
-[1167] Biber.pm:131> WARN - legacy month field 'Oct.' in entry 'antecedente4' is not an integer - this will probably not sort properly.
-[1167] Biber.pm:131> WARN - Overwriting field 'year' with year value from field 'date' for entry 'cr_agroinforma1'
-[1167] Biber.pm:131> WARN - Overwriting field 'month' with month value from field 'date' for entry 'cr_rancha1'
-[1168] Biber.pm:131> WARN - Overwriting field 'month' with month value from field 'date' for entry 'cr_rancha4'
-[1168] Biber.pm:131> WARN - legacy month field 'aug' in entry 'teamredac2022' is not an integer - this will probably not sort properly.
-[1168] Biber.pm:133> INFO - WARNINGS: 5
-[1168] Biber.pm:136> INFO - ERRORS: 1
+[804] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio/references.bib'
+[1284] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1284] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1284] Biber.pm:4283> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[1459] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1459] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1459] Biber.pm:4283> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[1562] bbl.pm:676> INFO - Writing 'tesis.bbl' with encoding 'UTF-8'
+[1672] bbl.pm:779> INFO - Output to tesis.bbl
+[1672] Biber.pm:131> WARN - legacy month field 'Oct.' in entry 'antecedente4' is not an integer - this will probably not sort properly.
+[1673] Biber.pm:131> WARN - legacy month field 'aug' in entry 'teamredac2022' is not an integer - this will probably not sort properly.
+[1673] Biber.pm:131> WARN - I didn't find a database entry for 'cr_rancha1' (section 0)
+[1673] Biber.pm:133> INFO - WARNINGS: 3
